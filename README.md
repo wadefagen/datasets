@@ -2,6 +2,13 @@
 
 This repository contains a collection of datasets I've found useful.  Many of these datasets are clean versions of public datasets, provided in a clean, consistant format for use in data science projects.
 
+## Avaialble Datasets
+
+- [GPAs of Courses at The Unviersity of Illinois](gpa/), `gpa/uiuc-gpa-dataset.csv`
+- [Teachers Ranked as Execllent by their Students at UIUC](teachers-ranked-as-excellent/), `teachers-ranked-as-excellent/uiuc-tre-dataset.csv`
+- [UIUC Courses by thier General Education category](geneds/), `geneds/uiuc-geneds-dataset.csv`
+- [Students at The University of Illinois by their home state](students-by-state/), `students-by-state/uiuc-students-by-state.csv`
+
 ## General Format
 
 Unless otherwise noted, all datasets are CSV files where the first row contains column headers.
@@ -11,13 +18,6 @@ Common column names across multiple datasets include:
 - `Year`, a four digit year (ex: `2018`, `2017`, etc)
 - `Term`, one of `Spring`, `Summer`, `Fall`, or `Winter`
 - `YearTerm`, a four digit year followed by `-sp`, `-su`, `-fa`, or `-wi`.  For example: `2018-sp`.  This format ensure that all `YearTerm >= "2016-fa"` contains all data available from the Fall 2016 to present.
-
-## Avaialble Datasets
-
-- [GPAs of Courses at The Unviersity of Illinois](gpa/), `gpa/uiuc-gpa-dataset.csv`
-- [Teachers Ranked as Execllent by their Students at UIUC](teachers-ranked-as-excellent/), `teachers-ranked-as-excellent/uiuc-tre-dataset.csv`
-- [UIUC Courses by thier General Education category](geneds/), `geneds/uiuc-geneds-dataset.csv`
-- [Students at The University of Illinois by their home state](students-by-state/), `students-by-state/uiuc-students-by-state.csv`
 
 ## Useful Scripts
 
