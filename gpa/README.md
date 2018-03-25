@@ -3,7 +3,7 @@
 
 In July 2016, the University of Illinois responded to a Freedom of Information Act request (FOIA #16-456, and later #17-042, #17-213, and #18-150) for *"the grade distributions by percent and/or letter grade, for every class [...] at the University of Illinois at Urbana-Champaign"*.  This repository contains a record of all of the data from the above FOIA requests in a clean, documented CSV format.
 
-Download the full dataset as a single CSV file
+[Download the full dataset as a single CSV file](https://raw.githubusercontent.com/wadefagen/datasets/master/gpa/uiuc-gpa-dataset.csv)
 
 ## Data Format
 

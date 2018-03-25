@@ -1,7 +1,10 @@
 
 # University of Illinois' GenEds
 
-A collection of General Education ("Gen Ed") categories from https://courses.illinois.edu/gened/DEFAULT/DEFAULT
+A collection of General Education ("Gen Ed") categories from the [Course Explorer's GenEd Section](https://courses.illinois.edu/gened/DEFAULT/DEFAULT)
+
+[Download the full dataset as a single CSV file](https://raw.githubusercontent.com/wadefagen/datasets/master/geneds/uiuc-geneds.csv)
+
 
 ## Data Format
 
