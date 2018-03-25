@@ -1,0 +1,9 @@
+CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Primary Instructor,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,F,W,Average Grade,Standard Deviation,% 4.0's
+10002,ATMS,120,Severe and Hazardous Weather,ONL,ONL,120150,"Snodgrass, Eric R",296,42,0,2,8,1,1,1,3,0,0,0,7,0,3.86,3.925721448,0.936288089
+10003,BADM,300,The Legal Environment of Bus,ONL,ONL,120150,"Marrs, Gregory A",5,13,9,6,6,1,2,1,0,0,1,0,1,0,3.41,1.746324712,0.4
+10004,BADM,310,Mgmt and Organizational Beh,ONL,ONL,120150,"Shabbir, Muhammad S",0,27,21,3,3,1,1,0,0,0,0,0,0,0,3.73,1.098969214,0.482142857
+10005,BADM,350,IT for Networked Organizations,ONL,ONL,120150,"Sachdev, Vishal",2,8,2,5,3,0,1,2,2,1,0,0,2,0,3,1.95422619,0.357142857
+10006,BADM,380,International Business,ONL,ONL,120150,"Bucheli, Marcelo",0,9,12,5,6,5,0,2,0,3,0,0,0,0,3.24,1.848752475,0.214285714
+10007,ECON,102,Microeconomic Principles,ONL,ONL,120150,"Vazquez, Jose J",10,71,9,4,5,0,3,0,0,0,0,0,2,0,3.77,2.480944521,0.778846154
+10008,ECON,203,Economic Statistics II,ONL,ONL,120150,"Petry, Joseph A",10,6,9,6,4,1,7,5,0,2,2,0,5,1,2.85,2.812027738,0.280701754
+10009,SOC,100,Introduction to Sociology,ONL,ONL,120150,"Steward, Daniel J",0,53,9,3,2,0,0,0,0,0,1,0,0,0,3.85,1.540779024,0.779411765

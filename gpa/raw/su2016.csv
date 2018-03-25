@@ -1,0 +1,31 @@
+CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Primary Instructor,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,F,W,Average Grade,Standard Deviation,% 4.0's
+38679,ADV,490,Copywriting,C,ONL,120165,"Meron, Shachar",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36011,ANSC,542,Applied Bioinformatics,A,LCD,120165,"Rodriguez-Zas, Sandra L",2,16,1,1,0,2,0,0,0,0,0,0,0,0,3.83,0.821194252,0.818181818
+35192,ART,100,Understanding Visual Culture,JB,ONL,120165,"Burns, Jennifer",9,9,5,4,1,3,0,0,0,0,0,0,1,0,3.58,1.649103653,0.5625
+29884,BADM,300,The Legal Environment of Bus,ONL,ONL,120165,"Marrs, Gregory A",5,22,16,18,21,12,3,9,2,2,3,0,1,0,3.12,2.524473542,0.236842105
+34795,CMN,101,Public Speaking,2,LCD,120165,"Lavoie, Mark W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34804,CMN,230,Intro to Interpersonal Comm,1,LCD,120165,"Basinger, Erin D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+38349,ECON,483,Econ of Innovation and Tech,S1,LCD,120165,"Chalioti, Evangelia",8,4,9,10,3,3,1,1,0,0,0,0,0,0,3.49,1.124049599,0.307692308
+38365,ECON,529,Macroeconomics for Business,PMB,LCD,120165,"Esfahani, Hadi S",6,22,7,10,2,1,1,0,0,0,1,0,0,0,3.66,1.381213235,0.56
+37324,ENGL,593,Workshop Publishing Articles,C,LCD,120165,"Markley, Robert",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35676,EPS,415,Technology &Educational Reform,A,ONL,120165,"Burbules, Nicholas C",4,56,14,2,0,0,2,1,0,0,1,0,0,0,3.82,1.628847094,0.75
+36380,EPS,427,Philosophy of Middle School,A,ONL,120165,"Brewer, Timothy J",0,24,1,0,0,0,0,0,0,0,0,0,1,1,3.83,2.264170194,0.923076923
+29925,EPSY,420,Theories of Psychotherapy,A,ONL,120165,"Yates, Jenna A",0,19,0,2,2,0,0,0,0,0,1,0,2,0,3.45,2.683467906,0.730769231
+29943,FSHN,120,Contemporary Nutrition,A,LCD,120165,"Roach, Rebecca R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33480,GER,101,Beginning German I,A,LCD,120165,"Hader, Zachary S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35136,GER,103,Intermediate German I,C,LCD,120165,"Frohlich, Johannes",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35710,GER,260,The Holocaust in Context - ACP,B,LCD,120165,"Watzke, Petra A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36307,GLBL,100,Intro to Global Studies,A,ONL,120165,"Kohli, Tanu",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36808,GWS,335,"Film, TV, and Gender",CC,LCD,120165,"Shetina, Michael D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32823,HIST,100,Global History,A,LCD,120165,"Chmiel, Agata A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+38773,LER,522,Government Regulation,A,ONL,120165,"Leroy, Michael H",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37781,MACS,100,Intro to Popular TV & Movies,S1,LCD,120165,"Kozma, Alicia",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+38377,MUS,132,History of Rock,A,ONL,120165,"Solis, Gabriel",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+38924,MUS,132,History of Rock,A1,ONL,120165,"Solis, Gabriel",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+38893,MUS,499,LGBTQ Studies & Music Educ III,LB,DIS,120165,"Bergonzi, Louis S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31184,SPAN,122,Intensive Elementary Spanish,1C,LCD,120165,"Krebs, Kara M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37747,SPED,583,Single Case Experimntl Design,A,LCD,120165,"Meadan-Kaplansk, Hedda",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30486,THEA,101,Introduction to Theatre Arts,A,ONL,120165,"Morrissette, Jason W",17,19,4,2,1,0,1,0,1,0,0,0,0,0,3.83,1.148694912,0.8
+32255,THEA,101,Introduction to Theatre Arts,B,ONL,120165,"Morrissette, Jason W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+38775,THEA,110,Broadway Musicals,ON1,ONL,120165,"Morrissette, Jason W",18,2,4,3,1,0,0,0,0,0,0,0,1,0,3.71,1.656044484,0.689655172
+38737,UP,428,International Planning Studio,RO,LCD,120165,"Olshansky, Robert B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

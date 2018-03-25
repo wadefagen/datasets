@@ -1,0 +1,550 @@
+CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Primary Instructor,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,F,W,Average Grade,Standard Deviation,% 4.0's
+32896,AAS,100,Intro Asian American Studies,1A,LCD,120135,"Kwon, Soo Ah",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37453,ACCY,200,Fundamentals of Accounting,ONL,ONL,120135,"Silhan, Peter A",3,3,3,6,0,2,2,2,0,0,1,0,0,0,3.18,1.345306656,27%
+30565,ACCY,301,Atg Measurement & Disclosure,AE1,LCD,120135,"Asante Appiah, Bright",0,3,5,8,5,1,0,1,0,0,0,0,0,0,3.33,0.889634757,13%
+30026,ACCY,301,Atg Measurement & Disclosure,AE2,LCD,120135,"Klevsky, Elena",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30034,ACCY,302,Decision Making for Atg,AE1,LCD,120135,"Finnegan, Thomas",0,3,1,9,9,0,0,0,0,0,0,0,0,0,3.3,0.781024968,14%
+30037,ACCY,302,Decision Making for Atg,AE2,LCD,120135,"Demere, Paul M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30048,ACCY,303,Atg Institutions and Reg,AE2,LCD,120135,"Grant, Stephanie M",3,3,6,3,4,0,1,1,2,0,0,0,0,0,3.29,1.228327114,26%
+30061,ACCY,304,Accounting Control Systems,AE1,LCD,120135,"Estep, Cassandra R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30066,ACCY,304,Accounting Control Systems,AE2,LCD,120135,"Crowley, Richard M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30080,ACCY,312,Principles of Taxation,A,LCD,120135,"Holder, Daniel E",2,15,1,1,10,0,2,2,1,0,0,0,0,0,3.39,1.459768817,50%
+30069,ACCY,405,Assurance and Attestation,AE1,LCD,120135,"Hillison, Sean M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30074,ACCY,405,Assurance and Attestation,AE2,LCD,120135,"Gordon, Shawn J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34354,ACCY,500,"Atg Measuremnt, Rpting & Cntrl",PT,LCD,120135,"Sandretto, Michael J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30083,ACCY,501,Accounting Analysis I,A,LCD,120135,"Ibrahim, Adel Nematallah",0,16,9,6,6,1,0,0,0,0,0,0,0,0,3.62,1.107718376,42%
+30086,ACCY,501,Accounting Analysis I,B,LCD,120135,"Ibrahim, Adel Nematallah",0,11,7,8,6,2,0,0,0,0,0,0,0,0,3.52,1.105947558,32%
+32912,ACCY,501,Accounting Analysis I,C,LCD,120135,"Ibrahim, Adel Nematallah",0,9,11,10,5,1,0,0,0,0,0,0,0,0,3.54,0.992532115,25%
+36386,ACCY,503,Managerial Accounting,CT,LCD,120135,"Carroll, Sandra",0,10,9,9,2,0,0,1,0,0,0,0,0,0,3.58,1.074094968,32%
+32291,ACCY,551,Corporate Income Taxation,CHI,LCD,120135,"Shaw, Jeffrey M",6,3,0,6,14,0,0,0,0,0,1,0,0,0,3.3,1.480540442,30%
+37076,ACCY,557,Accounting Periods & Methods,CHI,LCD,120135,"Aquino, Glenn D",0,20,0,0,7,0,0,3,0,0,0,0,0,0,3.57,2.110845012,67%
+37074,ACCY,559,Tax Policy,CH1,LCD,120135,"Giertz, J F",0,9,14,7,0,0,0,0,0,0,0,0,0,0,3.69,0.802288394,30%
+37075,ACCY,559,IRS Procedures,CH2,LCD,120135,"Meier, Walter K",1,9,9,4,5,2,0,0,0,0,0,0,0,0,3.56,0.95131488,33%
+34580,ACCY,560,Information in Value Creation,B,LCD,120135,"Chandler, John S",4,16,14,2,1,0,0,0,0,0,0,0,0,0,3.81,0.643070758,54%
+34342,ACCY,560,Information in Value Creation,CHI,LCD,120135,"Chandler, John S",14,10,4,2,0,0,0,0,0,0,0,0,0,0,3.91,0.527967802,80%
+30104,ACCY,593,Special Research Problems,S,CNF,120135,"Peecher, Mark E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37030,ACE,100,Agr Cons and Resource Econ,ONL,ONL,120135,"Gundersen, Lisa C",0,9,1,7,1,1,2,0,0,1,1,0,1,1,3.15,1.719172928,38%
+36921,ADV,310,Intro to Public Relations,ONL,ONL,120135,"Olson, Katrina M",7,24,14,9,7,5,1,1,0,0,0,0,0,0,3.59,1.445977178,46%
+36343,ADV,350,Writing for Public Relations,ONL,ONL,120135,"Friedman, Judith S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36501,ADV,399,Advertising Study Abroad,ROM,STA,120135,"DiBerardino, Linnea J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34793,ADV,410,Advanced Public Relations,A,ONL,120135,"Olson, Katrina M",1,12,4,4,1,2,0,0,0,0,0,0,0,0,3.68,0.845931439,54%
+37229,AFRO,598,Res Sem in African-Am Studies,0,CNF,120135,"Noble, Safiya U",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36961,AGCM,270,Sales Communications,ONL,ONL,120135,"Cupps-Miller, Heather A",0,17,0,1,6,0,1,1,0,2,1,0,1,0,3.24,2.110450189,57%
+37126,AGED,550,Advanced Program Delivery,GR,ONL,120135,"Clark, Richard W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37374,AIS,275,Am Indian and Indigenous Film,1,LCD,120135,"Teves, Stephanie N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30180,ANSC,110,Life With Animals and Biotech,1,LCD,120135,"Kesler, Darrel J",3,41,0,0,3,1,0,0,0,0,0,0,0,0,3.91,1.037400598,92%
+36422,ANSC,207,Companion Animal Biology &Care,A,ONL,120135,"Brandt, Adam L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36908,ANSC,331,Biology of Reproduction,A,ONL,120135,"Nowak, Romana A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37669,ANSC,398,Undergraduate Research,A,CNF,120135,"Gaskins, H R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36011,ANSC,542,Applied Bioinformatics,A,LCD,120135,"Rodriguez-Zas, Sandra L",0,28,2,1,0,0,0,2,0,0,0,0,0,1,3.84,1.398105862,85%
+36296,ANTH,103,Anthro in a Changing World,ONL,ONL,120135,"O' Brien, Kathleen C",7,29,28,10,21,8,3,8,3,1,1,2,9,0,3.05,3.551651837,28%
+37322,ANTH,105,World Archaeology,1,LCD,120135,"Bauer, Andrew",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36297,ANTH,143,Biology of Human Behavior,ONL,ONL,120135,"Uhl, Natalie M",7,17,8,1,11,2,0,5,3,2,1,2,4,0,2.97,2.807441006,38%
+35406,ANTH,180,The Archaeology of Death,1,LCD,120135,"Silverman, Helaine I",13,7,3,1,2,1,1,0,0,0,1,0,0,0,3.67,1.282677863,69%
+35407,ANTH,411,Methods of Cultural Anth,1U,LCD,120135,"Gottlieb, Alma J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33737,ARAB,201,Elementary Standard Arabic I,A1,LCD,120135,"Hermes, Zainab A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33738,ARAB,202,Elementary Standard Arabic II,A1,LCD,120135,"Hermes, Zainab A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33675,ARAB,403,Intermediate Stand Arabic I,A1,LCD,120135,"Bidaoui, Abdelaadim",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33676,ARAB,404,Intermediate Stand Arabic II,B1,LCD,120135,"Bidaoui, Abdelaadim",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33704,ARAB,405,Advanced Standard Arabic I,A1,LCD,120135,"Saadah, Eman",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33705,ARAB,406,Advanced Standard Arabic II,A1,LCD,120135,"Saadah, Eman",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34653,ARAB,407,Topics Stand Arabic Lang&Lit I,A2,LCD,120135,"Saadah, Eman",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34655,ARAB,408,Topics Stand Arabic LangLit II,A2,LCD,120135,"Saadah, Eman",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37415,ARCH,475,Arch Design & Development,E1,LAB,120135,"Greenlee, Camden L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37416,ARCH,475,Arch Design & Development,E2,LAB,120135,"Kim, Michael K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37421,ARCH,572,Design: Behavior & Environment,E0,LAB,120135,"Hinders, Kevin J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37432,ASTR,100,Introduction to Astronomy,ONL,ONL,120135,"Looney, Leslie W",5,8,8,5,1,2,3,1,2,0,4,2,2,0,2.88,2.370780462,30%
+36300,ATMS,120,Severe and Hazardous Weather,ONL,ONL,120135,"Snodgrass, Eric R",147,85,16,8,9,1,3,5,1,2,1,1,4,0,3.77,3.200753517,82%
+30300,AVI,101,Private Pilot I,AE1,LCD,120135,"Nusbaum, Daniel P",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30593,AVI,120,Private Pilot II,AE1,LCD,120135,"Lucas, David J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30606,AVI,130,Commercial - Instrument I,AE1,LCD,120135,"Beck, Jeffrey C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30613,AVI,140,Commercial - Instrument II,AE1,LCD,120135,"Lucas, David J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30623,AVI,200,Commercial Pilot I,AE1,LCD,120135,"Hinebaugh, Kristina L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30630,AVI,210,Commercial Pilot II,AE1,LCD,120135,"West, Lawrence R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30643,AVI,320,Flight Instructor-Airplane,AE1,LCD,120135,"Wofford, Michael G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30656,AVI,322,Instrument Flight Instructor,FD,FL,120135,"Phillips, Sybil I",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29880,AVI,380,Multiengine Land,F12,FL,120135,"Phillips, Sybil I",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29881,AVI,380,Multiengine Land,F13,FL,120135,"Phillips, Sybil I",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29882,AVI,380,Multiengine Land,F14,FL,120135,"Phillips, Sybil I",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30671,AVI,380,Multiengine Land,FB,FL,120135,"Phillips, Sybil I",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30675,AVI,380,Multiengine Land,FE,FL,120135,"Phillips, Sybil I",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30677,AVI,381,Cockpit Resource Management,AE1,LCD,120135,"Talleur, Donald A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29884,BADM,300,The Legal Environment of Bus,A,LCD,120135,"Lansing, Paul",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34350,BADM,300,The Legal Environment of Bus,B,LCD,120135,"Kindt, John W",15,19,0,1,1,0,0,0,0,0,0,0,0,0,3.95,0.593717104,94%
+37386,BADM,300,The Legal Environment of Bus,OL,ONL,120135,"Marrs, Gregory A",6,8,6,2,4,0,0,1,0,0,0,0,0,0,3.65,1.031786477,52%
+29889,BADM,310,Mgmt and Organizational Beh,A,LCD,120135,"Prince, Nicholas R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36472,BADM,310,Mgmt and Organizational Beh,OL,ONL,120135,"Shabbir, Muhammad S",0,24,23,14,3,1,2,1,1,0,1,1,0,0,3.5,1.770028248,34%
+36859,BADM,320,Principles of Marketing,A1,LCD,120135,"Ha, Younhee",25,5,3,1,2,1,0,0,0,0,0,0,0,1,3.87,0.795958542,81%
+36473,BADM,320,Principles of Marketing,OL,ONL,120135,"Shabbir, Muhammad S",0,44,28,6,8,2,0,2,0,0,0,0,4,0,3.53,3.139531357,47%
+36474,BADM,350,IT for Networked Organizations,OL,ONL,120135,"Sachdev, Vishal",2,13,13,6,5,5,1,0,0,0,0,0,0,0,3.52,1.217139504,33%
+36475,BADM,380,International Business,OL,ONL,120135,"Bucheli, Marcelo",0,2,4,9,2,3,1,1,0,0,0,0,0,0,3.23,0.881540859,9%
+34221,BADM,551,Managing Intellectual Property,ADV,LCD,120135,"Bradley, Joe A",2,9,23,7,1,0,0,0,0,0,0,0,0,0,3.68,0.722329565,26%
+30705,BADM,567,Process Management,A,LCD,120135,"Chhajed, Dilip",1,11,9,10,6,0,0,0,0,0,0,0,0,0,3.58,1.004868151,32%
+35684,BADM,567,Process Management,B,LCD,120135,"Chhajed, Dilip",1,9,10,8,7,2,0,1,0,0,0,0,0,0,3.47,1.09949339,26%
+36402,BADM,572,Stat for Mgt Decision Making,OL,ONL,120135,"Palekar, Udatta S",25,21,3,3,1,1,0,0,0,0,0,0,0,0,3.9,0.807258736,85%
+33608,BADM,573,Quant Analysis of Decisions,CT,LCD,120135,"Anand, Gopesh J",0,7,9,9,6,0,0,1,0,0,0,0,0,0,3.47,1.112546628,22%
+36861,BADM,582,Multinational Management,EM,LCD,120135,"Cheng, Joseph L",0,3,5,14,5,0,0,0,0,0,0,0,0,0,3.41,0.786558962,11%
+32848,BADM,590,Technology Practicum,ADT,LCD,120135,"Kurtz, Jeffrey M",0,44,0,0,2,0,0,0,0,0,0,0,0,0,3.96,0.978161541,96%
+36596,BADM,590,Business Practice Immersion,GRI,LCD,120135,"Chhajed, Dilip",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30718,BTW,250,Principles Bus Comm,B,LCD,120135,"Hanson, Justin N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30712,BTW,250,Principles Bus Comm,D,LCD,120135,"McQuiston, Erin S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36344,BTW,250,Principles Bus Comm,OL1,ONL,120135,"Sunia, Patricia G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36349,BTW,250,Principles Bus Comm,OL2,ONL,120135,"Dickison, Carrie N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36350,BTW,250,Principles Bus Comm,OL3,ONL,120135,"Tienou, Debora",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36487,BTW,250,Principles Bus Comm,OL4,ONL,120135,"Williams, Kelly E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30709,BTW,250,Principles Bus Comm,OL5,ONL,120135,"Schroeder, Erin A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37033,CEE,407,Airport Design,ONL,ONL,120135,"Herrin, Stanley M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36942,CEE,422,Construction Cost Analysis,ONL,ONL,120135,"Liu, Liang Y",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30817,CEE,422,Construction Cost Analysis,UG3,LCD,120135,"Liu, Liang Y",0,8,9,5,3,5,0,2,0,0,0,0,0,0,3.39,1.328106421,25%
+30819,CEE,469,Wood Structures,UG3,LCD,120135,"Gurfinkel, German",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37439,CEE,498,Experimntl Mthds Strct & Mat,KUC,LBD,120135,"Kuchma, Daniel A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30822,CHEM,102,General Chemistry I,AL1,LEC,120135,"Hummel, Thomas J",3,14,1,8,7,6,8,8,5,3,2,0,3,0,2.71,2.532567867,25%
+30828,CHEM,103,General Chemistry Lab I,11,LAB,120135,"Tu, Andy",4,22,2,1,3,0,0,1,0,0,0,0,1,0,3.7,1.713392625,76%
+30825,CHEM,104,General Chemistry II,AL1,LEC,120135,"Ray, Christian R",2,5,3,7,12,7,8,9,7,0,0,0,4,1,2.58,2.437736655,11%
+30829,CHEM,105,General Chemistry Lab II,21,LAB,120135,"Ray, Christian R",12,13,5,1,2,1,0,1,0,0,0,1,0,0,3.7,1.426534262,69%
+33499,CHEM,232,Elementary Organic Chemistry I,A,ONL,120135,"Rafferty, Ryan",4,16,2,4,18,2,7,23,0,0,7,0,3,2,2.67,3.05354548,23%
+30836,CHEM,233,Elementary Organic Chem Lab I,AL1,LEC,120135,"Rafferty, Ryan",0,10,0,3,15,1,3,14,0,0,0,0,1,0,2.82,2.180851734,21%
+30838,CHEM,332,Elementary Organic Chem II,A,LCD,120135,"Hawkes, Daryl A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36301,CHEM,332,Elementary Organic Chem II,OL2,ONL,120135,"Hawkes, Daryl A",0,15,15,4,10,1,2,2,2,0,0,0,0,0,3.39,1.620381899,29%
+30840,CHEM,442,Physical Chemistry I,1,LEC,120135,"Nicely, Amy L",4,3,2,2,3,2,3,1,0,1,2,0,3,0,2.64,2.029366224,27%
+30841,CHIN,201,Elementary Chinese I,2A,LCD,120135,"Wang, Mei",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30842,CHIN,202,Elementary Chinese II,2B,LCD,120135,"Yao, Yun",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36278,CHLH,100,Contemporary Health,ON2,ONL,120135,"Trask, Jeffrey T",1,6,16,10,11,7,1,3,1,1,1,0,0,1,3.17,1.554471556,12%
+30845,CHLH,101,Introduction to Public Health,A,LEC,120135,"Wang, Qian",0,6,4,3,3,4,3,3,1,0,0,0,1,0,2.96,1.623535237,21%
+29898,CHLH,206,Human Sexuality,A1,LCD,120135,"Darfour-Oduro, Sandra A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36274,CHLH,206,Human Sexuality,ON2,ONL,120135,"Rinaldi-Miles, Anna I",1,5,7,5,9,5,1,6,2,5,1,0,3,0,2.64,2.221898588,12%
+29896,CHLH,243,Drug Use and Abuse,A1,LCD,120135,"Lange, Dustin D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36276,CHLH,243,Drug Use and Abuse,ONL,ONL,120135,"Kersh, Renique",4,13,4,3,4,3,7,2,0,3,0,0,1,0,3.11,2.051253275,39%
+30854,CHLH,494,Special Topics,B,LCD,120135,"O'Rourke, Thomas W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37355,CHLH,587,MPH Practicum,A,LEC,120135,"Hann, Lena",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37028,CHLH,589,Public Health Capstone Expnce,B,LEC,120135,"Hann, Lena",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36379,CI,410,Middle School Instruction,A,ONL,120135,"Dean, Sheila R",0,13,14,4,0,2,0,0,0,0,0,0,0,0,3.7,0.975961065,39%
+32573,CI,499,Ent Leadership in STEM Ed,CT,LCD,120135,"Price, Raymond L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37591,CI,499,"Genes, Proteins & Behavior",NR1,LCD,120135,"Hug, Barbara",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37532,CI,560,Trends & Issues Language Arts,A,ONL,120135,"Cope, William",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30753,CI,577,Clinical Practicum in Reading,A,LCD,120135,"McCarthey, Sarah J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37533,CI,590,Crit & Soc Just Persp on Pedag,A,ONL,120135,"Dixson, Adrienne D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37431,CLCV,102,Medical Terms-GRK & LAT Roots,O,ONL,120135,"McConnell, Ryan E",1,9,7,3,1,4,0,4,0,0,0,0,3,0,3.04,2.371265485,31%
+30857,CLCV,114,Introduction to Greek Culture,D1,LCD,120135,"Yona, Sergio",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30859,CLCV,115,Mythology of Greece and Rome,C,LCD,120135,"Abosso, Daniel H",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30861,CLCV,115,Mythology of Greece and Rome,D,LCD,120135,"McVey, Aine C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34794,CMN,101,Public Speaking,1,LCD,120135,"Tokarz, David M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34795,CMN,101,Public Speaking,2,LCD,120135,"Irwin, Katie L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34798,CMN,102,Intro to Comm Theory & Res,1,LCD,120135,"Boone, George W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34799,CMN,102,Intro to Comm Theory & Res,2,LCD,120135,"Martinez, Jermaine",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34800,CMN,211,Business Communication,1,LCD,120135,"Lammers, John C",0,4,4,5,3,3,0,0,2,2,0,1,0,0,2.96,1.623899627,17%
+34802,CMN,212,Intro to Organizational Comm,1,ONL,120135,"Atouba Ada, Yannick Lione",0,5,1,2,4,5,2,4,0,1,0,0,0,0,2.9,1.311964176,21%
+34803,CMN,220,Communicating Public Policy,1,LCD,120135,"Singh, Rohini S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34804,CMN,230,Intro to Interpersonal Comm,1,LCD,120135,"Roache, David J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34805,CMN,230,Intro to Interpersonal Comm,2,LCD,120135,"Lavoie, Mark W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34806,CMN,260,Intro to Health Communication,OL2,ONL,120135,"Klean Zwilling, Jillian M",0,2,5,2,2,2,1,5,2,0,1,2,2,0,2.4,1.837488404,8%
+36320,CMN,260,Intro to Health Communication,OL3,ONL,120135,"Pusateri, Kimberly B",0,1,5,1,1,5,2,3,2,0,0,1,0,0,2.7,1.287978606,5%
+37558,CMN,260,Intro to Health Communication,OL4,ONL,120135,"Varava, Kira A",0,0,5,1,5,3,3,3,1,0,2,0,1,0,2.56,1.541153969,0%
+36318,CMN,260,Intro to Health Communication,ONL,ONL,120135,"Zupancic, Heather M",0,7,5,3,0,2,3,2,1,0,0,0,2,0,2.97,2.032440036,28%
+37340,CMN,336,Family Communication,1,ONL,120135,"Delaney, Amelia L",0,3,2,1,4,0,1,3,2,0,3,0,5,1,2.06,2.276898475,13%
+37341,CMN,336,Family Communication,2,ONL,120135,"McAninch, Kelly",0,2,2,1,4,3,3,3,1,0,0,1,1,0,2.57,1.41488162,10%
+37433,CMN,340,Visual Politics,1,LCD,120135,"Lowe, Marissa E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35518,CMN,396,Personal Relationships &Techno,2,LCD,120135,"Sharabi, Liesel",4,9,2,2,2,3,2,1,0,0,0,0,2,0,3.21,1.920841829,48%
+36778,CMN,496,Procedural Rhetoric,UG1,LCD,120135,"O'Gorman, Thomas E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37002,CMN,506,Health Informatics,ONL,ONL,120135,"MacMullen, William J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34812,CMN,529,Measurement Comm Research,1,LCD,120135,"Knobloch, Leanne",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37003,CMN,575,Capstone Individual Study,ONL,ONL,120135,"Lammers, John C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37462,CMN,595,Mass Media and Health,BQ1,ONL,120135,"Quick, Brian L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36314,CPSC,336,Tomorrow's Environment,B,ONL,120135,"Rayburn, A L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36434,CPSC,382,Organic Chem of Biol Processes,DJB,ONL,120135,"Briskin, Donald P",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30864,CPSC,454,Plant Breeding Methods,A,LBD,120135,"Diers, Brian W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36984,CPSC,499,Org Chem for Plant Sciences,XM2,ONL,120135,"Briskin, Donald P",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30758,CS,101,Intro Computing: Engrg & Sci,AY1,LBD,120135,"Gambill, Thomas N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30759,CS,101,Intro Computing: Engrg & Sci,AY2,LBD,120135,"Gambill, Thomas N",1,7,2,5,4,3,6,2,1,3,1,1,1,0,2.74,1.768162888,22%
+36797,CS,173,Discrete Structures,AD1,DIS,120135,"Evans, Graham C",4,8,7,8,6,11,2,5,5,0,1,1,2,1,2.87,2.198522231,20%
+30770,CS,225,Data Structures,AL1,LEC,120135,"Massung, Sean A",3,12,4,6,7,5,5,1,4,3,2,2,2,2,2.8,2.339131989,27%
+37387,CS,357,Numerical Methods I,M,LCD,120135,"Gambill, Thomas N",12,10,15,4,4,1,3,1,1,0,0,0,0,1,3.56,1.393381179,43%
+34776,CS,373,Theory of Computation,AL1,LEC,120135,"Di Febo, Joseph",5,16,3,3,4,2,2,3,3,1,0,0,0,0,3.32,1.748851051,50%
+34501,CS,421,Progrmg Languages & Compilers,OL1,ONL,120135,"Mansky, William E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30792,CS,421,Progrmg Languages & Compilers,P3,LCD,120135,"Mansky, William E",5,5,4,3,9,0,1,4,0,1,1,0,1,2,3.09,1.801982242,29%
+33105,CS,425,Distributed Systems,ONL,ONL,120135,"Mechitov, Kirill A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32959,CS,425,Distributed Systems,T3,LCD,120135,"Mechitov, Kirill A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36946,CS,528,Obj-Oriented Progrmg & Design,ONL,ONL,120135,"Zilles, Craig",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36672,CS,528,Obj-Oriented Progrmg & Design,OPD,LCD,120135,"Zilles, Craig",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32865,CW,104,Introductory Narrative Writing,D,LCD,120135,"Madonick, Michael D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36010,DANC,100,Intro to Contemporary Dance,OL1,ONL,120135,"Archibald, Renee E",4,7,10,5,6,6,1,4,0,0,0,0,2,0,3.15,2.062697802,24%
+36926,DANC,100,Composing w/ Movement & Video,OL2,ONL,120135,"Kelley, Kathleen M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29911,EALC,250,Intro to Japanese Culture,A,LCD,120135,"Ruppert, Brian D",2,7,6,3,4,0,0,0,0,0,0,0,0,0,3.64,0.796642956,41%
+30390,ECE,205,Elec & Electronic Circuits,A,LEC,120135,"Roppo, Mike",0,1,1,2,4,1,1,6,2,3,3,0,3,0,1.99,1.692085856,4%
+30392,ECE,206,Elec & Electronic Circuits Lab,A1,LAB,120135,"Roppo, Mike",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30395,ECE,206,Elec & Electronic Circuits Lab,A2,LAB,120135,"Roppo, Mike",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30413,ECE,210,Analog Signal Processing,AL1,LEC,120135,"Alvarez, Juan",3,4,0,1,5,3,2,3,1,0,0,0,1,2,2.9,1.556349004,30%
+30414,ECE,211,Analog Circuits & Systems,D,LEC,120135,"Alvarez, Juan",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36226,ECE,310,Digital Signal Processing,A,LEC,120135,"Radhakrishnan, Chandrasek",0,13,3,4,5,0,0,1,1,0,0,0,0,0,3.52,1.307720663,48%
+36227,ECE,311,Digital Signal Processing Lab,A,LAB,120135,"Radhakrishnan, Chandrasek",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33752,ECE,313,Probability with Engrg Applic,X,DIS,120135,"Zhu, Ji",2,5,5,4,6,4,7,4,5,0,2,0,0,1,2.8,1.7958285,16%
+30415,ECE,329,Fields and Waves I,D,DIS,120135,"Kudeki, Erhan",10,12,4,3,4,9,2,7,2,0,0,0,0,0,3.22,1.934631748,42%
+36229,ECE,342,Electronic Circuits,D,LEC,120135,"Schutt-Aine, Jose E",5,8,6,4,5,2,1,3,4,0,0,0,0,0,3.23,1.654831311,34%
+36230,ECE,343,Electronic Circuits Laboratory,F,LAB,120135,"Radhakrishnan, Chandrasek",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36231,ECE,343,Electronic Circuits Laboratory,G,LAB,120135,"Radhakrishnan, Chandrasek",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36232,ECE,350,Fields and Waves II,C,DIS,120135,"Schutt-Aine, Jose E",4,7,3,4,5,0,0,1,0,0,0,0,0,0,3.56,1.037657619,46%
+30473,ECE,444,IC Device Theory & Fabrication,AL1,LEC,120135,"Sievers, Dane J",2,9,2,1,7,1,0,2,1,0,0,0,0,1,3.36,1.251898558,44%
+30477,ECON,102,Microeconomic Principles,1A,LCD,120135,"DiIanni, Isaac",1,3,4,2,3,5,1,0,2,0,1,0,1,1,2.89,1.523492698,17%
+36304,ECON,102,Microeconomic Principles,ONL,ONL,120135,"Vazquez, Jose J",3,57,13,11,15,2,2,2,0,1,1,0,8,0,3.35,3.50334256,52%
+29915,ECON,103,Macroeconomic Principles,1,LCD,120135,"Gottheil, Fred M",1,13,3,3,2,1,1,0,0,1,1,0,0,0,3.47,1.390099916,54%
+30480,ECON,103,Macroeconomic Principles,1B,LCD,120135,"Leite Estanisla, Luiz Fel",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37312,ECON,103,Macroeconomic Principles,ONL,ONL,120135,"Petry, Joseph A",4,8,9,7,13,5,3,3,0,1,0,1,2,0,3.07,2.086371361,21%
+30481,ECON,202,Economic Statistics I,AL3,LCD,120135,"Feng, Xue",2,6,4,2,4,1,2,3,0,0,1,2,0,1,3,1.696761621,30%
+30483,ECON,203,Economic Statistics II,AL3,LCD,120135,"Heydari Bararde, Yashar",8,5,9,4,9,6,7,7,3,2,0,0,0,0,2.99,1.98962308,22%
+29918,ECON,302,Inter Microeconomic Theory,1,LCD,120135,"Arvin-Rad, Hassan",3,7,3,9,6,3,6,8,2,2,1,1,3,3,2.68,2.204987354,19%
+37353,ECON,411,Public Sector Economics,UG3,LCD,120135,"Arvin-Rad, Hassan",1,2,2,1,4,1,0,7,0,1,2,0,0,0,2.6,1.444145268,14%
+36999,ECON,480,Industrial Comp and Monopoly,UG3,LCD,120135,"Toossi Ardakani, Ali",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37452,ECON,490,Economics of Sports,DB,LCD,120135,"Bernotas, David W",0,24,0,0,1,0,0,1,0,0,0,0,1,1,3.74,2.190045662,89%
+30571,ECON,552,Computable G E Modeling,M,LCD,120135,"Rashid, Salim",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37551,ECON,562,Adv Topics in Econ Theory II,1,LCD,120135,"Villamil, Anne",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30568,ECON,563,Monetary Theory,M1,LCD,120135,"Sprenkle, Case M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30569,ECON,568,Macroeconomics for Business,X,LCD,120135,"Esfahani, Hadi S",7,14,6,3,2,0,0,0,0,0,0,0,0,0,3.81,0.764617551,66%
+33655,ECON,568,Macroeconomics for Business,XMB,LEC,120135,"Esfahani, Hadi S",3,31,11,4,2,0,1,0,1,0,0,0,0,0,3.77,1.217004519,64%
+30573,ECON,576,Time Series Analysis in Econ,M,LCD,120135,"Toossi Ardakani, Ali",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37367,EIL,411,Intro to TESL Methodology,HB3,ONL,120135,"Bishop, Hugh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36860,EIL,460,Principles of Language Testing,FD3,ONL,120135,"Walters, Francis S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36771,EIL,486,Ling for Language Teachers,HB3,ONL,120135,"Bishop, Hugh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37151,EIL,486,Ling for Language Teachers,U3,ONL,120135,"Ingels, Sue A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30050,EIL,489,Theoretical Foundations of SLA,SI3,ONL,120135,"Ingels, Sue A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37086,ENG,198,IEFX Projects,PRJ,LCD,120135,"Wilcox, Bryan R",5,31,17,4,1,0,0,0,0,0,0,0,0,0,3.84,0.790797066,62%
+37466,ENG,451,Success in the Workplace,SW1,ONL,120135,"Zehr, Sarah M",1,11,2,3,1,0,1,2,0,1,0,0,0,0,3.45,1.331117951,55%
+35614,ENG,460,Entrepreneurship for Engineers,ONL,ONL,120135,"Magelli, Paul J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35615,ENG,466,High-Tech Venture Marketing,ONL,ONL,120135,"Clifton, Rhiannon L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36222,ENG,471,Seminar Energy & Sustain Engrg,ONL,ONL,120135,"Abelson, John R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36223,ENG,560,Managing Advanced Technol I,ONL,ONL,120135,"Vojak, Bruce A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36224,ENG,561,Managing Advanced Technol II,ONL,ONL,120135,"Vojak, Bruce A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35131,ENG,565,Technol Innovation & Strategy,ONL,ONL,120135,"Chopra, Sanjiv",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35616,ENG,567,Venture Funded Startups,ONL,ONL,120135,"Chopra, Sanjiv",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36321,ENGL,104,Intro to Film,ONL,ONL,120135,"Slobodnik, Sydney J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32454,ENGL,109,Intro to Fiction-ACP,D,LCD,120135,"Barrett, Robert W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37323,ENGL,247,The British Novel,B,LCD,120135,"Wood, Gillen D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34214,ENGL,301,Critical Approaches to Lit,X,LCD,120135,"Loughran, Patricia",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29934,ENGL,455,Martin Scorsese,1G,LCD,120135,"Capino, Jose B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30654,ENGL,455,Hitchcock,2U,LCD,120135,"Hansen, James A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29936,ENGL,461,Irish Myths and Legends,1G,LCD,120135,"Wright, Charles D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37324,ENGL,593,Professionalize Future Faculty,B,LCD,120135,"Hutner, Gordon",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36323,ENSU,310,Renewable & Alternative Energy,ON2,ONL,120135,"Snodgrass, Eric R",6,13,4,3,2,0,1,0,0,0,0,0,1,0,3.63,1.633882318,63%
+31164,EOL,540,Intro to Edu Admin.,A,LEC,120135,"Sloat, Linda S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31165,EOL,541,Instructional Supervision,A,LEC,120135,"Hackmann, Donald",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35652,EOL,548,Poli & Cultural Context of Ed,CHI,LCD,120135,"Hunter, Richard C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33140,EOL,562,School District Management,1,LCD,120135,"Alexander, Samuel K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37557,EOL,563,The School Superintendency,OB,LCD,120135,"Herrmann, Mary B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30661,EOL,590,International Higher Education,IHE,ONL,120135,"Herman, Richard H",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+18097,EOL,590,Readings in Educational Policy,JDA,LCD,120135,"Anderson, James D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36356,EPS,201,Foundations of Education,ONL,ONL,120135,"Riddick, Shana N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36358,EPS,310,Race and Cultural Diversity,A,ONL,120135,"Anderson, James D",6,6,1,0,6,0,0,0,0,0,0,0,3,0,3.17,2.788110471,55%
+37140,EPS,310,Race and Cultural Diversity,B,ONL,120135,"Anderson, James D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36366,EPS,400,History of American Education,CS1,LCD,120135,"Span, Christopher",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35676,EPS,415,Technology &Educational Reform,A,ONL,120135,"Mayo, Cris S",0,70,7,2,0,0,0,0,0,0,0,0,1,0,3.9,2.056088519,88%
+35166,EPS,420,Sociology of Education,BRB,LCD,120135,"Barnett, Bernice M",6,1,6,4,5,3,0,0,0,0,0,0,1,1,3.36,1.550096771,27%
+37138,EPS,590,Study Abroad Exper & Issues,A,ONL,120135,"Herrera, Linda",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35953,EPS,590,Readings in Educational Policy,JDA,LCD,120135,"Anderson, James D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37137,EPS,590,International Higher Education,ONC,ONL,120135,"Herman, Richard H",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37435,EPSY,220,Career Theory and Practice,OL,ONL,120135,"Brooks, James",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34682,EPSY,407,Adult Learning and Development,A,ONL,120135,"Zola, David",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37522,EPSY,490,Developments in Educ Psyc,B,ONL,120135,"Zola, David",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32356,EPSY,490,Developments in Educ Psyc,OB,LCD,120135,"Rounds, James",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37536,EPSY,556,Analysis of Adv Instruct Tech,A,ONL,120135,"Cope, William",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37538,EPSY,590,Global Issues in Lrn & Pedago,A,ONL,120135,"Lo, Adrienne S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36940,ESE,320,"Water Planet, Water Crisis",A,ONL,120135,"Cole, Todd M",8,15,3,6,8,0,2,2,1,0,0,0,0,0,3.5,1.530114375,51%
+30674,FIN,221,Corporate Finance,A,LCD,120135,"Agarwal, Charu",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29939,FIN,221,Corporate Finance,B,LCD,120135,"Kim, Taehyun",2,9,0,3,5,0,2,4,0,0,1,0,0,0,3.18,1.667864332,42%
+29940,FIN,221,Corporate Finance,B1,ONL,120135,"Maurer, Martin",3,28,2,1,5,0,1,0,0,0,1,0,1,0,3.64,1.877604857,74%
+36168,FIN,502,Quantitative Finance,QM1,LCD,120135,"Petry, Joseph A",4,27,12,5,5,1,1,0,0,0,0,0,0,0,3.72,1.131749594,56%
+36169,FIN,502,Quantitative Finance,QM2,LCD,120135,"Petry, Joseph A",3,32,16,4,3,0,0,0,0,0,0,0,0,0,3.81,0.945071426,60%
+30701,FIN,511,Investments,EMB,LCD,120135,"Weisbenner, Scott J",3,10,4,7,7,1,0,0,0,0,0,0,0,0,3.55,1,41%
+30708,FIN,511,Investments,MSA,LCD,120135,"Peters, Stephen R",0,20,10,13,3,2,0,0,0,0,0,0,0,0,3.63,1.193582842,42%
+33636,FIN,580,Corp Finance and Valuation,CF1,LEC,120135,"Kannan, Srinivasan",1,39,6,5,5,2,0,0,0,0,0,0,0,0,3.78,1.190322085,69%
+33637,FIN,580,Corp Finance and Valuation,CF2,LEC,120135,"Kannan, Srinivasan",3,38,6,3,2,2,1,0,0,0,0,0,0,0,3.81,1.094760248,75%
+36894,FIN,580,Advanced Corporate Finance,MSA,LCD,120135,"Peters, Stephen R",0,9,7,10,4,2,0,0,0,0,0,0,0,0,3.51,1.020509677,28%
+30715,FR,102,Elementary French II,B,LCD,120135,"Zulato, Alessia",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30717,FR,104,Intermediate French II,D,LCD,120135,"Laforet, Johnny A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31264,FSHN,340,Food Production and Service,AL1,LEC,120135,"Craft, Jill N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35661,FSHN,595,Fruit & Vegetable Processing,XM,ONL,120135,"Barth, Mary M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37301,GEOG,105,The Digital Earth,ONL,ONL,120135,"Robinson, Edward",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36483,GEOL,100,Planet Earth,ONL,ONL,120135,"Herrstrom, Eileen A",1,10,3,1,3,0,1,2,1,2,1,1,1,2,2.95,1.842722171,41%
+37296,GEOL,117,The Oceans,ONL,ONL,120135,"Hurst, Stephen D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36837,GEOL,118,Natural Disasters,ONL,ONL,120135,"Altaner, Stephen P",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30761,GEOL,417,"Geol Field Methods, Western US",A,LBD,120135,"Stewart, Michael A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33480,GER,101,Beginning German I,A,LCD,120135,"Mahoney, William M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30765,GER,102,Beginning German II,C,LCD,120135,"Duntz, Andrea L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35136,GER,103,Intermediate German I,C,LCD,120135,"Hennebohl, Sarah M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30767,GER,104,Intermediate German II,X,LCD,120135,"Castle, Jeffrey D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35707,GER,250,Grimms' Fairy Tales in Context,F,LCD,120135,"Heinz, Esther Abigail",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35710,GER,260,The Holocaust in Context,B,LCD,120135,"Tubb, Isaac J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30769,GER,500,Readings in German Grads I,B,LCD,120135,"Blair, Bradley M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36770,GER,501,Readings in German Grads II,B,LCD,120135,"Fuchs, Renata",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36307,GLBL,100,Intro to Global Studies,TW,ONL,120135,"Wedig, Timothy E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37417,GWS,100,Intro Gender & Women's Studies,AA,ONL,120135,"Cole, Cheryl L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36808,GWS,335,"Film, TV, and Gender",CC,LCD,120135,"Kozma, Alicia",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30771,HDFS,105,Intro to Human Development,A,LCD,120135,"Brooks, Jan D",0,37,0,0,1,0,0,0,0,0,0,0,0,0,3.97,0.697925497,97%
+36009,HDFS,105,Intro to Human Development,C,ONL,120135,"Bowers, Jill R",14,14,9,2,0,0,0,0,0,0,0,0,0,0,3.89,0.583073752,72%
+37700,HDFS,199,Advanced Child Life Ser Skills,CL,LCD,120135,"Hernandez, Candace E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32823,HIST,100,Global History,A,LCD,120135,"Tallie, Tyrone H",12,8,2,2,0,0,0,0,0,0,0,0,0,0,3.92,0.498397432,83%
+31143,HIST,171,US Hist to 1877,A,LCD,120135,"Bui, Long B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30789,HIST,172,US Hist Since 1877,A,LCD,120135,"Jordan, Jason C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36308,HIST,273,Illinois History,B,ONL,120135,"Greenstein, David E",0,1,16,5,11,6,2,3,2,0,0,0,1,0,3.03,1.703535539,2%
+37304,HIST,348,Early Euro Absolut & Expansion,100,LCD,120135,"Koslofsky, Craig M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30803,HIST,354,Twentieth Century Europe,A,LCD,120135,"McKinley, Eric",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37513,HRE,472,Learning Technologies,A,ONL,120135,"Huang, Wen-Hao",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36479,HRE,530,Organization Development,A,ONL,120135,"Kuchinke, K P",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37351,IB,150,Organismal & Evolutionary Biol,A,ONL,120135,"Clegg, Benjamin F",13,16,6,3,7,1,0,4,1,0,0,0,2,0,3.42,2.271543773,55%
+37352,IB,364,Bioinformatics & Human Genome,A,ONL,120135,"Sears, Staci L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36457,IB,533,Human Genome & Bioinformatics,ONL,ONL,120135,"Manaster, Joanne L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35151,INFO,303,Writing Across Media,A,LEC,120135,"Cavallaro, Alexandra",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37329,ITAL,101,Elementary Italian I,LH1,ONL,120135,"Hill, Laura C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37331,ITAL,101,Elementary Italian I,LH2,ONL,120135,"Hill, Laura C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37333,ITAL,101,Elementary Italian I,LH3,ONL,120135,"Hill, Laura C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37335,ITAL,101,Elementary Italian I,LH4,ONL,120135,"Hill, Laura C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37337,ITAL,101,Elementary Italian I,LH5,ONL,120135,"Hill, Laura C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30883,JAPN,201,Elementary Japanese I,A,LCD,120135,"Kinoshita, Rika",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30884,JAPN,202,Elementary Japanese II,A,LCD,120135,"Endo, Yohei",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37430,JOUR,460,Digital Photography Foundation,B,LCD,120135,"Johnson, Brian K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31377,JOUR,510,Master's Readings,1,CNF,120135,"Houston, Joseph B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32819,JOUR,515,Master's Project,1,CNF,120135,"Houston, Joseph B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30889,KIN,100,Conditioning and Wt. Control.,A2,LAB,120135,"Greene, Daniel R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30890,KIN,100,Conditioning and Wt. Control.,A3,LAB,120135,"Greenlee, Tina A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30891,KIN,100,Weight Training,C1,LAB,120135,"Park, Hyunwoo",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30894,KIN,102,Bowling,E1,LAB,120135,"Gentry, Christopher R",6,9,3,1,1,0,0,1,0,0,0,0,0,0,3.78,0.889981273,71%
+30895,KIN,102,Bowling,E2,LAB,120135,"Gentry, Christopher R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30896,KIN,102,Bowling,E3,LAB,120135,"Adamson, Brynn C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30898,KIN,109,Volleyball,A1,LAB,120135,"Greene, Daniel R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30899,KIN,109,Basketball,C1,LAB,120135,"Grissom, Evanielis U",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36785,KIN,340,Soc & Psych of Phys Activity,A,LCD,120135,"Petruzzello, Steven J",0,9,9,4,0,0,0,0,0,0,0,0,0,0,3.74,0.682446579,41%
+37384,KIN,494,Case Study: The Endless Summer,SSU,LCD,120135,"Sydnor, Synthia",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37436,LAST,170,Introduction to Latin America,DG,ONL,120135,"Goldman, Dara E",10,5,1,1,6,0,3,1,0,0,0,0,0,0,3.48,1.303117142,56%
+37465,LAW,680,Professional Responsibility,A,LEC,120135,"Kordik, Ellen R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30915,LAW,682,Evidence,A,LCD,120135,"Beckett, J S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33309,LAW,682,Evidence,G,LCD,120135,"Beckett, J S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37464,LAW,693,Community Preservation Clinic,C,LEC,120135,"Tutt, Stacey L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37697,LAW,699,Independent Study,CK,LEC,120135,"Ku, Charlotte",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37080,LAW,699,Independent Study,JR,LEC,120135,"Robbennolt, Jennifer K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37260,LAW,699,Independent Study,NS,LEC,120135,"Sharpe, Nicola F",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35297,LAW,699,Independent Study,SA,LCD,120135,"Anderson, Sean M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37544,LAW,798,Corporate Counsel Seminar,D,LEC,120135,"Sharpe, Nicola F",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37548,LAW,798,Comp Analysis of Legal Prac,JK,LEC,120135,"Kesan, Jay P",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37185,LAW,798,Comp Analysis of Legal Prac,NG,LEC,120135,"Soares De Olive, Nuno M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36420,LAW,798,Comp Analysis of Legal Prac,SB,LEC,120135,"Benson, Sara R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36279,LER,100,Introduction to Labor Studies,ONL,ONL,120135,"Hawking, Carol J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37422,LIS,445,Info Books & Resources Youth,LE,ONL,120135,"Diekman, Linda M",6,13,4,1,0,0,0,0,0,0,0,0,0,0,3.92,0.418210473,79%
+37426,LIS,452,Foundations Info Proc in LIS,AU,LCD,120135,"Trainor, Kevin",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33034,LIS,458,Instruction and Assistance Sys,LE,ONL,120135,"Wong, Melissa A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35574,LIS,490,Book Arts Seminar,BA,LCD,120135,"Nettles, Beatrice",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33597,LIS,501,Info Org and Access,A,LCD,120135,"LaBarre, Kathryn A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30933,LIS,502,Libraries Info and Society,A,LCD,120135,"Weech, Terry",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32276,LIS,502,Libraries Info and Society,LEA,ONL,120135,"Estabrook, Leigh S",0,6,17,6,3,0,1,0,0,0,0,0,0,1,3.57,0.940393535,18%
+32277,LIS,502,Libraries Info and Society,LEB,ONL,120135,"Estabrook, Leigh S",0,5,10,9,3,1,0,0,0,0,0,0,0,1,3.51,0.823990291,18%
+32278,LIS,504,Reference and Info Services,LE,ONL,120135,"Wong, Melissa A",12,14,4,2,0,0,0,0,0,0,0,0,0,0,3.92,0.531224999,81%
+32279,LIS,505,Adm Mgt of Libs Info Centers,LE,ONL,120135,"Burger, Robert H",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35586,LIS,507,Intr to Bibliographic Metadata,LEA,ONL,120135,"Roberto, Keller R",0,18,2,0,1,1,0,0,0,0,0,0,0,0,3.86,0.788859937,82%
+37494,LIS,507,Intr to Bibliographic Metadata,LEB,ONL,120135,"Quinn, Dennis P",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37423,LIS,508,Collection Development,LE,ONL,120135,"Barnhart, Anne C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32280,LIS,510,Adult Public Services,LE,ONL,120135,"Bell, Lori A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36912,LIS,516,School Library Media Center,LE,ONL,120135,"Burton, Margaret A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36911,LIS,528,Adult Popular Literature,LE,ONL,120135,"Towner, Mary W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34224,LIS,548,Library Buildings,A,LCD,120135,"Schlipf, Frederick A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32283,LIS,578,Technical Services Functions,LE,ONL,120135,"Oberg, Steven J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37339,LIS,580,Rare Book and Spec Colls,A,LCD,120135,"Berger, Sidney E",4,13,2,1,8,0,0,0,0,0,0,0,0,0,3.67,1.056522598,61%
+37338,LIS,584,Archival Arrang and Descrip,A,LCD,120135,"Schwartz, Scott W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36052,LIS,590,"Bookbinding Hist, Princ, Prac",BBL,ONL,120135,"Huot, Andrew R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36053,LIS,590,Rare Book Cataloging,BCL,ONL,120135,"Olson, Patrick D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36886,LIS,590,Cataloging for School Libs,CBL,ONL,120135,"Tilley, Carol L",1,15,4,0,1,0,1,1,0,0,0,0,0,0,3.74,1.059622574,70%
+30949,LIS,590,Library Gaming Programs,LG,LCD,120135,"Dubin, David S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35589,LIS,590,Legal Issues in LIS,LIL,ONL,120135,"Lipinski, Tomas A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35110,LIS,590,Law Librarianship,LLL,ONL,120135,"Davidson, Stephanie",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33574,LIS,590,Letterpress Printing,LP,LCD,120135,"Kostell, Steve",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33598,LIS,590,Web Design Construct Organizs,LW,LCD,120135,"Offenstein, Timothy L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33164,LIS,590,Web Design Construct Organizs,LW2,ONL,120135,"Kovacs, Diane K",20,4,1,0,0,1,0,0,0,0,0,0,0,0,3.94,0.648382603,92%
+32286,LIS,590,Web Design Construct Organizs,LWL,ONL,120135,"Kovacs, Diane K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34352,LIS,590,Project Management for LIS,MGL,ONL,120135,"Trainor, Kevin",6,14,1,1,0,0,0,0,0,0,0,0,0,0,3.95,0.365718471,91%
+33038,LIS,590,Global Con & Soc Jus Youth Lit,MYL,ONL,120135,"Lucht, Karla S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33562,LIS,590,Paper in the Scholarly World,PM,LCD,120135,"Berger, Sidney E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37424,LIS,590,Introduction to RDA,RDL,ONL,120135,"Bothmann, Robert L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37425,LIS,590,Race Gender Sexuality Inf Prof,RGL,ONL,120135,"Noble, Safiya U",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33573,LIS,590,Reviewing Children's Lit,RV,LCD,120135,"Quealy, Kathryn L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36881,LIS,590,Info Sources & Svcs Children,SO,LCD,120135,"Bush, Elizabeth K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34284,LIS,590,Ref Sources for Rare Books,SR,LCD,120135,"Silver, Joel B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37420,LLS,100,Intro Latina/Latino Studies,ONL,ONL,120135,"Velazquez, Mirelsie",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36235,MACS,320,Popular Culture,A,LCD,120135,"Potter, Richard A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30963,MATH,220,Calculus,C1,LCD,120135,"Lansing, Jennifer L",1,2,3,3,5,1,2,0,2,2,3,0,2,0,2.47,1.852551067,12%
+36762,MATH,220,Calculus,E1,LCD,120135,"Gupta, Neha",2,6,3,5,2,6,0,1,1,0,1,0,1,0,3.08,1.610254638,29%
+33002,MATH,231,Calculus II,B1,LCD,120135,"Vellis, Vyron S",2,2,2,0,3,5,2,2,4,1,2,0,4,1,2.22,2.017189764,14%
+35837,MATH,231,Calculus II,E1,LCD,120135,"Liang, Jian",3,3,0,3,5,2,2,1,1,1,3,1,1,0,2.6,1.711237369,23%
+33477,MATH,241,Calculus III,B1,LCD,120135,"Lakeland, Grant S",3,5,3,3,1,3,5,2,1,0,0,0,1,1,3.01,1.585771106,30%
+33478,MATH,241,Calculus III,D1,LCD,120135,"Liu, Hong",4,4,2,4,4,5,4,1,2,0,0,0,1,0,2.99,1.585152989,26%
+35278,MATH,241,Calculus III,E1,LCD,120135,"Shen, Jiashun",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34331,MATH,285,Intro Differential Equations,D1,LCD,120135,"Nikolaev, Igor G",9,1,2,3,3,6,2,3,3,1,3,0,4,1,2.56,2.310735814,25%
+33003,MATH,347,Fundamental Mathematics,C1,LCD,120135,"Weichsel, Paul M",0,6,1,3,5,0,1,0,1,1,3,0,0,2,2.9,1.718284028,29%
+37099,MATH,348,Fundamental Mathematics-ACP,ONL,ONL,120135,"Francis, George K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36390,MATH,402,Non Euclidean Geometry,ONL,ONL,120135,"Francis, George K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37101,MATH,403,Euclidean Geometry,ONL,ONL,120135,"Francis, George K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30978,MATH,415,Applied Linear Algebra,B4,LCD,120135,"Bergvelt, Maarten J",4,6,4,5,5,5,9,3,2,5,1,0,0,1,2.81,1.912183426,20%
+36763,MATH,415,Applied Linear Algebra,E3,LCD,120135,"Muncaster, Robert G",2,12,5,3,10,5,7,6,3,5,0,1,2,0,2.77,2.342984208,23%
+31858,MATH,415,Applied Linear Algebra,EGR,ONL,120135,"Carpenter, Bruce",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30012,MATH,444,Elementary Real Analysis,D3,LCD,120135,"Zaharescu, Alexandru",2,15,3,10,2,0,0,1,0,0,0,0,0,0,3.66,1.071820881,52%
+30014,MATH,446,Applied Complex Variables,X3,LCD,120135,"Miles, Joseph B",1,6,3,3,3,5,0,2,1,2,0,0,0,0,3.08,1.435208076,27%
+30017,MATH,461,Probability Theory,B3,LCD,120135,"Stolarsky, Kenneth B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31859,MATH,461,Probability Theory,EGR,ONL,120135,"Carpenter, Bruce",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35546,MATH,540,Real Analysis,C1,LCD,120135,"Loeb, Peter A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30095,MCB,100,Introductory Microbiology,A,LEC,120135,"Chapman, Kenneth",3,2,3,0,4,2,2,3,3,1,0,0,2,1,2.61,1.816108477,20%
+30024,MCB,150,Molec & Cellular Basis of Life,AD1,DIS,120135,"Good, Elizabeth A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30025,MCB,150,Molec & Cellular Basis of Life,AD2,DIS,120135,"Good, Elizabeth A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36346,MCB,150,Molec & Cellular Basis of Life,ONL,ONL,120135,"Mehrtens, Bradley G",1,5,7,4,6,2,4,8,6,3,1,0,2,0,2.59,2.089914273,12%
+36347,MCB,215,Foundation in Mol & Cell Bio,ONL,ONL,120135,"Bellini, Michel",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36047,MCB,244,Human Anatomy & Physiology I,AL1,LEC,120135,"Brown, Chester M",3,3,4,9,8,10,11,4,1,4,1,3,1,2,2.63,2.009588553,10%
+36048,MCB,245,Human Anat & Physiol Lab I,A,LAB,120135,"Brown, Chester M",5,4,5,3,0,1,0,4,0,0,0,0,0,0,3.41,1.416933308,41%
+36049,MCB,245,Human Anat & Physiol Lab I,B,LAB,120135,"Brown, Chester M",1,4,9,2,2,3,1,0,1,0,0,0,0,0,3.38,1.032061045,22%
+30036,MCB,250,Molecular Genetics,AD1,DIS,120135,"Kirchner, Nicholas C",2,2,1,4,0,3,3,2,1,1,0,0,2,1,2.62,1.674705944,19%
+30038,MCB,250,Molecular Genetics,AD2,DIS,120135,"Kirchner, Nicholas C",5,1,0,4,4,2,1,0,1,1,1,1,1,0,2.8,1.624248078,27%
+30040,MCB,250,Molecular Genetics,AD3,DIS,120135,"Kirchner, Nicholas C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30042,MCB,250,Molecular Genetics,AD4,DIS,120135,"Kirchner, Nicholas C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30952,ME,300,Thermodynamics,C,LEC,120135,"Rajasegar, Rajavasanth",4,2,2,0,4,1,1,2,1,1,0,2,1,0,2.7,1.702671697,29%
+30955,ME,340,Dynamics of Mechanical Systems,AL1,LEC,120135,"Lee, Seungho",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30958,ME,350,Design for Manufacturability,AL1,LEC,120135,"Flachsbart, Bruce R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35813,ME,598,Tsinghua Internship,TEX,DIS,120135,"Johnson, Harley T",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35812,ME,598,Tsinghua Internship,TSE,DIS,120135,"Johnson, Harley T",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30153,MUS,276,Summer Band,A,PR,120135,"Rumbelow, Robert W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30155,MUS,400,Counterpoint and Fugue,A,LCD,120135,"Lund, Erik R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35493,MUS,408,Analysis of Musical Form,D,LCD,120135,"Taube, Heinrich K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30159,MUS,413,Music and Performance,A,LCD,120135,"Ziegel, Aaron B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37428,MUS,413,Music and Performance,B,LCD,120135,"Turino, Thomas R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37390,MUS,415,Music and Media,A,LCD,120135,"Magee, Gayle S",2,21,2,1,1,0,0,0,0,0,0,0,0,0,3.91,0.543083787,85%
+36858,MUS,440,Marching Band Procedures,A,LBD,120135,"Houser, Barry L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33541,MUS,441,Contemp Issues in Inst Mus Ed,A,LCD,120135,"Nichols, Jeananne B",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30168,MUS,447,Intermediate Music Ed Tech,A,LCD,120135,"Thibeault, Matthew D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30166,MUS,450,Advanced Ensemble Music,A,PR,120135,"Rumbelow, Robert W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30191,MUS,532,Global Perspectives on Mus Ed,A,LCD,120135,"Denardo, Gregory F",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30167,MUS,533,Research in Music Education,A,LCD,120135,"Sweet, Bridget M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37517,MUS,540,Graduate Wind Band Conducting,B,LBD,120135,"Leyva, Jesse J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33546,MUS,545,Topics in Music Education,C,LCD,120135,"Moorhouse, Linda",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37527,NRES,472,Environmental Psychology,XM3,ONL,120135,"Vining, Joanne",3,11,0,0,2,0,0,2,0,0,0,0,3,0,3.14,2.917930774,67%
+37509,NRES,499,Introduction to Silviculture,XM2,ONL,120135,"Woolery, Michael E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37528,NRES,598,Issues-Aquat Ecosystem Conserv,XM4,ONL,120135,"Taylor, Christopher A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37375,PATH,552,Diagnostic Cytology,A,LBD,120135,"Barger, Anne M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32945,PATH,556,Exotic/Wild Animal Diag Path 1,A,LBD,120135,"Kinsel, Michael J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32946,PATH,557,Exotic/Wild Animal Diag Path 2,A,LBD,120135,"Kinsel, Michael J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32947,PATH,558,Exotic/Wild Animal Path Sem,A,DIS,120135,"Kinsel, Michael J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32948,PATH,559,Surgical Pathology,A,LBD,120135,"Wallig, Matthew A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37408,PHIL,202,Symbolic Logic,A,LCD,120135,"McCarthy, Timothy G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34769,PHIL,380,Sports & Philosophy,RC,LCD,120135,"Bowen, Adam J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30232,PHYS,101,College Physics: Mech & Heat,A,LEC,120135,"Shoaf, Curtis M",7,11,7,13,9,7,12,6,6,8,2,6,1,1,2.67,2.860896847,19%
+30239,PHYS,102,College Physics: E&M & Modern,A,LEC,120135,"Carrubba, James G",5,6,5,6,12,7,5,8,2,5,2,2,0,2,2.74,2.180099386,17%
+30254,PHYS,211,University Physics: Mechanics,A,LEC,120135,"Rosenblatt, Rebecca J",5,3,4,4,5,4,3,2,2,0,0,1,1,1,2.96,1.699689811,24%
+30264,PHYS,212,University Physics: Elec & Mag,A,LEC,120135,"Hassani, Sadri D",1,10,5,7,3,9,11,4,6,4,6,4,1,3,2.48,2.500375356,15%
+30275,PHYS,213,Univ Physics: Thermal Physics,A,LEC,120135,"Halfpap, Bradford L",9,10,8,5,10,5,2,2,6,0,0,2,3,1,2.99,2.60283412,31%
+30282,PHYS,214,Univ Physics: Quantum Physics,A,LEC,120135,"Halfpap, Bradford L",7,5,11,7,7,7,4,2,3,0,0,2,2,0,3,2.261536083,21%
+30315,PS,101,Intro to US Gov & Pol,R,LCD,120135,"Francis, Katherine A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36326,PS,200,Foundations of Pol Sci,ON2,ONL,120135,"Vander Most, Neil G",0,1,2,3,5,5,5,3,1,1,1,1,3,0,2.32,1.702801613,3%
+30320,PS,220,Intro to Public Policy,R,LCD,120135,"Ritchie, Melinda N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37588,PS,224,Politics of the National Parks,YST,ONL,120135,"Pahre, Robert D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36328,PS,225,Environmental Politics &Policy,ON2,ONL,120135,"Bowden, David F",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33112,PS,240,Intro to Comp Politics,ABR,LCD,120135,"Estes, Kyle",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34821,PS,373,Democratic Theory,A,LCD,120135,"Seitz, Steven T",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34822,PS,394,Crisis Diplomacy,A,CNF,120135,"Vasquez, John A",0,6,2,5,8,1,0,0,0,0,0,0,0,0,3.39,0.911942981,27%
+34453,PS,491,Internship,WA,CNF,120135,"Dimock, Susan C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37058,PSM,555,PSM Internship,FCR,LCD,120135,"Engeseth, Nicki J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37062,PSM,555,PSM Internship,TCR,LCD,120135,"Harper, Joe G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31257,PSYC,100,Intro Psych,ONL,ONL,120135,"Toscano, Cheyenne M",4,4,4,11,10,12,5,11,5,1,2,0,3,1,2.65,2.291287847,11%
+34254,PSYC,201,Intro to Social Psych,S1,LEC,120135,"Hernandez, Jorge I",1,13,2,7,2,1,1,1,0,0,0,0,0,0,3.56,1.037472891,50%
+30330,PSYC,201,Intro to Social Psych,S2,LEC,120135,"Kim, Emily S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34255,PSYC,216,Child Psych,S1,LEC,120135,"Jin, Kyong Sun",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30332,PSYC,224,Cognitive Psych,S2,LEC,120135,"Braverman, Michael B",0,5,0,0,11,0,0,6,0,0,3,0,3,0,2.43,2.858573071,18%
+34780,PSYC,230,Perception & Sensory Processes,S1,LEC,120135,"Yamani, Yusuke",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30337,PSYC,238,Abnormal Psych,S2,LEC,120135,"Wang, Zhenni",0,2,5,2,6,2,2,1,1,0,0,0,1,0,2.94,1.391050762,9%
+33500,PSYC,248,Learning and Memory,S2,LEC,120135,"McKinley, Geoffrey L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33558,PSYC,363,Developmental Psych Lab,AL1,LEC,120135,"Sugimura, Niwako",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30354,RHET,105,Principles of Composition,X,LCD,120135,"Verderame, Michael C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37326,RHET,233,Principles of Composition,D,LCD,120135,"Stone, Jonathan W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29983,RLST,106,Archaeology and the Bible,A,LCD,120135,"Pitard, Wayne T",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35079,RLST,110,World Religions,ADA,ONL,120135,"Raybeck, Nathan D",1,4,2,1,9,0,2,2,0,1,0,0,0,0,3.08,1.21577136,23%
+35081,RLST,110,World Religions,ADB,ONL,120135,"Raybeck, Nathan D",0,5,3,2,2,3,2,1,2,0,0,0,1,0,2.94,1.53520176,24%
+35083,RLST,110,World Religions,ADC,ONL,120135,"Raybeck, Nathan D",0,4,7,0,5,1,0,0,2,0,1,0,2,0,2.9,2.162009647,18%
+36932,RST,100,Society and Leisure,ONL,ONL,120135,"Paden, Lori Kay",13,25,9,4,3,2,2,1,1,1,0,0,0,0,3.65,1.547013251,62%
+36933,RST,130,Foundations of Sport Mgt,ONL,ONL,120135,"Hardin, Donald R",0,8,0,0,9,0,0,7,0,0,3,0,0,0,2.81,2.553169599,30%
+37434,RST,393,Sport & Philosophy,RC,LCD,120135,"Bowen, Adam J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35808,RST,501,Theories & Concepts of Leisure,XM1,ONL,120135,"Stodolska, Monika",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36185,RST,503,Adv Leisure Research Methods,XM,ONL,120135,"McDonald, Cary D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36186,RST,512,Human Resources in RST,XM,ONL,120135,"McDowell, Jacqueline",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36187,RST,515,Marketing in RST,XM,ONL,120135,"Staples, Stephen R",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36188,RST,593,Special Problems,XM,ONL,120135,"Santos, Carla A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36914,RUSS,101,First-Year Russian I,A,ONL,120135,"Mitrevski, George G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37371,RUSS,102,First-Year Russian II,A,ONL,120135,"Mitrevski, George G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35696,SHS,121,American Sign Language I,A,LCD,120135,"Haring, Donald L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37407,SHS,321,American Sign Language III,A,LCD,120135,"Haring, Donald L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35658,SHS,477,Beginning Practicum in SHS,D,CNF,120135,"Cetin, Patricia D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35114,SHS,514,Motor Speech Disorders,A,LCD,120135,"Mendes, Clarion C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32916,SHS,551,Electrophys Indic Aud Balance,A,LCD,120135,"Chambers, Ronny D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30444,SHS,557,Adv Clin Prac Aud Assess Rehab,A,LCD,120135,"Chambers, Lou",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35669,SHS,557,Adv Clin Prac Aud Assess Rehab,B,LCD,120135,"Parker, Carol L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30445,SHS,557,Adv Clin Prac Aud Assess Rehab,E,LCD,120135,"Chambers, Lou",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36579,SHS,557,Adv Clin Prac Aud Assess Rehab,G,LCD,120135,"Chambers, Lou",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35117,SHS,577,Advanced Practicum in SHS,A,CNF,120135,"Cetin, Patricia D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30449,SHS,577,Advanced Practicum in SHS,E,CNF,120135,"Cetin, Patricia D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35116,SHS,579,Prof/Eth/Legal Issues AuD/SLP,LEC,LEC,120135,"Chambers, Lou",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+35916,SHS,593,Special Problems,AEP,LBD,120135,"Chambers, Ronny D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34569,SHS,593,Special Problems,C,LCD,120135,"Chambers, Ronny D",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37476,SOC,100,Introduction to Sociology,AD1,ONL,120135,"Feely, Ashley C",0,14,2,4,2,0,0,0,0,0,0,0,0,0,3.76,0.838927887,64%
+37477,SOC,100,Introduction to Sociology,AD2,ONL,120135,"Sattari, Negin",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37478,SOC,100,Introduction to Sociology,AD3,ONL,120135,"Riopelle, Cameron",0,9,2,2,1,3,0,4,0,0,0,0,0,0,3.29,1.452474899,43%
+37479,SOC,100,Introduction to Sociology,AD4,ONL,120135,"Peach, Matthew",0,7,5,1,1,0,0,4,0,0,3,0,1,2,2.89,2.214310599,32%
+34914,SOC,350,Technology and Society,1,LEC,120135,"Shoffstall, Grant W",0,19,0,0,4,0,0,1,0,0,0,0,0,0,3.75,1.471960144,79%
+27292,SOC,400,Internships,ONL,ONL,120135,"Orozco Villican, Moises",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34266,SOC,480,Methods of Field Research,AZ,LEC,120135,"Zerai, Assata",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34520,SOC,583,Qualitative Research Methods,AZ,LEC,120135,"Zerai, Assata",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37402,SOCW,330,International Perspectives,B,LEC,120135,"Lindsey, Brenda C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36936,SOCW,380,Internatioal SW & Development,BJL,ONL,120135,"Lough, Benjamin J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30376,SOCW,400,Generalist SW Practice Methods,B,LCD,120135,"Bragg, Mary",0,5,12,4,1,1,0,0,0,1,0,0,0,0,3.52,1.125877436,21%
+30378,SOCW,400,Generalist SW Practice Methods,C,LCD,120135,"Casey, Anne",0,14,6,2,1,0,0,0,0,0,0,0,0,0,3.81,0.662249953,61%
+30379,SOCW,400,Generalist SW Practice Methods,D,LCD,120135,"White-Gibson, Nancy L",0,23,0,0,1,0,0,0,0,0,0,0,0,0,3.96,0.692242732,96%
+37404,SOCW,451,HBSE I: Human Development,B,LCD,120135,"Paceley, Megan S",0,24,0,0,4,0,0,0,0,0,0,0,1,0,3.76,2.437922613,83%
+37405,SOCW,451,HBSE I: Human Development,C,LCD,120135,"Liao, Minli",2,15,7,1,0,0,0,0,0,0,0,0,0,0,3.88,0.449444101,68%
+36760,SOCW,505,Behav and Cogn Methods for SW,0,LCD,120135,"Shea, Timothy M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34960,SOCW,525,Supervision/Staff Development,P,LCD,120135,"Ward, Thomas",0,11,10,1,0,0,0,0,0,0,0,0,0,0,3.82,0.506885917,50%
+30385,SOCW,531,Practice in Org Settings,A,ONL,120135,"McDonald, Hellen G",0,20,0,0,1,0,0,0,0,0,0,0,0,0,3.95,0.690108687,95%
+30386,SOCW,531,Practice in Org Settings,B,ONL,120135,"Escobar-Sawicki, Christin",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30388,SOCW,531,Practice in Org Settings,C,ONL,120135,"Maurer, Mary F",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33208,SOCW,531,Practice in Org Settings,D,ONL,120135,"Bedient, Mary Lou",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37469,SOCW,531,Practice in Org Settings,M1,ONL,120135,"McDonald, Hellen G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37470,SOCW,531,Practice in Org Settings,M2,ONL,120135,"Maurer, Mary F",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37011,SOCW,561,Intl Social Work & Development,A,ONL,120135,"Lough, Benjamin J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+27109,SOCW,561,Costa Rica - Study Abroad,BL,LCD,120135,"Lindsey, Brenda C",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29985,SPAN,103,Intermediate Spanish,1A,LCD,120135,"Rofes Herrera, Roma",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30405,SPAN,103,Intermediate Spanish,2B,LCD,120135,"Yoon, Nakyung",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31184,SPAN,122,Intensive Elementary Spanish,1C,LCD,120135,"Melgares Sabill, Jeriel J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31185,SPAN,122,Intensive Elementary Spanish,2A,LCD,120135,"Mostacero Pinil, Cristina",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29992,SPAN,141,Intro to Spanish Grammar,1C,LCD,120135,"Rector, Amanda K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30408,SPAN,141,Intro to Spanish Grammar,2A,LCD,120135,"Archer-Helke, Caitlin E",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33509,SPAN,200,Readings in Hispanic Texts,2A,ONL,120135,"Hetrovicz, Lauren N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30424,SPAN,204,Practical Review of Spanish,2C,LCD,120135,"Davidson, Justin S",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30427,SPAN,208,Oral Spanish,2F,LCD,120135,"Crespo del Rio, Claudia",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+34761,SPAN,254,Intro to Cultural Analysis,2C,LCD,120135,"DiFilippo, Emily J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31389,SPED,117,The Culture of Disability,A,ONL,120135,"Bentz, Johnell L",0,25,0,0,8,0,0,2,0,0,3,0,2,0,3.28,3.285604967,63%
+31198,SPED,424,Formal Assessment in SPED,A,LCD,120135,"Taylor, Gregory G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37514,SPED,471,Learning Environments II,AC,LCD,120135,"Carey, Yvonne A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+31216,SPED,517,Disability Issues in SPED,A,LCD,120135,"Light Shriner, Cheryl L",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37515,SPED,526,Collaborative Leaders in SPED,AC,LCD,120135,"Carey, Yvonne A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30403,SPED,538,Interdisciplinary Teaming,A,LCD,120135,"Talbott, Susan J",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37539,SPED,591,Field Study & Thesis Seminar,A,ONL,120135,"Hood, Denice W",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30451,STAT,100,Statistics,E1,LCD,120135,"Huang, Xichen",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30452,STAT,100,Statistics,K1,LCD,120135,"Ye, Sangbeak",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36918,STAT,100,Statistics,ONL,ONL,120135,"Nute, Michael G",10,30,9,7,17,4,1,6,0,3,3,2,5,2,3.1,3.255124166,41%
+30460,STAT,400,Statistics and Probability I,AL1,LEC,120135,"Stepanov, Alexey G",10,15,8,5,9,7,6,4,1,0,2,1,2,1,3.11,2.397272756,36%
+33498,STAT,410,Statistics and Probability II,G1G,LEC,120135,"Stepanov, Alexey G",8,12,5,3,3,3,0,3,2,0,2,0,1,5,3.31,2.089215164,48%
+34304,STAT,440,Statistical Data Management,N1G,LEC,120135,"Unger, David",2,22,8,2,0,0,0,0,0,0,0,0,0,1,3.89,0.564668044,71%
+37298,STAT,448,Advanced Data Analysis,S1,LCD,120135,"Glosemeyer, Darren W",0,13,8,4,3,2,2,0,0,0,0,0,0,0,3.55,1.193035345,41%
+34364,STAT,593,STAT Internship,INT,CNF,120135,"Douglas, Jeffrey A",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33916,SWAH,201,Elementary Swahili I,C1,LEC,120135,"Lutomia, Anne N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33916,SWAH,201,Elementary Swahili I,C1,PKG,120135,"Lutomia, Anne N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33923,SWAH,202,Elementary Swahili II,C1,LCD,120135,"Lutomia, Anne N",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33889,SWAH,403,Intermediate Swahili I,C1,PKG,120135,"Kiramba, Lydiah K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33890,SWAH,404,Intermediate Swahili II,C1,PKG,120135,"Kiramba, Lydiah K",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30463,TAM,212,Introductory Dynamics,C,LEC,120135,"Anderson, Aaron T",1,8,7,9,7,3,1,0,1,2,0,0,1,0,3.18,1.706985647,23%
+30464,TAM,251,Introductory Solid Mechanics,A,LCD,120135,"Saharan, Ankit",4,4,2,3,2,1,2,4,0,0,2,0,0,0,3.03,1.574293492,33%
+30468,TAM,335,Introductory Fluid Mechanics,AL1,LEC,120135,"Keane, Richard D",2,6,4,5,4,3,3,5,0,0,0,0,1,0,3.04,1.702899488,24%
+30486,THEA,101,Introduction to Theatre Arts,A,ONL,120135,"Morrissette, Jason W",15,17,4,1,2,0,1,2,0,0,0,1,1,0,3.61,1.947659564,73%
+32255,THEA,101,Introduction to Theatre Arts,B,ONL,120135,"Morrissette, Jason W",15,14,0,2,2,1,0,4,1,0,1,0,1,0,3.46,2.085814522,71%
+37474,TSM,100,Technical Systems in Agr,JGH,LEC,120135,"Harper, Joe G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+37471,TSM,233,Metallurgy & Welding Process,JGH,LCD,120135,"Harper, Joe G",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36945,UP,480,Sustainable Design Principles,0,ONL,120135,"Deal, Brian M",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+32884,WLOF,201,Elementary Wolof I,A1,LCD,120135,"Gueye, Mor",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30137,WLOF,202,Elementary Wolof II,AD1,DIS,120135,"Gueye, Mor",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
