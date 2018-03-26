@@ -19,6 +19,13 @@ The first row of the CSV file contains column headers. Every row after the first
 
 *Note that long names for "Primary Instructor" are truncated in this dataset.*
 
+## Projects Using this Dataset
+
+1. [GPAs of Every Course at The University of Illinois](http://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/), 
+2. [Every Gen Ed at UIUC, by GPA](http://waf.cs.illinois.edu/discovery/every_gen_ed_at_uiuc_by_gpa/)
+3. [Grade disparity between sections at UIUC](http://waf.cs.illinois.edu/discovery/grade_disparity_between_sections_at_uiuc/)
+
+*If you create a project with this dataset, I'd love to link it here!  Send a PR with your project added to this list!*
 
 ## Data Source
 
