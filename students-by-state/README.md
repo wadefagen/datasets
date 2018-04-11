@@ -2,7 +2,7 @@
 
 A collection of students' home state at the University of Illinois for the years 1975 - 2017 in a clean CSV format.
 
-[A single CSV containing all of the data can be downloaded here (29 KB, 1079 rows x 6 columns)][CSV_Download]
+[A single CSV containing all of the data can be downloaded here][CSV_Download]
 
 [CSV_Download]: https://raw.githubusercontent.com/wadefagen/datasets/master/students-by-state/uiuc-students-by-state.csv
 
