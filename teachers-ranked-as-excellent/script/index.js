@@ -1,7 +1,10 @@
-
+/*
+ * For PDF Conversion:
+ *   pdftotext -layout <input>.pdf <output>.txt
+ */
+ 
 var rawTxtPath = "../raw_txt/";
 var rawCSVPath = "../csv/"
-
 
 var fs = require("fs");
 var path = require("path");
@@ -43,7 +46,7 @@ var findTerm = function (s) {
 
 var completeCSV = "";
 files.forEach(function (file) {
-  console.log("Working on: " + file);
+  console.log("Processing \"" + file + "\"...");
   var results = [];
   var lines = fs.readFileSync(path.join(rawTxtPath, file), "utf8").split("\n");
 
@@ -59,13 +62,6 @@ files.forEach(function (file) {
     if (readingIntro) {
       line_l = line.toLowerCase();
 
-      // Spring 2017 format
-      if (line.contains("Page 2")) {
-        readingIntro = false;
-        if (term == "?") { term = findTerm(termStr); }
-        continue;
-      }
-
       // Fall 2003 format
       if (line_l.contains("based on data collected")) {
         var termStr = line_l.substring(
@@ -76,6 +72,7 @@ files.forEach(function (file) {
         term = findTerm(termStr);
       }
 
+      // Spring 2017+
       if (line == "ACCOUNTANCY") {
         readingIntro = false;
       }
@@ -123,6 +120,7 @@ files.forEach(function (file) {
         var fname = "";
         if (nameSplit.length == 2) { fname = nameSplit[1].trim(); }
         var lname = nameSplit[0].trim();
+        if (fname.length > 1) { fname = fname.substring(0, 1); }
 
         // Parse the coures
         /*
@@ -163,6 +161,8 @@ files.forEach(function (file) {
     }
   }
 
+  console.log("  Term: " + term);
+  console.log("  Records: " + results.length);
 
   // Write the output...
   var csv = "term,unit,lname,fname,role,ranking,course\n";
