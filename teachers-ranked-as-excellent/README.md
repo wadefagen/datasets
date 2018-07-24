@@ -1,6 +1,6 @@
 # Teachers Ranked as Excellent at The University of Illinois
 
-A collection of all "Teachers Ranked as Excellent" at UIUC from Fall 1993 through Summer 2017 in a clean, consistent CSV format.
+A collection of all "Teachers Ranked as Excellent" at UIUC from Fall 1993 through Spring 2018 in a clean, consistent CSV format.
 
 [A single CSV containing all of the data can be downloaded here.][Single_CSV_Download]
 
