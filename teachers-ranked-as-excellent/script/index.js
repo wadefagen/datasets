@@ -189,4 +189,4 @@ files.forEach(function (file) {
   fs.writeFileSync(path.join(rawCSVPath, "tre-" + term + ".csv"), csv);
 });
 
-fs.writeFileSync(path.join(rawCSVPath, "..", "TRE-UIUC-AllYears.csv"), completeCSV);
+fs.writeFileSync(path.join(rawCSVPath, "..", "uiuc-tre-dataset.csv"), completeCSV);
