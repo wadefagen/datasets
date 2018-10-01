@@ -8,6 +8,7 @@ This repository contains a collection of datasets I've found useful.  Many of th
 - [Teachers Ranked as Execllent by their Students at UIUC](teachers-ranked-as-excellent/), `teachers-ranked-as-excellent/uiuc-tre-dataset.csv`
 - [UIUC Courses by thier General Education category](geneds/), `geneds/uiuc-geneds-dataset.csv`
 - [Students at The University of Illinois by their home state](students-by-state/), `students-by-state/uiuc-students-by-state.csv`
+- [UIUC Course Catalog](course-catalog/), `course-catalog/uiuc-course-catalog.csv`
 
 ## General Format
 
