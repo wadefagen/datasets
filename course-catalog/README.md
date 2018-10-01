@@ -12,9 +12,9 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Year | Term | YearTerm | Subject | Number | Title |
 | ---- | ---- | -------- | ------- | ------ | ----- |
-| 2019 | Spring | 2019-sp  | AAS 100 | Intro Asian American Studies |
+| 2019 | Spring | 2019-sp  | AAS | 100 | Intro Asian American Studies |
 | ... |
-| 2019 | Spring | 2019-sp  | CS 225 | Data Structures |
+| 2019 | Spring | 2019-sp  | CS | 225 | Data Structures |
 | ... |
 
 
