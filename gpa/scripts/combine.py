@@ -39,6 +39,10 @@ for f in listdir("raw/"):
         if key not in fieldnames:
           del row[key]
 
+      # changing LIS course name to IS to match 2017 name change
+      if row["Subject"] == "LIS":
+        row["Subject"] = "IS"
+        
       # Include only real data
       if row["A+"] != "N/A":
         allRows.append(row)
