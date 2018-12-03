@@ -16,11 +16,13 @@ for f in listdir("raw/"):
   with open("raw/" + f, "r") as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-      # The course subject (eg: "CS") is called "Subject"
+      # The unified field for course subject (eg: "CS") will be called "Subject"
       replaceKey("Course Subject", "Subject")
+      replaceKey("ï»¿Subject", "Subject")
 
-      # The course number (eg: 225) is called "Number"
+      # The unified field for course number (eg: 225) will be called "Number"
       replaceKey("Course", "Number")
+      replaceKey("Course ", "Number")
       replaceKey("Course Number", "Number")
 
       # Term and Year
