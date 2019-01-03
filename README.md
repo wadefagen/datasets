@@ -9,6 +9,7 @@ This repository contains a collection of datasets I've found useful.  Many of th
 - [UIUC Courses by thier General Education category](geneds/), `geneds/uiuc-geneds-dataset.csv`
 - [Students at The University of Illinois by their home state](students-by-state/), `students-by-state/uiuc-students-by-state.csv`
 - [UIUC Course Catalog](course-catalog/), `course-catalog/uiuc-course-catalog.csv`
+- [Fighting Illini Historical Football Scores](illini-football/), `illini-football/illini-football-scores.csv`
 
 ## General Format
 
