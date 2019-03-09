@@ -18,7 +18,7 @@ var containsCourseData = function(s) {
 };
 
 
-var term_re = /(WINTER|SPRING|SUMMER|FALL).*(\d\d\d\d)/;
+var term_re = /(WINTER|SPRING|SUMMER|FALL).(\d\d\d\d)/;
 var page_re = /(PAGE (\d+))|(^\d+$)/;
 
 var isPageBoundry = function (s) {
