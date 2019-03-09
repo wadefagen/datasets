@@ -1,6 +1,6 @@
 # Teachers Ranked as Excellent at The University of Illinois
 
-A collection of all "Teachers Ranked as Excellent" at UIUC from Fall 1993 through Spring 2018 in a clean, consistent CSV format.
+A collection of all "Teachers Ranked as Excellent" at UIUC from Fall 1993 through Winter 2018 in a clean, consistent CSV format.
 
 [A single CSV containing all of the data can be downloaded here.][Single_CSV_Download]
 
@@ -21,6 +21,15 @@ This repository contains a collection of all known lists of "Teachers Ranked as 
 The goal of this repository is to provide an easy interface for the use of this data in data science projects.
 
 ### CSV Fields
+
+| term | unit | lname | fname | role | ranking | course |
+| ---- | ---- | ----- | ----- | ---- | ------- | ------ |
+| fa2003 | ACCOUNTANCY | BALLOU | B | Instructor | Excellent | 304 |
+| fa2003 | ACCOUNTANCY | CHANDLER | J | Instructor | Excellent | 304 |
+| fa2003 | ACCOUNTANCY | DEREUS | M | TA | Excellent | 201 |
+| ... |
+| fa2018 | COMPUTER SCIENCE | FAGEN-ULMSCHNEIDER | W | Instructor | Outstanding | 225 |
+| ... |
 
 All CSVs contain eight fields, with field labels in the first row and data in all following rows.  The data contained in the fields are as follows:
 
