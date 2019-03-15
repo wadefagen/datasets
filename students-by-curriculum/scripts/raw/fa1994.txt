@@ -1,0 +1,453 @@
+UIUC On-Campus Student Enrollment by Curriculum, Sex, Race, and Residency 
+FALL TERM 1994
+Produced by the Division of Management Information
+Glossary
+Return to the Student Enrollment Reports Page
+
+                                        Total  ---By Sex----- -------------By Self-Reported Race/Ethnic Code--------- --By Residency--
+                                                                      Native  African  Asian   Hisp-   Cauc-
+                                        All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 
+
+ ** Campus total **                    36,137  20,329  15,808     550      65   2,219   3,866   1,638  24,684   3,115   7,696  28,441
+ **     Graduate Total                  8,898   5,335   3,563     243      18     299     478     178   4,989   2,693   5,515   3,383
+ **     Professional Total                927     434     493      10       4      73      56      36     743       5     114     813
+ **     Undergraduate Total            26,312  14,560  11,752     297      43   1,847   3,332   1,424  18,952     417   2,067  24,245
+
+
+15 AGR, CONSUMER, & ENV SCIENCES 
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 1501   AGR COMM        1545 1545          74      23      51                       6       1       1      66               2      72
+ 1503   AGR ECON        1505 1505         349     278      71       4               5      12       7     318       3       7     342
+ 1507   AGR MECH        1510 1510          74      74               1               2               1      69       1       1      73
+ 1509   AGR SCI         1501 1501          36      20      16                       1               1      34               3      33
+ 1510   AG ENG SCI      1510 1510          97      84      13                       7       4       2      83       1       5      92
+ 1511   AGRONOMY        1515 1515          68      50      18       3                       2       1      62               1      67
+ 1512   SOIL SCI        1565 1565           5       5                                                       5               1       4
+ 1515   ANIMAL SCI      1535 1535         364     145     219       1              16      12      10     324       1      12     352
+ 1517   CORE CURR       1501 1501          43      34       9               1       1       1              40               1      42
+ 1523   ORN HORT        1565 1565          86      49      37               1       1       5       1      78               2      84
+ 1524   FOOD IND        1550 1550           9       3       6                       1       1               7                       9
+ 1525   FOOD SCI        1550 1550          55      20      35       3               9       8       2      32       1       3      52
+ 1528   FORESTRY        1565 1565         161      79      82       1       2       4       2       8     144               6     155
+ 1531   GEN AGR                             2       1       1       1       1                                                       2
+ 153302 H DVL-FAM       1545 1545         161      15     146       2               4      17       8     130               4     157
+ 153303 FOOD-NUTR       1550 1550          48       5      43       2               3      11       1      30       1       5      43
+ 153304 FOOD-BUS        1550 1550          41       8      33                       1       2              38               1      40
+ 153305 GEN H ECON      1560 1560           1               1                                               1                       1
+ 153307 DIETETICS       1550 1550          80       3      77                       1       7       3      69               6      74
+ 153309 MKT TEXT&A      1505 1505          77       4      73       1               5      10       2      57       2       4      73
+ 153310 TEXT-APPRL      1505 1505          18       1      17                       3       1              10       4       5      13
+ 153311 CONSM ECON      1505 1505          38      14      24                       2       7              29                      38
+ 1537   HORTICULT       1565 1565          25      16       9       1                       1              23               2      23
+ 1538   INT DSGN                            1               1                                               1                       1
+ 1541   REST MGMT       1550 1550          61      26      35                       2      11       1      47                      61
+ 1587   AGRIC EDUC      1545 1545          20      12       8                                              20                      20
+ 260315 AGR ECON        1505 1505         109      89      20                       7       1              33      68      91      18
+ 261115 AGRONOMY        1515 1515          80      54      26       1                       3              43      33      49      31
+ 261515 ANIMAL SCI      1535 1535         112      73      39       3               5       1              74      29      52      60
+ 262215 EXT EDUC        1545 1545           5       1       4       2                                       2       1       1       4
+ 262515 FOOD SCI        1550 1550          76      30      46                       4       4       2      28      38      54      22
+ 262815 FORESTRY        1565 1565          43      20      23       2                               2      23      16      18      25
+ 263715 HORTICULT       1565 1565          44      28      16                       1       1       1      15      26      28      16
+ 263865 NUTR SCI        1567 1567          53      19      34       1               2       8              21      21      37      16
+ 263915 PLANT PATH      1515 1515          32      22      10               1       1                       6      24      29       3
+ 264415 FAM&CON EC      1505 1505           7       2       5                               1       1       1       4       6       1
+ 264515 FOOD-NUTR       1550 1550          16       3      13       1       1                       3       5       6       9       7
+ 264615 HU DEV&FAM      1545 1545          31       4      27       1               1       2       1      22       4      19      12
+ 264715 HR&FS A&ID      1505 1505          15       1      14                       1       2               4       8      11       4
+ 266715 AGR EDUC        1545 1545           5       4       1                       1                       3       1       2       3
+ **COLLEGE TOTAL**                      2,622   1,319   1,303      31       7      97     138      59   1,997     293     477   2,145
+Back            
+
+
+17 COMMERCE & BUSINESS ADMIN     
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 1702   UNASSIGNED      1701 1701         630     327     303       2              13      55      24     476      60      89     541
+ 1703   ACCOUNT         1705 1705       1,041     525     516       6       1      58     130      43     765      38      88     953
+ 1716   ECONOMICS       1720 1720          59      35      24       1               8       7       4      36       3       6      53
+ 172001 FINANCE         1722 1722         513     373     140       2              35      47      24     399       6      27     486
+ 172002 FINANCE         1722 1722           7       6       1                               1               5       1       2       5
+ 172003 FINANCE         1722 1722          18      10       8       1               5                      12                      18
+ 172401 BUS ADMIN       1733 1733         259     122     137                      25      29      16     183       6      21     238
+ 172402 BUS ADMIN       1733 1733         202     101     101               1      16      18      16     147       4      23     179
+ 172403 BUS ADMIN       1733 1733           7       5       2                       1               1       5                       7
+ 172404 BUS ADMIN       1733 1733          15      10       5                       1       1       1      12               1      14
+ 172405 BUS ADMIN:      1733 1733          56      25      31                               5       1      50               2      54
+ 172406 BUS ADMIN       1733 1733          40      21      19                       1       8       6      25               2      38
+ 172407 BUS ADMIN       1733 1733          30      26       4                       3       1       3      22       1       2      28
+ 172408 BUS ADMIN       1733 1733           2               2                                               2                       2
+ 260317 ACCOUNT         1705 1705         109      47      62       2               3      12       2      45      45      66      43
+ 260917 BUS ADMIN       1706 1706         557     406     151      19       1      36      30      10     234     227     310     247
+ 261017 BUS ADMIN       1733 1733         104      73      31       3       1       3               1      22      74      95       9
+ 261317 ECONOMICS       1720 1720         205     150      55       3               2       2       1      39     158     190      15
+ 261917 FINANCE         1722 1722          51      34      17       2       1               2              12      34      41      10
+ **COLLEGE TOTAL**                      3,905   2,296   1,609      41       5     210     348     153   2,491     657     965   2,940
+Back            
+
+
+20 EDUCATION                     
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 2020   EDUC GEN        2001 2001         175      61     114               1       7      10       5     151       1       4     171
+ 2025   SPEC EDUC       2035 2035          13              13                       1                      12               1      12
+ 2030   CHILD EDUC      2020 2020          76       2      74                       6       5       3      61       1       3      73
+ 203536 ELEM EDUC       2020 2020         408      32     376       2       1      14      20      12     359              15     393
+ 2045   TECH ED SP      2040 2040           4       4                                                       4                       4
+ 204510 TECH ED INDUST  2040 2040           3       2       1                                               3                       3
+ 206110 BUSINESS ED ACT 2040 2040           2       1       1                                               2                       2
+ 206130 BUSINESS ED MKT 2040 2040           2       2                               1               1                               2
+ 2070   TCH LIFE SCI    2020 2020           9       2       7                                               9                       9
+ 207210 TCH ENGL OUT MN 2020 2020          52      11      41                       4               1      47                      52
+ 207220 TCH ENGL IN MN  2020 2020          15       4      11       1               1       1              12               1      14
+ 2074   TCH GEN SCIENCE 2020 2020           1               1                                               1                       1
+ 2078   TCH MATH        2020 2020          32      16      16                               3              29                      32
+ 208010 TCH PS CHEM     2020 2020           3       1       2                               1               2                       3
+ 208020 TCH PS PHYSICS  2020 2020           2       2                                                       2                       2
+ 208310 TCH SOC ST OUT  2020 2020          26      12      14                       1       1              24                      26
+ 208320 TCH SOC ST IN   2020 2020          32      20      12                       3                      29                      32
+ 260420 ED ORG & LDRSHP 2004 2004          86      39      47       4              13       1       2      60       6      11      75
+ 261420 EDUC PSYCH      2014 2014         136      45      91       2               7       6       4      74      43      96      40
+ 261920 EDUC ELEMENTARY 2020 2020         124      16     108      20       1      13       4       7      55      24      43      81
+ 262420 ED POL ST       2024 2024          70      18      52       3       1      26       3       5      25       7      20      50
+ 263020 ED SEC&CON      2020 2020         102      44      58       1       1       8       1       4      65      22      41      61
+ 263520 SP EDUC         2035 2035         112      17      95      13              10       2              73      14      38      74
+ 264020 ED VO TECH      2040 2040          68      33      35       6               6               1      43      12      17      51
+ **COLLEGE TOTAL**                      1,553     384   1,169      52       5     121      58      45   1,142     130     290   1,263
+Back            
+
+
+22 ENGINEERING                   
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 2201   A&A ENGR        2205 2205         249     214      35       1               5      27      12     199       5      32     217
+ 220199 A&A ENGR        2205 2205          10       8       2                               3       1       6               2       8
+ 2204   AGR ENGR        2201 1510          47      34      13       1               1       1       4      40                      47
+ 220499 AGR ENGR        2201 1510           2       2                                                       2                       2
+ 2207   CER ENGR        2238 2238         120     107      13                       3      20       4      93              11     109
+ 220732 CER ENGR        2238 2238           1       1                                                       1                       1
+ 220799 CER ENGR        2238 2238           7       5       2                               1               6                       7
+ 2213   CIVIL ENGR      2220 2220         784     624     160       6       2      18      77      27     648       6      57     727
+ 221332 CIVIL ENGR      2220 2220           7       5       2       1                                       6               1       6
+ 221399 CIVIL ENGR      2220 2220          57      54       3                       2       9       2      44               3      54
+ 2214   COMP ENGR       2225 2225         414     377      37       5              28      98      22     257       4      54     360
+ 221499 COMP ENGR       2225 2225          16      16                               1       4              11               3      13
+ 2215   COMP SCI        2217 2217         526     467      59       8       1      22     100      22     365       8      63     463
+ 221532 COMP SCI        2217 2217           4       2       2                                               4               1       3
+ 221599 COMP SCI        2217 2217          10       8       2                               1       1       8               1       9
+ 2216   ELEC ENGR       2225 2225       1,009     888     121       6       4      60     276      44     598      21     129     880
+ 221632 ELEC ENGR       2225 2225           6       5       1                               3               2       1       1       5
+ 221699 ELEC ENGR       2225 2225          71      65       6                       1      25              45              10      61
+ 2219   ENGR MECH       2260 2260          54      45       9                       1      13              40              10      44
+ 221932 ENGR MECH       2260 2260           1       1                                                       1                       1
+ 221999 ENGR MECH       2260 2260           1       1                                                       1                       1
+ 2222   ENGR PHYS       2255 2255          70      54      16       3               2       3       2      60               7      63
+ 222299 ENGR PHYS       2255 2255           1       1                                                       1                       1
+ 2225   GEN ENGR        2230 2230         530     411     119       3              23      76      25     402       1      37     493
+ 222532 GEN ENGR        2230 2230           3       3                                       1               2                       3
+ 222599 GEN ENGR        2230 2230          16      11       5                               1       1      14                      16
+ 2228   IND ENGR        2240 2240         116      82      34                       7      23       3      71      12      27      89
+ 222899 IND ENGR        2240 2240          18      13       5                               7              11               2      16
+ 2231   MECH ENGR       2240 2240         721     647      74       4       3      29     106      30     539      10      96     625
+ 223132 MECH ENGR       2240 2240           2       2                                       1               1               1       1
+ 223199 MECH ENGR       2240 2240          72      60      12                              16              56               9      63
+ 2234   METAL ENGR      2238 2238          57      50       7                               6       1      49       1       5      52
+ 223499 METAL ENGR      2238 2238           3       3                                                       3                       3
+ 2240   NUCL ENGR       2253 2253          69      61       8                       2       6       7      54               9      60
+ 260122 A&A ENGR        2205 2205          61      58       3       1               1       2              41      16      32      29
+ 260422 AGR ENGR        2201 1510          44      32      12       2                       1              16      25      35       9
+ 260722 CER ENGR        2238 2238           8       4       4                               2               1       5       8
+ 260822 CERAMIC ENG     2238 2238           7       7                                                       3       4       4       3
+ 261022 CERAMICS        2238 2238           4       4                                                       2       2       4
+ 261322 CIVIL ENGR      2220 2220         292     256      36       2               2      14      10     131     133     194      98
+ 261422 CS-MS/PHD       2217 2217         391     336      55       6               2      47       2     160     174     302      89
+ 261522 CS-MCS          2217 2217          40      28      12       2                                      19      19      24      16
+ 261622 ELEC ENGR       2225 2225         447     406      41       3               5      66       8     224     141     295     152
+ 262522 GEN ENGR        2230 2230          45      37       8       1               1       3       3      32       5      13      32
+ 262822 IND ENGR        2240 2240          21      14       7                                              15       6      12       9
+ 263122 MECH ENGR       2240 2240         241     216      25                       6      23       8     153      51     151      90
+ 263422 METAL ENGR      2238 2238          17      14       3                                       1      11       5      13       4
+ 263822 MAT SCI & ENG   2238 2238         121      96      25       2                       4       3      50      62      99      22
+ 264022 NUCL ENGR       2253 2253          56      44      12       1                       3       2      33      17      26      30
+ 264322 PHYSICS         2255 2255         246     230      16       4               1      29       1     161      50     209      37
+ 264622 ENV ENGR        2220 2220          66      54      12                       1       3              43      19      36      30
+ 264722 ENV SCI         2220 2220          12      10       2                                              10       2       6       6
+ 264922 TH&AP MECH      2260 2260          42      38       4                       1       1       1      16      23      34       8
+ 268622 TCH CS          2217 2217           2       2                                                       2                       2
+ **COLLEGE TOTAL**                      7,237   6,213   1,024      62      10     225   1,102     247   4,763     828   2,068   5,169
+Back            
+
+
+24 FINE & APPLIED ARTS           
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 2406   ARCH STUDIES    2405 2405         492     326     166               1      12      40      39     393       7      59     433
+ 2407   ART-GEN         2410 2410         209      91     118       3               6      41      13     145       1      14     195
+ 2408   GRAPH DSGN      2410 2410         120      56      64                       3      26       5      85       1      10     110
+ 2410   ART-CRAFTS      2410 2410          37       9      28                       3       4       2      28               4      33
+ 2414   ART-HIST        2410 2410          66      16      50       1               2      10       3      50               3      63
+ 2415   ART-PHOTO       2410 2410          21      11      10                               3       1      16       1       3      18
+ 2416   IND DSGN        2410 2410          66      44      22                       2      13       3      46       2      10      56
+ 2417   ART-MED         2410 2410           4       1       3                                       1       3                       4
+ 2418   ART-PAINT       2410 2410          82      40      42                       3       8       5      65       1       2      80
+ 2420   ART-SCULPT      2410 2410          15       7       8       1                       3              11               1      14
+ 2422   URBAN PLAN      2448 2448          92      57      35       2               6       2       6      73       3       6      86
+ 2426   L ARCH          2420 2420          94      61      33       1               3       1       5      83       1       7      87
+ 2431   MUS-VOICE       2425 2425          48      15      33       1               5       2       1      39              12      36
+ 2432   MUSIC-INST      2425 2425          95      33      62               1       6      18       2      62       6      31      64
+ 2434   MUSIC-COMP      2425 2425          14      11       3       2                       1       1      10               2      12
+ 2438   MUSIC-OPEN      2425 2425           3       2       1                                               3                       3
+ 2440   THTRE-ACT       2430 2430          66      24      42                       2       4       4      56              13      53
+ 2442   PERFORM ST      2430 2430          10       6       4                       1                       9               3       7
+ 2444   DESGN-TECH      2430 2430          39      24      15               2       2       1              33       1       5      34
+ 2450   UNCLASS         2401 2401          46      16      30      22               1               2       8      13      23      23
+ 2460   DANCE           2418 2418          38       3      35       1               1       1              33       2       9      29
+ 2463   MUSIC EDUC      2425 2425         219      90     129       2               5      11       3     197       1      28     191
+ 2468   ART EDUC        2410 2410          55      11      44       1               2       2              50               1      54
+ 260424 ARCH - 1YR      2405 2405           5       5                                                       2       3       4       1
+ 260624 ARCH -2 YR      2405 2405         118      81      37                       2      10       4      93       9      28      90
+ 260724 ART & DESIGN    2410 2410          62      32      30       3       1       1       4       2      41      10      42      20
+ 260924 ART HIST        2410 2410          39       5      34       1               1               1      33       3      23      16
+ 261024 ARCH TRK 3      2405 2405          54      35      19       2                       2       2      43       5      15      39
+ 262224 URBAN PLAN      2448 2448          58      32      26       1               1       3       4      39      10      25      33
+ 262624 L ARCH          2420 2420          48      17      31                                       1      28      19      28      20
+ 262824 REG PLAN        2448 2448          27      19       8                       1               1      12      13      19       8
+ 263124 MUSIC           2425 2425         147      67      80       9               3       5       3      99      28      98      49
+ 263224 MUSIC(AMS)      2425 2425          78      45      33       5               1                      55      17      55      23
+ 265024 THEATRE (PHD)   2430 2430          15       5      10                                              13       2       9       6
+ 265124 THEATRE (MFA-D) 2430 2430          56      25      31       2       1       6       2              43       2      46      10
+ 266124 DANCE           2418 2418          17       4      13                       2               1      10       4      12       5
+ 266324 MUSIC ED        2425 2425          44      19      25       2               2               2      29       9      26      18
+ 266824 ART EDUC        2410 2410          39      14      25       1               4       1       2      20      11      21      18
+ **COLLEGE TOTAL**                      2,738   1,359   1,379      63       6      89     218     119   2,058     185     697   2,041
+Back            
+
+
+28 COLLEGE OF COMMUNICATIONS     
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 260128 ADVERTIS        2803 2803          34      10      24       1               2                      14      17      21      13
+ 261128 COMMUN          2820 2820          39      19      20               1       3               4      23       8      29      10
+ 262128 JOURNALISM      2810 2810          29      10      19       2               2                      24       1       8      21
+ 2801   ADVERTIS        2803 2803         225      73     152       1              17      22      14     169       2      10     215
+ 283110 NEWS-EDIT       2810 2810          82      33      49                       4       5       6      66       1       3      79
+ 283120 BCAST JOUR      2810 2810          70      24      46                       9       3       3      54       1       4      66
+ 2836   MEDIA STDS      2820 2820          34      14      20                       2       3       5      23       1       1      33
+ **COLLEGE TOTAL**                        513     183     330       4       1      39      33      32     373      31      76     437
+Back            
+
+
+30 LAW                           
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 261130 COMP LAW        3010 3010           2       2                                                               2       2
+ 264130 LAW             3010 3010          25      17       8                       1                       2      22      24       1
+ 3041   LAW             3010 3010         583     330     253       8       1      66      46      27     432       3     106     477
+ **COLLEGE TOTAL**                        610     349     261       8       1      67      46      27     434      27     132     478
+Back            
+
+
+32 LIBERAL ARTS & SCIENCES       
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 260032 ATMOSPHERIC SCI 3212 3212          27      25       2       1                                      15      11      23       4
+ 260132 ANTHRO          3207 3207          99      43      56                       1       5       3      61      29      67      32
+ 260232 ASTRONOMY       3210 3210          22      17       5                       1       1               9      11      19       3
+ 260332 BIOLOGY         3253 3253         152      84      68                              23       1     103      25      60      92
+ 260432 BIOPHYS/COMPBIO 3253 3213          44      28      16       2               1       5              15      21      35       9
+ 260532 PLBIO           3216 3216          37      15      22                       1                      21      15      28       9
+ 260632 CHEM ENGR       3288 3288          80      59      21                       1       6       2      52      19      76       4
+ 260732 CHEMISTRY       3286 3286         264     199      65       7               2      16       6     174      59     226      38
+ 260832 CLASSICS        3222 3222          11       8       3       1                                       9       1       8       3
+ 260932 CLASS PHIL      3222 3222          12       8       4                                       1       9       2       7       5
+ 261032 BIOCHEM         3285 3285          88      52      36       2               1      10       2      48      25      70      18
+ 261132 ENGLISH         3225 3225         133      56      77       1               5       5             114       8      94      39
+ 261232 ENTOMOLOGY      3228 3228          36      17      19       1               1       3       2      24       5      23      13
+ 261332 FRENCH          3231 3231          60      19      41       2               1       2       2      42      11      38      22
+ 261432 ASIAN ST        3208 3208          34      14      20       1                       6              11      16      22      12
+ 261532 GEOGRAPHY       3243 3243          45      32      13       3               4       3              29       6      27      18
+ 261632 GEOLOGY         3246 3246          44      25      19       2                       1              25      16      32      12
+ 261732 GERMAN          3249 3249          32      15      17                                       1      28       3      14      18
+ 261932 HISTORY         3250 3250         135      96      39       3               7               4     108      13      72      63
+ 262032 AFR STUDY       3205 3205          10       7       3                       5               1       3       1       7       3
+ 262132 ITALIAN         3272 3272           6       1       5                                               4       2       4       2
+ 262332 LINGUISTIC      3252 3252          84      38      46       1               4       4              24      51      74      10
+ 262432 MATH            3254 3254         188     146      42       6       1       1       7              85      88     167      21
+ 262532 MICROBIO        3255 3255          73      47      26       1       1               4       4      44      19      55      18
+ 262632 APPL MATH       3254 3254          22       9      13       1                       2               2      17      18       4
+ 262732 PHILOSOPHY      3257 3257          54      44      10       2       2               2              44       4      28      26
+ 263032 MOL & INT PHYSI 3260 3260          46      28      18       2       1               3       1      17      22      31      15
+ 263132 POLI SCI        3263 3263          62      44      18       3               3       1       2      42      11      38      24
+ 263232 PORTUGUESE      3272 3272           6       2       4                                               1       5       5       1
+ 263932 NEUROSC         3253 3253          30      24       6                               5       1      14      10      14      16
+ 264032 PSYCHOLOGY      3266 3266         193      82     111       7       1       8      11      10     121      35     146      47
+ 264132 SLAV L&LIT      3268 3268          24      11      13                                              16       8      20       4
+ 264332 SOCIOLOGY       3269 3269          50      20      30       1       1       4       4              31       9      29      21
+ 264432 SPANISH         3272 3272          49      17      32                                       8      23      18      36      13
+ 264532 SP COMM         3274 3274          61      27      34       1                       1              52       7      41      20
+ 264632 STATISTICS      3283 3283          27      19       8                                               5      22      23       4
+ 264932 COMP LIT        3224 3224          30      11      19       1               1       1              16      11      24       6
+ 265332 CHEM PHYS       3286 3286          11      10       1                               1               5       5      10       1
+ 266032 REES            3265 3265           1       1               1                                                               1
+ 266832 SP&HS-PHD       3201 3640           2               2                                               1       1       1       1
+ 266932 TCH BIO SC      3253 3253           9       5       4                               3               6               1       8
+ 267132 TCH CHEM        3286 3286           4       1       3       1                                       3               3       1
+ 267832 TCH MATH        3254 3254           1               1                                               1                       1
+ 267932 TCH ENGL 2      3226 3226          89      14      75       2               3       3       2      36      43      62      27
+ 268232 TCH RUSS        3268 3268           1       1                                                       1                       1
+ 268432 TCH SPAN        3272 3272           1               1                                               1                       1
+ 32XX01 ANTHRO          3207 3207         125      57      68       1               4       8      14      98               4     121
+ 32XX02 ASTRONOMY       3210 3210          16      14       2                               2              14               1      15
+ 32XX03 BIOL-HON        3253 3253          78      44      34                              30       3      43       2       7      71
+ 32XX04 BIOL-GEN        3253 3253       1,448     672     776       6       3      69     324      68     971       7      72   1,376
+ 32XX05 PLANT BIO:      3216 3216          12       1      11                               2              10               2      10
+ 32XX07 CHEMISTRY       3286 3286         193     106      87       1       1      21      42       4     120       4      17     176
+ 32XX08 CLASSICS        3222 3222          12       5       7       1               1                      10               1      11
+ 32XX09 BIOPHYSICS      3253 3213           9       5       4                               2       1       6               2       7
+ 32XX11 ENGLISH         3225 3225         532     213     319       6       2      65      47      35     377              21     511
+ 32XX12 ENTOMOLOGY      3228 3228           1               1                                               1                       1
+ 32XX13 FRENCH          3231 3231          60      10      50       1               4       1       3      48       3       6      54
+ 32XX15 GEOGRAPHY       3243 3243          41      30      11                       2       3       1      35               1      40
+ 32XX16 GEOLOGY         3246 3246          19      10       9                       1       2       2      14               1      18
+ 32XX17 GERM L&LIT      3249 3249          32      14      18                       1       3       1      26       1       4      28
+ 32XX19 HISTORY         3250 3250         461     315     146       8       1      44      33      36     338       1      18     443
+ 32XX21 ITALIAN         3272 3272           3       1       2                               1               2                       3
+ 32XX23 MATH & CS       3254 3254         187     148      39       4              19      28       5     117      14      26     161
+ 32XX24 MATH            3254 3254         121      77      44       1              10      12       6      90       2      10     111
+ 32XX25 MICROBIO        3255 3255         103      58      45       1               5      19       5      72       1       1     102
+ 32XX27 PHILOSOPHY      3257 3257          77      63      14                       4       8       6      59               3      74
+ 32XX28 LINGUISTIC      3252 3252          21       8      13       1               1       1       1      13       4       6      15
+ 32XX29 E E & E         3227 3227          77      41      36                               5       2      70               1      76
+ 32XX30 MOL & INT PHYSI 3260 3260          44      24      20               1              18       2      23               5      39
+ 32XX31 POLI SCI        3263 3263         528     310     218       5       1      51      54      40     376       1      29     499
+ 32XX38 RELIG ST        3267 3267          14       8       6                       3       4               7               2      12
+ 32XX40 PSYCHOLOGY      3266 3266       1,364     486     878       9       2     146     169      83     951       4      56   1,308
+ 32XX41 RUSSIAN         3268 3268           7       3       4                       1                       6               1       6
+ 32XX43 SOCIOLOGY       3269 3269         321     131     190       4              57      26      29     205              14     307
+ 32XX44 SPANISH         3272 3272          78      16      62                       4              31      43               1      77
+ 32XX45 SP. COMM.       3274 3274         317     152     165       2       1      58      19      11     226              18     299
+ 32XX46 STATISTICS      3283 3283           7       4       3                               1       1       4       1       3       4
+ 32XX48 PORTUGUESE      3272 3272           3       1       2                                       3                               3
+ 32XX50 I P S           3201 3201           9       6       3                       1                       8               1       8
+ 32XX51 BIOENGR         3260 3260         162      93      69       2               7      59       2      91       1      12     150
+ 32XX52 CL&ST BIO       3204 3204         127      71      56               1       4      53       4      65              10     117
+ 32XX56 STATS & CS      3283 2217          18      12       6                               5       2       9       2       1      17
+ 32XX60 ACTUAR SCI      3254 3254         138      84      54                      10      13       4     110       1       8     130
+ 32XX61 RHETORIC        3225 3225         114      58      56       2              16       8      13      75               9     105
+ 32XX62 HIST ART        3201 2410          30       6      24                       2       4       3      20       1       1      29
+ 32XX63 SPCH&HEAR       3201 3640           4               4                       1                       3                       4
+ 32XX64 ECONOMICS       3201 1720         270     176      94       1              10      36      19     203       1      10     260
+ 32XX65 FINANCE         3201 1722          46      27      19                       7       6       3      29       1       1      45
+ 32XX67 MUSIC           3201 2425          19      11       8                       1       1              17               2      17
+ 32XX68 PHYSICS         3201 2255          48      40       8                       1       4              42       1       6      42
+ 32XX91 LAT AM ST       3248 3248          11       4       7                                       7       4                      11
+ 32XX93 RU&E EU ST      3265 3265          15       6       9                               1              14               1      14
+ 32XX94 E ASIAN L & C   3208 3208          40      23      17       3               1      16              20               4      36
+ 32XX95 HUMANITIES      3201 3201          50      30      20       1               2       5       3      39               3      47
+ 32XX96 COMP LIT        3224 3224           5       2       3                                       2       3               1       4
+ 3203   BIOCH           3285 3285         201     116      85       1              11      71       5     105       8      26     175
+ 3206   CHEM ENGR       3288 3288         377     245     132       1              24      52      19     273       8      41     336
+ 3207   CHEMISTRY       3286 3286         204     137      67       1               6      29       5     159       4      21     183
+ 3208   GEOLOGY         3246 3246          23      16       7                       1               3      19               3      20
+ 3210   GEN CURR        3201 3201       2,207   1,002   1,205      10       4     282     293     218   1,389      11     116   2,091
+ 3212   TRANSITION      3201 3201         192      97      95      14             112       1      55      10              13     179
+ 3213   PRE-JOURN       3201 3201         276     113     163                      36      22      18     198       2      16     260
+ 3216   PRE-MED         3201 3201         299     144     155       1       1      24      75      23     175              14     285
+ 3218   UNCM FR&SO      3201 3201         224      98     126                      32      11      18     163               6     218
+ 3219   UNCLASS         3201 3201         209      96     113      70               4      10       3      48      74     126      83
+ 3229   PHYSICS         3201 2255          57      48       9                               8       2      46       1       9      48
+ 3265   SP&HS II        3201 3640           1               1                                               1                       1
+ 3268   TEACH CS        3254 2217           3       2       1                                               3                       3
+ 3270   TCH BIOL        3253 3253          20       4      16                               2       1      17                      20
+ 3271   TCH CHEM        3286 3286          14       8       6                       1                      13                      14
+ 3272   TCH ENGL        3225 3225         100      34      66                       5       8       6      81                     100
+ 3273   TCH FRENCH      3231 3231          14              14                               1              12       1       2      12
+ 3274   TCH EA SCI      3246 3246           3               3                                               3                       3
+ 3276   TCH GERMAN      3249 3249           2               2                                               2                       2
+ 3278   TCH MATH        3254 3254          37      21      16                       2       3       2      30               2      35
+ 3279   LAS TCH MATH    3254 3254          11       4       7                       1       1               9                      11
+ 3281   TCH PHYS        3201 2255           6       3       3                                               6                       6
+ 3283   TCH SOC ST      3250 3250          47      26      21                               1       3      43               1      46
+ 3284   TCH SPAN        3272 3272          40       4      36                       2       1       2      34       1       2      38
+ 3285   TCH SPEECH      3274 3274           7       1       6                                               7                       7
+ **COLLEGE TOTAL**                     14,480   7,316   7,164     214      25   1,232   1,802     891   9,468     848   2,579  11,901
+Back            
+
+
+36 APPLIED LIFE STUDIES          
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 262936 KINES           3615 3615          65      36      29       1               1       1              45      17      36      29
+ 263536 REHAB           3605 3605          28       9      19       2               1       1              23       1       6      22
+ 265036 MSPH IN C HLTH  3605 3605          10       1       9       1               1               1       5       2       2       8
+ 265136 LEISURE ST      3625 3625          39      18      21                                              30       9      20      19
+ 266236 COMM HLTH       3605 3605          24       9      15                       1       1              21       1      10      14
+ 266836 SP&HS - PHD     3640 3640          51       3      48       1               2       3              43       2      12      39
+ 267936 TCH KINES       3615 3615           1               1                                               1                       1
+ 3651   LEISURE ST      3625 3625         118      55      63       6       1       7      10       6      88              11     107
+ 365120 PROG MANAG      3625 3625          41      16      25       1       1       6       2              31               5      36
+ 365130 THER REC        3625 3625           9       2       7                                               9               2       7
+ 3662   COMM HLTH       3605 3605          78      20      58       2               5      16       4      50       1       3      75
+ 366202 HLTH EDUC       3605 3605          22       2      20                       3       1              18               3      19
+ 366205 HLTH PL AD      3605 3605          92      26      66       1              19       8       3      61               3      89
+ 3666   KINES           3615 3615         109      50      59       4               6      11       3      85               3     106
+ 366604 SOC SCI SP      3615 3615           5       3       2                       1                       4               2       3
+ 366605 BIOSCIENCE      3615 3615          24      13      11                       1       1              22               3      21
+ 366606 CUR INST 2      3615 3615           1               1                                               1                       1
+ 366607 CUR INST#3      3615 3615           5       3       2                                               5                       5
+ 366609 PERSN AREA      3615 3615           1       1                               1                                               1
+ 366610 KINESIOLOGY     3615 3615         265     140     125       4              23      12       9     213       4      14     251
+ 366618 KINES K-12,6-12 3615 3615           1               1                                               1                       1
+ 3667   SPCH & HS       3640 3640         149       3     146       1               7       5       3     133               2     147
+ **COLLEGE TOTAL**                      1,138     410     728      24       2      85      72      29     889      37     137   1,001
+Back            
+
+
+44 VETERINARY MEDICINE           
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 260444 VMS BIOSCI      4405 4405          32      20      12       3               1       1       1      19       7      19      13
+ 260544 VMS CL MED      4420 4420          21       8      13       4                                      15       2      15       6
+ 260644 VET PTHBIO      4430 4430          31      20      11       3                       1              22       5      16      15
+ 4401   VET MED         4401 4401         344     104     240       2       3       7      10       9     311       2       8     336
+ **COLLEGE TOTAL**                        428     152     276      12       3       8      12      10     367      16      58     370
+Back            
+
+
+52 INSTITUTE OF AVIATION         
+ Curriculum          Degree Advsng                                     Native African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown   Amer   Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 5201   AIR SYS         5210 5210           6       6                                                       6                       6
+ 5202   PP/AS           5210 5210          77      72       5       3               3       7       8      56               3      74
+ 5241   PROF PILOT      5210 5210         111      81      30       1               4       4       7      95              15      96
+ 5250   NON-DEGREE      5210 5210          14      14               5               2                       7               2      12
+ **COLLEGE TOTAL**                        208     173      35       9               9      11      15     164              20     188
+Back            
+
+
+60 LABOR & INDUSTRIAL RELATIONS  
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 263526 LAB&IN REL      6010 6010         102      32      70       1               9       6       7      70       9      42      60
+ **COLLEGE TOTAL**                        102      32      70       1               9       6       7      70       9      42      60
+Back            
+
+
+68 SCHOOL OF SOCIAL WORK         
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 6850   SOC WORK        6810 6810          49       6      43                       2       5       1      41               2      47
+ 264726 SOC WORK        6810 6810         283      46     237      15              18       7       1     224      18      43     240
+ **COLLEGE TOTAL**                        332      52     280      15              20      12       2     265      18      45     287
+Back            
+
+
+74 LIBRARY & INFORMATION SCIENCE 
+ Curriculum          Degree Advsng                                    Native  African  Asian   Hisp-   Cauc-
+ Code   Name            Dept Dept       All     Men    Women  Unknown  Amer    Amer   Pac Isl  anic    asian  Foreign Non-IL  Il Res
+ 264126 LIB & I SC      7410 7410         271      91     180      14               8       8       2     203      36     110     161
+ **COLLEGE TOTAL**                        271      91     180      14               8       8       2     203      36     110     161
+Back            
+
