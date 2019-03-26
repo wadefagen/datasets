@@ -12,9 +12,9 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Year | Term | YearTerm | Course | Course Title | ACP | CS | HUM | NAT | QR | SBS |
 | ---- | ---- | -------- | ------ | ------------ | --- | -- | --- | --- | -- | --- |
-| 2018 | Fall | 2018-fa  | AAS 100 | Intro Asian American Studies |  | US | | | | SS |
+| 2019 | Fall | 2019-fa  | AAS 100 | Intro Asian American Studies |  | US | | | | SS |
 | ... |
-| 2018 | Fall | 2018-fa  | CS 225 | Data Structures | | | | | QR1 | |
+| 2019 | Fall | 2019-fa  | CS 107 | Data Science Discovery | | | | | QR1 | |
 | ... |
 
 All courses listed contains at least one Gen Ed category.  Many courses contain multiple Gen Ed categories.
@@ -38,4 +38,4 @@ The column labels and values have the following meaning:
 
 ## Data Source
 
-Scraped from https://courses.illinois.edu/gened/DEFAULT/DEFAULT on March 25, 2018
+Scraped from https://courses.illinois.edu/gened/DEFAULT/DEFAULT
