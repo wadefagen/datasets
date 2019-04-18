@@ -28,7 +28,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 ## Data Source
 
-All data contains in this repository is data contained in public documents released in response to FOIA reqeusts.  Some data was excluded by The University of Illinois to adhere to privacy laws.  A table detailing the FOIA request for each term of data is provided.
+All data contains in this repository is data contained in public documents released in response to FOIA requests.  Some data was excluded by The University of Illinois to adhere to privacy laws.  A table detailing the FOIA request for each term of data is provided.
 
 ### Exclusion of Data
 
