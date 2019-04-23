@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csv-writer": "^1.2.0",
     "fast-xml-parser": "^3.12.5",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
