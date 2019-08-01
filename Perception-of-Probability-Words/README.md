@@ -2,9 +2,18 @@
 
 A collection of 123 responses to an internet survey containing perceptions of probability words.
 
-[Complete survey results can be downloaded here][CSV_Download]
+[The complete, raw survey results can be downloaded here.][CSV_Download]
 
 [CSV_Download]: https://raw.githubusercontent.com/wadefagen/datasets/master/Perception-of-Probability-Words/survey-results.csv
+
+
+## Projects Using this Dataset
+
+1. [Perception of Probability Words](http://waf.cs.illinois.edu/visualizations/Perception-of-Probability-Words/)
+
+![GitHub Logo](boxplots.png)
+
+*If you create a project with this dataset, I'd love to link it here!  Send a PR with your project added to this list!*
 
 
 ## Data Format
@@ -16,13 +25,6 @@ The first row of the CSV file contains column headers.  Every row after the firs
 | 60 | 85 | 80 | ... |
 | 99 | 90 | 80 | ... |
 | ... |
-
-## Projects Using this Dataset
-
-1. [Perception of Probability Words](http://waf.cs.illinois.edu/visualizations/Perception-of-Probability-Words/)
-
-*If you create a project with this dataset, I'd love to link it here!  Send a PR with your project added to this list!*
-
 
 ### Methodology
 
