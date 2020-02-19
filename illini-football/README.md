@@ -11,7 +11,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Season | Date | Location | Opponent | Result | IlliniScore | OpponentScore | Note |
 | ------ | ---- | -------- | -------- | ------ | ----------- | ------------- | ---- |
-| 2018 | 2018-09-01 | vs. | Kent State | W | 31 | 24 |  |
+| 2019 | 2018-08-31 | vs. | Akron | W | 42 | 3 |  |
 | ... |
 | 2014 | 2014-10-11 | @ | Wisconsin | L | 28 | 38 |  |
 | 2014 | 2014-10-25 | vs. | Minnesota | W | 28 | 24 | Homecoming |
