@@ -66,6 +66,11 @@ var run = async function(year, term, yearTerm, url, detailed) {
     var xml2 = await rp(href); await sleep(1000);
     var r2 = fastXmlParser.parse(xml2, {ignoreAttributes: false});
     var d2 = r2["ns2:subject"]["courses"]["course"];
+    if (typeof d2.length == 'undefined') {
+	    var temp = d2;
+	    d2 = [];
+	    d2.push(temp);
+    }
 
     for (var j = 0; j < d2.length; j++) {
       var course = {};
@@ -162,7 +167,7 @@ var run = async function(year, term, yearTerm, url, detailed) {
         if (course.savedMeeting == false && course.savedSection == false && course.savedCourse == false) {
           await csvWriter.writeRecords( [course] );
         }
-      } 
+      }
     }
     
     console.log("Completed: " + course.subject);
