@@ -103,6 +103,13 @@ var run = async function(year, term, yearTerm, url, detailed) {
             section.href = sectionTag["@_href"];
             section.crn = sectionTag["@_id"];
 
+            // fix bug with cis.local
+            var toReplace = "http://cis.local/cisapi/schedule";
+            var replaceText = "https://courses.illinois.edu/cisapp/explorer/schedule";
+            if (section.href.substring(0, toReplace.length) == toReplace) {
+                section.href = replaceText + section.href.substring(toReplace.length, section.href.length) + ".xml";
+            }
+
             var xml4 = await rp(section.href); await sleep(1000);
             var r4 = fastXmlParser.parse(xml4, {ignoreAttributes: false});
             var d4 = r4["ns2:section"];
@@ -130,7 +137,12 @@ var run = async function(year, term, yearTerm, url, detailed) {
               var instructorTags = meetingTag["instructors"]["instructor"];
               if (!Array.isArray(instructorTags)) { instructorTags = [instructorTags]; }
               for (var m = 0; m < instructorTags.length; m++) {
-                instructors.push(instructorTags[m]["#text"]);
+                // Support Instructors not being put up yet
+                if (typeof instructorTags[m] != 'undefined') {
+                  instructors.push(instructorTags[m]["#text"]);
+                } else {
+                  instructors.push("Unknown");
+                }
               }
               meeting.instructors = instructors.join(";");
 
@@ -170,7 +182,7 @@ var run = async function(year, term, yearTerm, url, detailed) {
 };
 
 
-run(2019, "Fall", "2019-fa", "https://courses.illinois.edu/cisapp/explorer/schedule/2019/fall.xml", true);
+run(2020, "Fall", "2020-fa", "https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall.xml", true);
 
 //run(2019, "Fall", "2019-fa", "https://courses.illinois.edu/cisapp/explorer/catalog/2019/fall.xml", true);
 //run(2018, "Fall", "2018-fa", "https://courses.illinois.edu/cisapp/explorer/catalog/2018/fall.xml", false);
