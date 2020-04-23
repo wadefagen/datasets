@@ -10,7 +10,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Year | Term | YearTerm | Subject | Number | Course Title | A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F | W | Primary Instructor |
 | ---- | ---- | -------- | ------- | ------ | ------------ | -- | - | -- | -- | - | -- | -- | - | -- | -- | - | -- | - | - | ------------------ |
-| 2019 | Spring | 2019-sp | AAS | 100 | Intro Asian American Studies | 2 | 13 | 4 | 3 | 3 | 2 | 0 | 3 | 1 | 0 | 0 | 0 | 2 | 0 | Espiritu, Augusto F |
+| 2019 | Fall | 2019-fa | AAS | 100 | Intro Asian American Studies | 20 | 6 | 1 | 4 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Boonsripaisal, Simon |
 | ... |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures | 114 | 47 | 27 | 6 | 28 | 17 | 14 | 18 | 13 | 12 | 9 | 12 | 16 | 2 | Fagen-Ulmschnei, Wade A |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures | 121 | 40 | 27 | 20 | 29 | 16 | 14 | 24 | 4 | 12 | 14 | 16 | 14 | 4 | Fagen-Ulmschnei, Wade A |
@@ -42,7 +42,7 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 | Year | Spring       | Summer        | Fall         | Winter        |
 | ---- | ------------ | ------------- | ------------ | ------------- |
-| 2019 | ✔ (19-766)   | ✔ (19-766)   | ✘            | ✘            |   
+| 2019 | ✔ (19-766)   | ✔ (19-766)   | ✔ (20-207)   | ✔ (20-207)   |   
 | 2018 | ✔ (18-907)   | ✔ (19-202)   | ✔ (19-202)   | ✔ (19-766)   |   
 | 2017 | ✔ (2018-150) | ✔ (18-907)   | ✔ (2018-150) | ✔ (18-907)   |   
 | 2016 | ✔ (2016-456) | ✔ (2017-042) | ✔ (2017-213) | ✔ (18-907)   |
