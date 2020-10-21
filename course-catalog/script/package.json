@@ -1,18 +1,15 @@
 {
-  "name": "stat107",
+  "name": "course-catalog-CIS-scraper",
   "version": "1.0.0",
   "description": "",
   "main": "CIS-scraper.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Wade Fagen-Ulmschneider <waf@illinois.edu> (https://waf.cs.illinois.edu/)",
   "license": "ISC",
   "dependencies": {
-    "csv-writer": "^1.5.0",
-    "fast-xml-parser": "^3.12.20",
-    "request": "^2.88.0",
-    "request-promise-native": "^1.0.7",
+    "csv-writer": "^1.6.0",
+    "fast-xml-parser": "^3.17.4",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
     "unescape": "^1.0.1"
   }
 }
