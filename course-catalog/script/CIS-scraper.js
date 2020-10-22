@@ -202,7 +202,7 @@ if (process.argv < 2) {
   let semString = process.argv[2];
 
   let semPieces = semString.split("-");
-  if (semPieces != 2) {
+  if (semPieces.length != 2) {
     console.error("Semester string argument must be of format `2020-fa`.");
     process.exit(1);
   }
