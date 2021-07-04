@@ -32,6 +32,7 @@ The column labels and values have the following meaning:
 ## Projects Using this Dataset
 
 1. [Every Gen Ed at UIUC, by GPA](http://waf.cs.illinois.edu/discovery/every_gen_ed_at_uiuc_by_gpa/)
+2. [GPA++](https://chinmayamahesh.me/gpa)
 
 *If you create a project with this dataset, I'd love to link it here!  Send a PR with your project added to this list!*
 
