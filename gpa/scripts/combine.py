@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile, join
 
 allRows = []
-fieldnames = ["Year", "Term", "YearTerm", "Subject", "Number", "Course Title", "A+", "A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F", "W", "Primary Instructor"]
+fieldnames = ["Year", "Term", "YearTerm", "Subject", "Number", "Course Title", "Sched Type", "A+", "A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F", "W", "Primary Instructor"]
 
 def replaceKey(orig, new):
   if orig in row:
