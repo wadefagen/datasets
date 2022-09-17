@@ -23,6 +23,8 @@ The first row of the CSV file contains column headers. Every row after the first
 1. [GPAs of Every Course at The University of Illinois](http://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/), 
 2. [Every Gen Ed at UIUC, by GPA](http://waf.cs.illinois.edu/discovery/every_gen_ed_at_uiuc_by_gpa/)
 3. [Grade disparity between sections at UIUC](http://waf.cs.illinois.edu/discovery/grade_disparity_between_sections_at_uiuc/)
+4. [GPA++](https://chinmayamahesh.me/gpa)
+5. [Grade Distributions at UIUC](https://coursegrades.web.illinois.edu/)
 
 *If you create a project with this dataset, I'd love to link it here!  Send a PR with your project added to this list!*
 
@@ -42,7 +44,7 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 | Year | Spring       | Summer        | Fall         | Winter        |
 | ---- | ------------ | ------------- | ------------ | ------------- |
-| 2021 | ✔ (21-729)   | ---          | ---          | ---           |   
+| 2021 | ✔ (21-729)   | ✔ (22-297)   | ✔ (22-297)   | ✔ (22-297)   |   
 | 2020 | ✔ (20-875)   | ✔ (20-875)   | ✔ (21-356)   | ✔ (21-356)   |   
 | 2019 | ✔ (19-766)   | ✔ (19-766)   | ✔ (20-207)   | ✔ (20-207)   |   
 | 2018 | ✔ (18-907)   | ✔ (19-202)   | ✔ (19-202)   | ✔ (19-766)   |   
