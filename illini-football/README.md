@@ -10,7 +10,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Season | Date | Location | Opponent | Result | IlliniScore | OpponentScore | Note |
 | ------ | ---- | -------- | -------- | ------ | ----------- | ------------- | ---- |
-| 2020 | 10/23/2020 | vs. | Akron | W | 42 | 3 |  |
+| 2021 | 8/28/2021 | vs. | Nebraska | W | 30 | 22 |  |
 | ... |
 | 2014 | 10/11/2014 | @ | Wisconsin | L | 28 | 38 |  |
 | 2014 | 10/25/2014 | vs. | Minnesota | W | 28 | 24 | Homecoming |
