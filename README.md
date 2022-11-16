@@ -2,7 +2,7 @@
 
 This repository contains a collection of datasets I've found useful.  Many of these datasets are clean versions of public datasets, provided in a clean, consistent format for use in data science projects.
 
-## Avaialble Datasets
+## Available Datasets
 
 - [GPAs of Courses at The University of Illinois](gpa/), `gpa/uiuc-gpa-dataset.csv`
 - [Teachers Ranked as Excellent by their Students at UIUC](teachers-ranked-as-excellent/), `teachers-ranked-as-excellent/uiuc-tre-dataset.csv`
