@@ -12,9 +12,9 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Year | Term | YearTerm | Course | Course Title | ACP | CS | HUM | NAT | QR | SBS |
 | ---- | ---- | -------- | ------ | ------------ | --- | -- | --- | --- | -- | --- |
-| 2019 | Fall | 2019-fa  | AAS 100 | Intro Asian American Studies |  | US | | | | SS |
+| 2023 | Spring | 2023-sp | AAS 100 | Intro Asian American Studies |  | US | | | | SS |
 | ... |
-| 2019 | Fall | 2019-fa  | CS 107 | Data Science Discovery | | | | | QR1 | |
+| 2023 | Spring | 2023-sp | CS 107 | Data Science Discovery | | | | | QR1 | |
 | ... |
 
 All courses listed contains at least one Gen Ed category.  Many courses contain multiple Gen Ed categories.
