@@ -57,3 +57,7 @@ To your desired terms, and rerun the program to regenerate the files `uiuc-prere
 ```
 $ python3 main.py
 ```
+
+## Important Note
+
+The prerequisite list is filtered! For example, if the class "REL 223" says that the prerequisite list is REL 213 or REL 214 but only REL 214 was offered in `['2023-sp', '2022-fa']`, then the item "REL 213" will not show up as a potential way to satisify that prerequisite.

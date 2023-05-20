@@ -3,6 +3,14 @@ from pathlib import Path
 import re
 import json
 
+
+# https://stackoverflow.com/questions/8230315/how-to-json-serialize-sets
+class SetEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, set):
+            return list(o)
+        return json.JSONEncoder.default(self, o)
+        
 '''
 Potential formats include:
 - One of CS 233, CS 240 or CS 340; CS 374 or ECE 374; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406, BIOE 210.
@@ -48,6 +56,7 @@ if __name__ == '__main__':
     OUTPUT_PATH_JSON = Path('..', 'data', 'uiuc-prerequisites.json')
     course_dict = {}
     courses.fillna('', inplace=True)
+    valid_courses = set([f'{row["Subject"]} {row["Number"]}' for index, row in courses.iterrows()])
     for index, row in courses.iterrows():
         description = row['Description']
         name_formatted = f'{row["Subject"]} {row["Number"]}'
@@ -58,11 +67,22 @@ if __name__ == '__main__':
             end = description.find(".", start)
             prereq_text = description[start:end]
             prereqs, sameas_list = extract_prerequisites(prereq_text)
-            course_dict[name_formatted].update(prereqs)
+            cleaned_prereqs = set()
+            for clause in prereqs:
+                cleaned_clause = []
+                for (course, is_concurrent) in clause:
+                    if course in valid_courses:
+                        cleaned_clause.append((course, is_concurrent))
+                if len(cleaned_clause) > 0:
+                    cleaned_prereqs.add(tuple(cleaned_clause))
+            course_dict[name_formatted].update(cleaned_prereqs)
             for sameas in sameas_list:
+                if sameas not in valid_courses:
+                    continue
                 if sameas not in course_dict:
                     course_dict[sameas] = set()
-                course_dict[sameas].update(prereqs)
+                
+                course_dict[sameas].update(cleaned_prereqs)
 
     # Update cross-listed courses
     for index, row in courses.iterrows():
@@ -90,16 +110,10 @@ if __name__ == '__main__':
                 })
             prereq_list.append(new_prereq)
         course_dict[course] = prereq_list
-    # https://stackoverflow.com/questions/8230315/how-to-json-serialize-sets
-    class SetEncoder(json.JSONEncoder):
-        def default(self, o):
-            if isinstance(o, set):
-                return list(o)
-            return json.JSONEncoder.default(self, o)
+    
+
 
     # course_dict -> CSV
-
-    import pandas as pd
 
     df = pd.DataFrame()
     bigCourseId = []
