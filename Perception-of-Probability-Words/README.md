@@ -13,6 +13,8 @@ A collection of 123 responses to an internet survey containing perceptions of pr
 
 ![GitHub Logo](boxplots.png)
 
+2. [probability_words_nli](https://huggingface.co/datasets/sileod/probability_words_nli)
+
 *If you create a project with this dataset, I'd love to link it here!  Send a PR with your project added to this list!*
 
 
