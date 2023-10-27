@@ -10,7 +10,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Year | Term | YearTerm | Subject | Number | Course Title | Sched Type | A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F | W | Primary Instructor |
 | ---- | ---- | -------- | ------- | ------ | ------------ | ---------- | -- | - | -- | -- | - | -- | -- | - | -- | -- | - | -- | - | - | ------------------ |
-| 2022 | Fall | 2022-fa | AAS | 100 | Intro Asian American Studies | DIS | 0 | 11 | 3 | 3 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Zheng, Reanne |
+| 2023 | Spring | 2023-sp | AAS | 100 | Intro Asian American Studies | DIS | 0 | 11 | 5 | 1 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | Shin, Jeongsu |
 | ... |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 114 | 47 | 27 | 6 | 28 | 17 | 14 | 18 | 13 | 12 | 9 | 12 | 16 | 2 | Fagen-Ulmschnei, Wade A |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 121 | 40 | 27 | 20 | 29 | 16 | 14 | 24 | 4 | 12 | 14 | 16 | 14 | 4 | Fagen-Ulmschnei, Wade A |
@@ -44,6 +44,7 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 | Year | Spring       | Summer        | Fall         | Winter        |
 | ---- | ------------ | ------------- | ------------ | ------------- |
+| 2023 | ✔ (23-1295)  | ✔ (23-1295)  | &mdash;   | &mdash;   |   
 | 2022 | ✔ (22-297r2) | ✔ (22-297r2) | ✔ (23-456)   | ✔ (23-456)   |   
 | 2021 | ✔ (21-729)   | ✔ (22-297)   | ✔ (22-297)   | ✔ (22-297)   |   
 | 2020 | ✔ (20-875)   | ✔ (20-875)   | ✔ (21-356)   | ✔ (21-356)   |   
@@ -53,9 +54,9 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 | 2016 | ✔ (2016-456) | ✔ (2017-042) | ✔ (2017-213) | ✔ (18-907)   |
 | 2015 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
 | 2014 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
-| 2013 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ---*          |
-| 2012 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ---*          |
-| 2011 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ---*          |
-| 2010 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ---*          |
+| 2013 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | &mdash;*      |
+| 2012 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | &mdash;*      |
+| 2011 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | &mdash;*      |
+| 2010 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | &mdash;*      |
 
-*: University of Illinois did not have a winter term before 2014.
+*: University of Illinois did not have a winter term before 2014.  Winter term semesters are labeled based on the year they began (ex: Winter 2022-2023 term is labeled as "Winter 2022").
