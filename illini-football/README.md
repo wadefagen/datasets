@@ -1,21 +1,22 @@
 # University of Illinois' Fighting Illini Historical Football Scores
 
-A collection of final scores of every known Fighting Illini football game since 1892, with data on location, homecoming, and national bowl games.
+A collection of final scores of every known Fighting Illini football game since 1892 through the end of the 2023 season, with data on location, homecoming, and national bowl games.
 
 [Download the full dataset as a single CSV file](https://raw.githubusercontent.com/wadefagen/datasets/master/illini-football/illini-football-scores.csv)
 
 ## Data Format
 
-The first row of the CSV file contains column headers. Every row after the first contains data. Sample:
+The first row of the CSV file contains column headers. Every row after the first contains data. Selected sample rows:
 
 | Season | Date | Location | Opponent | Result | IlliniScore | OpponentScore | Note |
 | ------ | ---- | -------- | -------- | ------ | ----------- | ------------- | ---- |
-| 2022 | 8/27/2022 | vs. | Wyoming | W | 30 | 6 |  |
+| 2023 | 11/25/2023 | vs. | Northwestern | L | 43 | 45 |  |
 | ... |
 | 2014 | 10/11/2014 | @ | Wisconsin | L | 28 | 38 |  |
 | 2014 | 10/25/2014 | vs. | Minnesota | W | 28 | 24 | Homecoming |
 | ... |
 | 1963 | 01/01/1964 | Pasadena, CA | Washington | W | 17 | 7 | Rose Bowl |
+| ... |
 
 ### Notes on Data
 
@@ -26,7 +27,7 @@ The first row of the CSV file contains column headers. Every row after the first
   * `@`, for away games played at the opponent's home stadium
   * `Town, State`, for games played at another site (ex: `Pasadena, CA`)
 
-- `Note` contains notes on homecoming games (value: `Homecoming`), bowl games, and canceled games.
+- `Note` contains notes on homecoming games (value: `Homecoming`), bowl games, canceled games, and other notes.
 
 ## Projects Using this Dataset
 
