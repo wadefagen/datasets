@@ -33,7 +33,7 @@ Data for each of the 50 US states is present for every year in the dataset.  In 
 
 ## Data Source
 
-All data contained here was sourced from the [Final Statistical Abstract][DMI_FSA] provided by the [Division of Management Information at The University of Illinois][DMI].  The data provided by DMI has changed over time and is a mix of Excel, HTML, and PDF formats; the data here is the same data as a single CSV file.
+All data contained here was sourced from the [Final Statistical Abstract][DMI_FSA] provided by the [Division of Management Information at The University of Illinois][DMI].  The data provided by DMI has changed over time and is a mix of Excel, HTML, and PDF formats; the data here is the same data as a single CSV file. In cases where the FSA contains statistics for multiple semesters in a year, this dataset includes the **fall semester**.
 
 Additional data transcription and cleaning was completed by [tinaabraham17](https://github.com/tinaabraham17).
 
