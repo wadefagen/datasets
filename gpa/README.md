@@ -68,3 +68,4 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 - The "Winter" semester was re-labeled to match the University of Illinois' course catalog term for winter semesters.  Previously, Winter 2022-2023 was labeled as Winter 2022 in this dataset.  Now, Winter 2022-2023 is labeled as Winter 2023 and matches the course catalog.
 - Previously, "LIS ###" courses were labeled in the dataset to "IS ###" to match a course catalog change that keep continuity between courses through rubric changes.  This practice was not continued across other rubric changes and make it a bit of an awkward special case.  The special-case was removed and courses before 2017 are now "LIS ###" (as they were taught) instead of being changed to "IS ###".
+- Summer 2011 was a copy of Fall 2011 and was removed from the dataset. ([#14](https://github.com/wadefagen/datasets/issues/14))
