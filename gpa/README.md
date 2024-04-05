@@ -10,7 +10,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Year | Term | YearTerm | Subject | Number | Course Title | Sched Type | A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F | W | Primary Instructor |
 | ---- | ---- | -------- | ------- | ------ | ------------ | ---------- | -- | - | -- | -- | - | -- | -- | - | -- | -- | - | -- | - | - | ------------------ |
-| 2023 | Spring | 2023-sp | AAS | 100 | Intro Asian American Studies | DIS | 0 | 11 | 5 | 1 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | Shin, Jeongsu |
+| 2024 | Winter | 2024-wi | ADV | 150 | Introduction to Advertising | ONL | 22 | 18 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Hall, Steven R |
 | ... |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 114 | 47 | 27 | 6 | 28 | 17 | 14 | 18 | 13 | 12 | 9 | 12 | 16 | 2 | Fagen-Ulmschnei, Wade A |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 121 | 40 | 27 | 20 | 29 | 16 | 14 | 24 | 4 | 12 | 14 | 16 | 14 | 4 | Fagen-Ulmschnei, Wade A |
@@ -23,7 +23,7 @@ The first row of the CSV file contains column headers. Every row after the first
 1. [GPAs of Every Course at The University of Illinois](http://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/), 
 2. [Every Gen Ed at UIUC, by GPA](http://waf.cs.illinois.edu/discovery/every_gen_ed_at_uiuc_by_gpa/)
 3. [Grade disparity between sections at UIUC](http://waf.cs.illinois.edu/discovery/grade_disparity_between_sections_at_uiuc/)
-4. [GPA++](https://chinmayamahesh.me/gpa)
+4. ~~[GPA++](https://chinmayamahesh.me/gpa)~~ *(No longer active as of April 2024)*
 5. [Grade Distributions at UIUC](https://coursegrades.web.illinois.edu/)
 
 *If you create a project with this dataset, I'd love to link it here!  Send a PR with your project added to this list!*
@@ -42,21 +42,29 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 ### Table of FOIA Responses
 
-| Year | Spring       | Summer        | Fall         | Winter        |
-| ---- | ------------ | ------------- | ------------ | ------------- |
-| 2023 | ✔ (23-1295)  | ✔ (23-1295)  | &mdash;   | &mdash;   |   
-| 2022 | ✔ (22-297r2) | ✔ (22-297r2) | ✔ (23-456)   | ✔ (23-456)   |   
-| 2021 | ✔ (21-729)   | ✔ (22-297)   | ✔ (22-297)   | ✔ (22-297)   |   
-| 2020 | ✔ (20-875)   | ✔ (20-875)   | ✔ (21-356)   | ✔ (21-356)   |   
-| 2019 | ✔ (19-766)   | ✔ (19-766)   | ✔ (20-207)   | ✔ (20-207)   |   
-| 2018 | ✔ (18-907)   | ✔ (19-202)   | ✔ (19-202)   | ✔ (19-766)   |   
-| 2017 | ✔ (2018-150) | ✔ (18-907)   | ✔ (2018-150) | ✔ (18-907)   |   
-| 2016 | ✔ (2016-456) | ✔ (2017-042) | ✔ (2017-213) | ✔ (18-907)   |
+| Year | Winter        | Spring       | Summer        | Fall         |
+| ---- | ------------- | ------------ | ------------- | ------------ |
+| 2024 | ✔ (24-438)   | &mdash;  | &mdash;  | &mdash;   | &mdash;   |
+| 2023 | ✔ (23-456)   | ✔ (23-1295)  | ✔ (23-1295)  | ✔ (24-438)   |
+| 2022 | ✔ (22-297)   | ✔ (22-297r2) | ✔ (22-297r2) | ✔ (23-456)   |
+| 2021 | ✔ (21-356)   | ✔ (21-729)   | ✔ (22-297)   | ✔ (22-297)   |
+| 2020 | ✔ (20-207)   | ✔ (20-875)   | ✔ (20-875)   | ✔ (21-356)   |
+| 2019 | ✔ (19-766)   | ✔ (19-766)   | ✔ (19-766)   | ✔ (20-207)   |
+| 2018 | ✔ (18-907)   | ✔ (18-907)   | ✔ (19-202)   | ✔ (19-202)   |
+| 2017 | ✔ (18-907)   | ✔ (2018-150) | ✔ (18-907)   | ✔ (2018-150) |
+| 2016 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2017-042) | ✔ (2017-213) |
 | 2015 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
-| 2014 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
-| 2013 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | &mdash;*      |
-| 2012 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | &mdash;*      |
-| 2011 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | &mdash;*      |
-| 2010 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | &mdash;*      |
+| 2014 | &mdash;*     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
+| 2013 | &mdash;*     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
+| 2012 | &mdash;*     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
+| 2011 | &mdash;*     | ✔ (2016-456) | &mdash;       | ✔ (2016-456) |
+| 2010 | &mdash;*     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
 
-*: University of Illinois did not have a winter term before 2014.  Winter term semesters are labeled based on the year they began (ex: Winter 2022-2023 term is labeled as "Winter 2022").
+*: University of Illinois did not have a winter term before 2014.  Winter term semesters are labeled based on the year they end (ex: Winter 2022-2023 term is labeled as "Winter 2023").
+
+### Dataset Format Changes
+
+#### April 5, 2024
+
+- The "Winter" semester was re-labeled to match the University of Illinois' course catalog term for winter semesters.  Previously, Winter 2022-2023 was labeled as Winter 2022 in this dataset.  Now, Winter 2022-2023 is labeled as Winter 2023 and matches the course catalog.
+- Previously, "LIS ###" courses were labeled in the dataset to "IS ###" to match a course catalog change that keep continuity between courses through rubric changes.  This practice was not continued across other rubric changes and make it a bit of an awkward special case.  The special-case was removed and courses before 2017 are now "LIS ###" (as they were taught) instead of being changed to "IS ###".
