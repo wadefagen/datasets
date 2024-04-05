@@ -32,17 +32,16 @@ for f in listdir("raw/"):
       elif f[0:2] == "wi": row["Term"] = "Winter"
 
       row["Year"] = f[2:6]
-      row["YearTerm"] = f[2:6] + "-" + f[0:2]
+      if row["Term"] == "Winter":
+        row["Year"] = str(int(row["Year"]) + 1)
+
+      row["YearTerm"] = row["Year"] + "-" + f[0:2]
 
       # Remove data not included in the final output
       for key in list(row):
         if key not in fieldnames:
           del row[key]
 
-      # changing LIS course name to IS to match 2017 name change
-      if row["Subject"] == "LIS":
-        row["Subject"] = "IS"
-        
       # Include only real data
       if row["A+"] != "N/A":
         allRows.append(row)
