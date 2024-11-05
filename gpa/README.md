@@ -10,7 +10,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Year | Term | YearTerm | Subject | Number | Course Title | Sched Type | A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F | W | Primary Instructor |
 | ---- | ---- | -------- | ------- | ------ | ------------ | ---------- | -- | - | -- | -- | - | -- | -- | - | -- | -- | - | -- | - | - | ------------------ |
-| 2024 | Winter | 2024-wi | ADV | 150 | Introduction to Advertising | ONL | 22 | 18 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Hall, Steven R |
+| 2024 | Spring | 2024-sp | AAS | 100 | Intro Asian American Studies | DIS | 2 | 4 | 5 | 2 | 4 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Zheng, Reanne |
 | ... |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 114 | 47 | 27 | 6 | 28 | 17 | 14 | 18 | 13 | 12 | 9 | 12 | 16 | 2 | Fagen-Ulmschnei, Wade A |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 121 | 40 | 27 | 20 | 29 | 16 | 14 | 24 | 4 | 12 | 14 | 16 | 14 | 4 | Fagen-Ulmschnei, Wade A |
@@ -44,7 +44,7 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 | Year | Winter        | Spring       | Summer        | Fall         |
 | ---- | ------------- | ------------ | ------------- | ------------ |
-| 2024 | ✔ (24-438)   | &mdash;  | &mdash;  | &mdash;   | &mdash;   |
+| 2024 | ✔ (24-438)   | ✔ (24-1690)  | ✔ (24-1690)  | &mdash;   |
 | 2023 | ✔ (23-456)   | ✔ (23-1295)  | ✔ (23-1295)  | ✔ (24-438)   |
 | 2022 | ✔ (22-297)   | ✔ (22-297r2) | ✔ (22-297r2) | ✔ (23-456)   |
 | 2021 | ✔ (21-356)   | ✔ (21-729)   | ✔ (22-297)   | ✔ (22-297)   |
