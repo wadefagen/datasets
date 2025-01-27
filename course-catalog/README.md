@@ -3,6 +3,11 @@
 
 A collection of all courses offered by the University of Illinois, as found in the [Course Catalog](https://courses.illinois.edu/cisapp/explorer/catalog/DEFAULT/DEFAULT.xml).
 
+- [Spring 2025](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2025-sp.csv)
+- [Fall 2024](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2024-fa.csv)
+
+- [Spring 2024](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2024-sp.csv)
+
 - [Spring 2023](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2023-sp.csv)
 
 - [Fall 2022](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2022-fa.csv)
