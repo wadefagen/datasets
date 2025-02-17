@@ -1,6 +1,6 @@
 # University of Illinois' Fighting Illini Historical Football Scores
 
-A collection of final scores of every known Fighting Illini football game since 1892 through the end of the 2023 season, with data on location, homecoming, and national bowl games.
+A collection of final scores of every known Fighting Illini football game since 1892 through the end of the 2024 season, with data on location, homecoming, and national bowl games.
 
 [Download the full dataset as a single CSV file](https://raw.githubusercontent.com/wadefagen/datasets/master/illini-football/illini-football-scores.csv)
 
@@ -10,7 +10,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Season | Date | Location | Opponent | Result | IlliniScore | OpponentScore | Note |
 | ------ | ---- | -------- | -------- | ------ | ----------- | ------------- | ---- |
-| 2023 | 11/25/2023 | vs. | Northwestern | L | 43 | 45 |  |
+| 2024 | 8/29/2024 | vs. | Eastern Illinois | W | 45 | 0 |  |
 | ... |
 | 2014 | 10/11/2014 | @ | Wisconsin | L | 28 | 38 |  |
 | 2014 | 10/25/2014 | vs. | Minnesota | W | 28 | 24 | Homecoming |
