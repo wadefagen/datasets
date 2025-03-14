@@ -7,7 +7,7 @@
   "license": "ISC",
   "dependencies": {
     "csv-writer": "^1.6.0",
-    "fast-xml-parser": "^3.17.4",
+    "fast-xml-parser": "^4.4.1",
     "request": "^2.88.2",
     "request-promise-native": "^1.0.9",
     "unescape": "^1.0.1"
