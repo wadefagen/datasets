@@ -147,14 +147,14 @@ sp2001,"ASTRONOMY",GRIFFIN,M,TA,Excellent,122
 sp2001,"ASTRONOMY",ODWYER,I,TA,Excellent,122
 sp2001,"ASTRONOMY",TASSIS,K,TA,Outstanding,199
 sp2001,"ATMOSPHERIC SCIENCES",CHARLEVOIX,D,Instructor,Excellent,120
-sp2001,"AVIATION",BIALECKI,J,Instructor,Outstanding,?
+sp2001,"AVIATION",BIALECKI,J,Instructor,Outstanding,???
 sp2001,"AVIATION",EMANUEL,T,Instructor,Excellent,250
 sp2001,"AVIATION",KOWALSKI,B,Instructor,Outstanding,101
-sp2001,"AVIATION",KOWALSKI,B,Instructor,Outstanding,?
-sp2001,"AVIATION",LANGE,B,Instructor,Excellent,?
-sp2001,"AVIATION",NELSON,E,Instructor,Excellent,?
-sp2001,"AVIATION",SHELTON,K,Instructor,Excellent,?
-sp2001,"AVIATION",STANKO,D,Instructor,Excellent,?
+sp2001,"AVIATION",KOWALSKI,B,Instructor,Outstanding,???
+sp2001,"AVIATION",LANGE,B,Instructor,Excellent,???
+sp2001,"AVIATION",NELSON,E,Instructor,Excellent,???
+sp2001,"AVIATION",SHELTON,K,Instructor,Excellent,???
+sp2001,"AVIATION",STANKO,D,Instructor,Excellent,???
 sp2001,"AVIATION",WICKENS,C,Instructor,Excellent,395
 sp2001,"AVIATION",WIEGMANN,D,Instructor,Excellent,355
 sp2001,"AVIATION",WOFFORD,M,Instructor,Outstanding,293
@@ -1007,7 +1007,7 @@ sp2001,"MUSIC",ALWES,C,Instructor,Excellent,264
 sp2001,"MUSIC",BLOM,C,TA,Outstanding,214
 sp2001,"MUSIC",BROZAK,G,TA,Outstanding,142
 sp2001,"MUSIC",BUCHANAN,D,Instructor,Outstanding,317
-sp2001,"MUSIC",BUCHAR,K,TA,Excellent,?
+sp2001,"MUSIC",BUCHAR,K,TA,Excellent,???
 sp2001,"MUSIC",BUSAN,R,TA,Outstanding,284
 sp2001,"MUSIC",BUTKAS,M,TA,Outstanding,161
 sp2001,"MUSIC",CAMPBELL,E,Instructor,Outstanding,181
@@ -1015,11 +1015,11 @@ sp2001,"MUSIC",CARLOS,K,TA,Excellent,143
 sp2001,"MUSIC",CHILDS,A,Instructor,Excellent,102
 sp2001,"MUSIC",CLARK,R,TA,Excellent,214
 sp2001,"MUSIC",COLEMAN,B,Instructor,Excellent,263
-sp2001,"MUSIC",DAVIS,O,Instructor,Outstanding,?
+sp2001,"MUSIC",DAVIS,O,Instructor,Outstanding,???
 sp2001,"MUSIC",DAVIS,O,Instructor,Outstanding,261
 sp2001,"MUSIC",DENARDO,G,Instructor,Excellent,242
 sp2001,"MUSIC",DREWS,M,TA,Excellent,113
-sp2001,"MUSIC",FLORES,R,Instructor,Excellent,?
+sp2001,"MUSIC",FLORES,R,Instructor,Excellent,???
 sp2001,"MUSIC",FRASER,J,TA,Excellent,133
 sp2001,"MUSIC",GARNETT,G,Instructor,Excellent,308
 sp2001,"MUSIC",GRANT,J,Instructor,Excellent,262
@@ -1029,21 +1029,21 @@ sp2001,"MUSIC",GRIFFIN,P,Instructor,Outstanding,320
 sp2001,"MUSIC",GRIFFIN,P,Instructor,Outstanding,288
 sp2001,"MUSIC",GRIFFIN,P,Instructor,Outstanding,282
 sp2001,"MUSIC",HAFER,E,TA,Excellent,130
-sp2001,"MUSIC",HAKEN,R,Instructor,Excellent,?
+sp2001,"MUSIC",HAKEN,R,Instructor,Excellent,???
 sp2001,"MUSIC",HICKEY,J,Instructor,Excellent,199
 sp2001,"MUSIC",HORVATH,K,Instructor,Outstanding,239
-sp2001,"MUSIC",JIANG,D,Instructor,Outstanding,?
+sp2001,"MUSIC",JIANG,D,Instructor,Outstanding,???
 sp2001,"MUSIC",JIANG,D,Instructor,Outstanding,269
 sp2001,"MUSIC",JOHNSON,P,TA,Outstanding,173
-sp2001,"MUSIC",LAUFMAN,L,Instructor,Excellent,?
+sp2001,"MUSIC",LAUFMAN,L,Instructor,Excellent,???
 sp2001,"MUSIC",LAWRENCE,L,Instructor,Excellent,342
 sp2001,"MUSIC",MAHIEU,C,TA,Excellent,163
 sp2001,"MUSIC",MAHIEU,C,TA,Excellent,161
-sp2001,"MUSIC",MATTAX,C,Instructor,Excellent,?
+sp2001,"MUSIC",MATTAX,C,Instructor,Excellent,???
 sp2001,"MUSIC",MATTAX,C,Instructor,Excellent,320
-sp2001,"MUSIC",MOERSCH,W,Instructor,Excellent,?
+sp2001,"MUSIC",MOERSCH,W,Instructor,Excellent,???
 sp2001,"MUSIC",MOERSCH,W,Instructor,Excellent,257
-sp2001,"MUSIC",PANTHAKI,S,TA,Excellent,?
+sp2001,"MUSIC",PANTHAKI,S,TA,Excellent,???
 sp2001,"MUSIC",PATTERSON,D,Instructor,Outstanding,315
 sp2001,"MUSIC",PATTERSON,D,Instructor,Outstanding,214
 sp2001,"MUSIC",RAHARJA,R,Instructor,Excellent,271
@@ -1060,7 +1060,7 @@ sp2001,"MUSIC",STOLTZFUS,F,Instructor,Excellent,260
 sp2001,"MUSIC",TAUBE,H,Instructor,Excellent,302
 sp2001,"MUSIC",TSITSAROS,C,Instructor,Outstanding,361
 sp2001,"MUSIC",TURGEON,M,TA,Excellent,261
-sp2001,"MUSIC",YEUNG,A,Instructor,Outstanding,?
+sp2001,"MUSIC",YEUNG,A,Instructor,Outstanding,???
 sp2001,"MUSIC",YUN,S,TA,Excellent,161
 sp2001,"NATURAL RESOURCES & ENVIRONMENTAL SCIENCE",ANDERSON,D,TA,Excellent,254
 sp2001,"NATURAL RESOURCES & ENVIRONMENTAL SCIENCE",BHUTHIMETHEE,T,TA,Excellent,254
