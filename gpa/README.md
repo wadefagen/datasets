@@ -8,12 +8,12 @@ As a response to Freedom of Information Act requests (FOIA #16-456, and others) 
 
 The first row of the CSV file contains column headers. Every row after the first contains data. Sample:
 
-| Year | Term | YearTerm | Subject | Number | Course Title | Sched Type | A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F | W | Primary Instructor |
-| ---- | ---- | -------- | ------- | ------ | ------------ | ---------- | -- | - | -- | -- | - | -- | -- | - | -- | -- | - | -- | - | - | ------------------ |
-| 2024 | Spring | 2024-sp | AAS | 100 | Intro Asian American Studies | DIS | 2 | 4 | 5 | 2 | 4 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Zheng, Reanne |
+| Year | Term | YearTerm | Subject | Number | Course Title | Sched Type | A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F | W | Students | Primary Instructor |
+| ---- | ---- | -------- | ------- | ------ | ------------ | ---------- | -- | - | -- | -- | - | -- | -- | - | -- | -- | - | -- | - | - | -------- | ------------------ |
+| 2024 | Spring | 2024-sp | AAS | 100 | Intro Asian American Studies | DIS | 2 | 4 | 5 | 2 | 4 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 22 | Zheng, Reanne |
 | ... |
-| 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 114 | 47 | 27 | 6 | 28 | 17 | 14 | 18 | 13 | 12 | 9 | 12 | 16 | 2 | Fagen-Ulmschnei, Wade A |
-| 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 121 | 40 | 27 | 20 | 29 | 16 | 14 | 24 | 4 | 12 | 14 | 16 | 14 | 4 | Fagen-Ulmschnei, Wade A |
+| 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 114 | 47 | 27 | 6 | 28 | 17 | 14 | 18 | 13 | 12 | 9 | 12 | 16 | 2 | 353 | Fagen-Ulmschnei, Wade A |
+| 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 121 | 40 | 27 | 20 | 29 | 16 | 14 | 24 | 4 | 12 | 14 | 16 | 14 | 4 | 351 | Fagen-Ulmschnei, Wade A |
 | ... |
 
 *Note that long names for "Primary Instructor" are truncated by the University of Illinois in this dataset.*
@@ -44,7 +44,8 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 | Year | Winter        | Spring       | Summer        | Fall         |
 | ---- | ------------- | ------------ | ------------- | ------------ |
-| 2024 | ✔ (24-438)   | ✔ (24-1690)  | ✔ (24-1690)  | &mdash;   |
+| 2025 | ✔ (25-491)   | &mdash;      | &mdash;       | &mdash;       |
+| 2024 | ✔ (24-438)   | ✔ (24-1690)  | ✔ (24-1690)  | ✔ (25-491)   |
 | 2023 | ✔ (23-456)   | ✔ (23-1295)  | ✔ (23-1295)  | ✔ (24-438)   |
 | 2022 | ✔ (22-297)   | ✔ (22-297r2) | ✔ (22-297r2) | ✔ (23-456)   |
 | 2021 | ✔ (21-356)   | ✔ (21-729)   | ✔ (22-297)   | ✔ (22-297)   |
@@ -63,6 +64,10 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 *: University of Illinois did not have a winter term before 2014.  Winter term semesters are labeled based on the year they end (ex: Winter 2022-2023 term is labeled as "Winter 2023").
 
 ### Dataset Format Changes
+
+#### April 7, 2025
+
+- A new "Students" column was added, that contains the total number of students receiving final grades in each course (excluding "W" grades).
 
 #### April 5, 2024
 
