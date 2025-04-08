@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile, join
 
 allRows = []
-fieldnames = ["Year", "Term", "YearTerm", "Subject", "Number", "Course Title", "Sched Type", "A+", "A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F", "W", "Primary Instructor"]
+fieldnames = ["Year", "Term", "YearTerm", "Subject", "Number", "Course Title", "Sched Type", "A+", "A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F", "W", "Students", "Primary Instructor"]
 
 def replaceKey(orig, new):
   if orig in row:
@@ -44,6 +44,14 @@ for f in listdir("raw/"):
 
       # Include only real data
       if row["A+"] != "N/A":
+        # Add "Students" column:
+        row["Students"] = \
+          int(row["A+"]) + int(row["A"]) + int(row["A-"]) + \
+          int(row["B+"]) + int(row["B"]) + int(row["B-"]) + \
+          int(row["C+"]) + int(row["C"]) + int(row["C-"]) + \
+          int(row["D+"]) + int(row["D"]) + int(row["D-"]) + \
+          int(row["F"])
+
         allRows.append(row)
 
 
