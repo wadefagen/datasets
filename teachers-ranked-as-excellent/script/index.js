@@ -76,6 +76,11 @@ files.forEach(function (file) {
       if (line == "ACCOUNTANCY") {
         readingIntro = false;
       }
+
+      // Spring 2024+
+      if (line == "Accountancy") {
+        readingIntro = false;
+      }
     }
 
     if (!readingIntro) {
@@ -169,9 +174,9 @@ files.forEach(function (file) {
   if (completeCSV == "") { completeCSV = csv; }
   results.forEach(function (obj) {
     obj.courses.forEach(function (course) {
-      if (course == "0") { course = "?"; }
-      else if (course == "000") { course = "?"; }
-      else if (course == "999") { course = "?"; }
+      if (course == "0") { course = "???"; }
+      else if (course == "000") { course = "???"; }
+      else if (course == "999") { course = "???"; }
 
       var str = obj.term + "," +
                 "\"" + obj.unit + "\"," +
@@ -190,3 +195,4 @@ files.forEach(function (file) {
 });
 
 fs.writeFileSync(path.join(rawCSVPath, "..", "uiuc-tre-dataset.csv"), completeCSV);
+
