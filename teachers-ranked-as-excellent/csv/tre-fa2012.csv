@@ -216,13 +216,13 @@ fa2012,"AVIATION",BECK,J,Instructor,Outstanding,225
 fa2012,"AVIATION",JONES,W,Instructor,Excellent,497
 fa2012,"AVIATION",LUCAS,D,Instructor,Outstanding,140
 fa2012,"AVIATION",LUCAS,D,Instructor,Outstanding,497
-fa2012,"AVIATION",MCCARRON,C,Instructor,Outstanding,?
+fa2012,"AVIATION",MCCARRON,C,Instructor,Outstanding,???
 fa2012,"AVIATION",NUSBAUM,D,Instructor,Outstanding,101
 fa2012,"AVIATION",SUPPOK,J,Instructor,Excellent,210
 fa2012,"AVIATION",TALLEUR,D,Instructor,Outstanding,381
 fa2012,"AVIATION",TALLEUR,D,Instructor,Outstanding,455
 fa2012,"AVIATION",TILEV,E,Instructor,Outstanding,120
-fa2012,"AVIATION",VALADEZ,R,Instructor,Outstanding,?
+fa2012,"AVIATION",VALADEZ,R,Instructor,Outstanding,???
 fa2012,"AVIATION",WEST,L,Instructor,Outstanding,184
 fa2012,"BIOENGINEERING",AMOS,J,Instructor,Excellent,120
 fa2012,"BIOENGINEERING",AMOS,J,Instructor,Excellent,435
@@ -1693,7 +1693,7 @@ fa2012,"MUSIC",CARRILLO,T,Instructor,Outstanding,193
 fa2012,"MUSIC",CARRILLO,T,Instructor,Outstanding,266
 fa2012,"MUSIC",CARRILLO,T,Instructor,Outstanding,360
 fa2012,"MUSIC",CARRILLO,T,Instructor,Outstanding,450
-fa2012,"MUSIC",CHASANOV,E,Instructor,Excellent,?
+fa2012,"MUSIC",CHASANOV,E,Instructor,Excellent,???
 fa2012,"MUSIC",CHESTER,M,TA,Excellent,272
 fa2012,"MUSIC",COLEMAN,B,Instructor,Outstanding,181
 fa2012,"MUSIC",COLEMAN,B,Instructor,Outstanding,263
@@ -1708,17 +1708,17 @@ fa2012,"MUSIC",ENDRES,M,TA,Excellent,169
 fa2012,"MUSIC",FALLS,A,TA,Excellent,169
 fa2012,"MUSIC",FLORES,R,Instructor,Outstanding,158
 fa2012,"MUSIC",FLORES,R,Instructor,Outstanding,350
-fa2012,"MUSIC",FLORES,R,Instructor,Outstanding,?
+fa2012,"MUSIC",FLORES,R,Instructor,Outstanding,???
 fa2012,"MUSIC",GASS,C,TA,Excellent,272
 fa2012,"MUSIC",GRAY,L,Instructor,Outstanding,266
-fa2012,"MUSIC",GRAY,L,Instructor,Outstanding,?
+fa2012,"MUSIC",GRAY,L,Instructor,Outstanding,???
 fa2012,"MUSIC",HAROLD,S,TA,Excellent,107
 fa2012,"MUSIC",HELMRICH,D,Instructor,Outstanding,558
 fa2012,"MUSIC",HENNESSY,C,TA,Outstanding,110
-fa2012,"MUSIC",HERRERA,R,Instructor,Excellent,?
+fa2012,"MUSIC",HERRERA,R,Instructor,Excellent,???
 fa2012,"MUSIC",HOUSER,B,Instructor,Outstanding,270
 fa2012,"MUSIC",JARRELL,J,TA,Excellent,272
-fa2012,"MUSIC",KEEBLE,J,Instructor,Excellent,?
+fa2012,"MUSIC",KEEBLE,J,Instructor,Excellent,???
 fa2012,"MUSIC",KINDERMAN,W,Instructor,Outstanding,524
 fa2012,"MUSIC",LEYVA,J,Instructor,Excellent,242
 fa2012,"MUSIC",LEYVA,J,Instructor,Excellent,271
@@ -1728,23 +1728,23 @@ fa2012,"MUSIC",MCGOVERN,T,Instructor,Outstanding,191
 fa2012,"MUSIC",MCGOVERN,T,Instructor,Outstanding,255
 fa2012,"MUSIC",MIDDLETON,I,TA,Excellent,133
 fa2012,"MUSIC",MOERSCH,C,Instructor,Outstanding,451
-fa2012,"MUSIC",MOERSCH,C,Instructor,Outstanding,?
+fa2012,"MUSIC",MOERSCH,C,Instructor,Outstanding,???
 fa2012,"MUSIC",MOERSCH,W,Instructor,Outstanding,257
-fa2012,"MUSIC",MOERSCH,W,Instructor,Outstanding,?
+fa2012,"MUSIC",MOERSCH,W,Instructor,Outstanding,???
 fa2012,"MUSIC",MOORHOUSE,L,Instructor,Excellent,332
 fa2012,"MUSIC",MULLEN,J,TA,Outstanding,241
 fa2012,"MUSIC",NEFF,S,TA,Excellent,101
 fa2012,"MUSIC",NEFF,S,TA,Excellent,207
 fa2012,"MUSIC",NICHOLS,J,Instructor,Outstanding,335
 fa2012,"MUSIC",NICHOLS,J,Instructor,Outstanding,529
-fa2012,"MUSIC",REDMAN,Y,Instructor,Outstanding,?
+fa2012,"MUSIC",REDMAN,Y,Instructor,Outstanding,???
 fa2012,"MUSIC",REYES III,D,TA,Outstanding,101
 fa2012,"MUSIC",REYES III,D,TA,Outstanding,107
-fa2012,"MUSIC",RICHTMEYER,D,Instructor,Outstanding,?
+fa2012,"MUSIC",RICHTMEYER,D,Instructor,Outstanding,???
 fa2012,"MUSIC",ROBERTS,L,TA,Excellent,169
 fa2012,"MUSIC",RUMBELOW,R,Instructor,Outstanding,268
 fa2012,"MUSIC",SENNET,R,Instructor,Outstanding,450
-fa2012,"MUSIC",SENNET,R,Instructor,Outstanding,?
+fa2012,"MUSIC",SENNET,R,Instructor,Outstanding,???
 fa2012,"MUSIC",SEO,J,TA,Excellent,201
 fa2012,"MUSIC",SILETTI,M,TA,Outstanding,130
 fa2012,"MUSIC",SOLYA,A,Instructor,Outstanding,207
@@ -1771,7 +1771,7 @@ fa2012,"MUSIC",WUCHNER,E,TA,Excellent,313
 fa2012,"MUSIC",WYATT,S,Instructor,Outstanding,199
 fa2012,"MUSIC",WYATT,S,Instructor,Outstanding,407
 fa2012,"MUSIC",YANG,A,TA,Excellent,242
-fa2012,"MUSIC",YEUNG,A,Instructor,Outstanding,?
+fa2012,"MUSIC",YEUNG,A,Instructor,Outstanding,???
 fa2012,"MUSIC",ZIEGEL,A,Instructor,Excellent,130
 fa2012,"MUSIC",ZIEGEL,A,Instructor,Excellent,313
 fa2012,"NATURAL RESOURCES & ENVIRONMENTAL SCIENCES",CHIAVACCI,S,TA,Excellent,499
