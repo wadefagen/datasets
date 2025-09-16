@@ -10,12 +10,13 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Season | Date | Location | Opponent | Result | IlliniScore | OpponentScore | Note |
 | ------ | ---- | -------- | -------- | ------ | ----------- | ------------- | ---- |
-| 2024 | 8/29/2024 | vs. | Eastern Illinois | W | 45 | 0 |  |
 | ... |
-| 2014 | 10/11/2014 | @ | Wisconsin | L | 28 | 38 |  |
-| 2014 | 10/25/2014 | vs. | Minnesota | W | 28 | 24 | Homecoming |
+| 2024 | 2024-08-29 | vs. | Eastern Illinois | W | 45 | 0 |  |
 | ... |
-| 1963 | 01/01/1964 | Pasadena, CA | Washington | W | 17 | 7 | Rose Bowl |
+| 2014 | 2014-10-25 | vs. | Minnesota | W | 28 | 24 | Homecoming |
+| 2014 | 2014-10-11 | @ | Wisconsin | L | 28 | 38 |  |
+| ... |
+| 1963 | 1964-01-01 | Pasadena, CA | Washington | W | 17 | 7 | Rose Bowl |
 | ... |
 
 ### Notes on Data
@@ -28,6 +29,8 @@ The first row of the CSV file contains column headers. Every row after the first
   * `Town, State`, for games played at another site (ex: `Pasadena, CA`)
 
 - `Note` contains notes on homecoming games (value: `Homecoming`), bowl games, canceled games, and other notes.
+
+- As of Sept. 2025, dates are in ISO date format (`YYYY-MM-DD`) and sorted by date in descending order (the most recent game is now always at the top of the file).
 
 ## Projects Using this Dataset
 
