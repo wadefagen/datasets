@@ -4,7 +4,8 @@ var decode = require('unescape');
 var fastXmlParser = require('fast-xml-parser');
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 
-let SLEEP_TIME_BETWEEN_REQUESTS = 100;
+//let SLEEP_TIME_BETWEEN_REQUESTS = 100;
+let SLEEP_TIME_BETWEEN_REQUESTS = 2000;
 
 function sleep(ms) {
   return new Promise( (resolve) => { setTimeout(resolve,ms) } );
@@ -88,6 +89,7 @@ var run = async function(year, term, yearTerm, url, detailed = true) {
     var subject = subjTag["@_id"];
     var href = subjTag["@_href"];
 
+    console.log(href);
     var xml2 = await rp(href); await sleep(SLEEP_TIME_BETWEEN_REQUESTS);
     var r2 = fastXmlParser.parse(xml2, {ignoreAttributes: false});
     var d2 = xmlTagToArray( r2["ns2:subject"]["courses"]["course"] );
@@ -110,7 +112,9 @@ var run = async function(year, term, yearTerm, url, detailed = true) {
       if (detailed) {
         // Parse Course:
         try {
-          var xml3 = await rp(course.href); await sleep(SLEEP_TIME_BETWEEN_REQUESTS);
+          let url = course.href + "?mode=detail";
+          console.log(url);
+          var xml3 = await rp(url); await sleep(SLEEP_TIME_BETWEEN_REQUESTS);
           var r3 = fastXmlParser.parse(xml3, {ignoreAttributes: false});
           var d3 = r3["ns2:course"];
           course.description = decode(attributeOrNull(d3, "description"));
@@ -119,6 +123,58 @@ var run = async function(year, term, yearTerm, url, detailed = true) {
           course.degreeAttributes = decode(attributeOrNull(d3, "sectionDegreeAttributes"));
           course.scheduleInformation = decode(attributeOrNull(d3, "classScheduleInformation"));
 
+          var detailedSectionTags = xmlTagToArray(r3["ns2:course"]["sections"]["detailedSections"]);
+          for (let detailedSectionTag of detailedSectionTags) {
+            let section = {};
+            section.crn = detailedSectionTag["@_id"];
+
+            let d4 = detailedSectionTag;
+            section.sectionNumber = decode(attributeOrNull(d4, "sectionNumber"));
+            section.sectionTitle = decode(attributeOrNull(d4, "sectionTitle"));
+            section.sectionCreditHours = decode(attributeOrNull(d4, "creditHours"));
+            section.statusCode = decode(attributeOrNull(d4, "statusCode"));
+            section.partOfTerm = d4["partOfTerm"];
+            section.sectionStatusCode = decode(attributeOrNull(d4, "sectionStatusCode"));
+            section.enrollmentStatus = decode(attributeOrNull(d4, "enrollmentStatus"));
+
+            var meetingTags = xmlTagToArray(d4["meetings"]["meeting"]);
+            for (var l = 0; l < meetingTags.length; l++) {
+              var meetingTag = meetingTags[l];
+
+              var meeting = {};
+              meeting.typeCode = meetingTag["type"]["@_code"];
+              meeting.type = decode(attributeOrNull(meetingTag, "type", "#text")); 
+              meeting.start = decode(attributeOrNull(meetingTag, "start"));
+              meeting.end = decode(attributeOrNull(meetingTag, "end"));
+              meeting.daysOfTheWeek = decode(attributeOrNull(meetingTag, "daysOfTheWeek"));
+              meeting.roomNumber = meetingTag["roomNumber"];
+              meeting.buildingName = decode(attributeOrNull(meetingTag, "buildingName"));
+
+              var instructors = [];
+              if (typeof meetingTag["instructors"] == "object") {
+                var instructorTags = xmlTagToArray(meetingTag["instructors"]["instructor"]);
+                for (var m = 0; m < instructorTags.length; m++) {
+                  instructors.push(instructorTags[m]["#text"]);
+                }
+              }
+              meeting.instructors = instructors.join(";");
+
+              // Ideal save, with all the data:
+              var full = { ...course, ...section, ...meeting };
+              await csvWriter.writeRecords( [full] );
+              course.savedMeeting = true;
+              console.log("Completed: " + course.subject + " " + course.number + " " + section.sectionNumber + " at " + meeting.start);
+            }
+
+            // Save if unsaved:
+            if (!course.savedMeeting) {
+              var full = { ...course, ...section };
+              await csvWriter.writeRecords( [full] );
+              course.savedSection = true;
+            }            
+          }
+
+          /*
           var sectionTagList = xmlTagToArray(r3["ns2:course"]["sections"]["section"]);
           for (var k = 0; k < sectionTagList.length; k++) {
             var sectionTag = sectionTagList[k];
@@ -127,6 +183,7 @@ var run = async function(year, term, yearTerm, url, detailed = true) {
             section.href = sectionTag["@_href"];
             section.crn = sectionTag["@_id"];
 
+            console.log(section.href);
             var xml4 = await rp(section.href); await sleep(SLEEP_TIME_BETWEEN_REQUESTS);
             var r4 = fastXmlParser.parse(xml4, {ignoreAttributes: false});
             var d4 = r4["ns2:section"];
@@ -175,6 +232,7 @@ var run = async function(year, term, yearTerm, url, detailed = true) {
               course.savedSection = true;
             }
           }
+          */
 
           if (course.savedMeeting == false && course.savedSection == false) {
             await csvWriter.writeRecords( [course] );
