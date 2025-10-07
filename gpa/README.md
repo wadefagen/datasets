@@ -10,7 +10,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Year | Term | YearTerm | Subject | Number | Course Title | Sched Type | A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F | W | Students | Primary Instructor |
 | ---- | ---- | -------- | ------- | ------ | ------------ | ---------- | -- | - | -- | -- | - | -- | -- | - | -- | -- | - | -- | - | - | -------- | ------------------ |
-| 2024 | Spring | 2024-sp | AAS | 100 | Intro Asian American Studies | DIS | 2 | 4 | 5 | 2 | 4 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 22 | Zheng, Reanne |
+| 2025 | Spring | 2025-sp | AAS | 100 | Intro Asian American Studies | LCD | 3 | 21 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 28 | Geng, Zhe |
 | ... |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 114 | 47 | 27 | 6 | 28 | 17 | 14 | 18 | 13 | 12 | 9 | 12 | 16 | 2 | 353 | Fagen-Ulmschnei, Wade A |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 121 | 40 | 27 | 20 | 29 | 16 | 14 | 24 | 4 | 12 | 14 | 16 | 14 | 4 | 351 | Fagen-Ulmschnei, Wade A |
@@ -30,7 +30,12 @@ The first row of the CSV file contains column headers. Every row after the first
 
 ## Data Source
 
-All data contains in this repository is data contained in public documents released in response to FOIA requests.  Some data was excluded by The University of Illinois to adhere to privacy laws.  A table detailing the FOIA request for each term of data is provided.
+All data contains in this repository is data contained in public documents released by the University of Illinois.  Some data was excluded by The University of Illinois to adhere to privacy laws (see "Exclusion of Data" note below).
+
+The source of the data in this dataset is from:
+
+- Starting with Spring 2025, the data is provided as a service from [Illinois Student Council](https://isc.illinois.edu/).  *(A special thanks to Hunter Farnham and the Senate Committee on Educational Policy for empowering ISC to enable greater access to campus GPA data.)*
+- Data prior to Spring 2025 was released in response to FOIA requests.
 
 ### Exclusion of Data
 
@@ -40,14 +45,14 @@ From FOIA #2018-150:
 
 Based on analysis, courses with 20 or fewer students were excluded (the smallest course in the dataset has 21 students).
 
-### Table of FOIA Responses
+### Table of Available Data and Data Sources
 
 | Year | Winter        | Spring       | Summer        | Fall         |
 | ---- | ------------- | ------------ | ------------- | ------------ |
-| 2025 | ✔ (25-491)   | &mdash;      | &mdash;       | &mdash;       |
+| 2025 | ✔ (25-491)*   | ✔ ISC        | &mdash;       | &mdash;       |
 | 2024 | ✔ (24-438)   | ✔ (24-1690)  | ✔ (24-1690)  | ✔ (25-491)   |
 | 2023 | ✔ (23-456)   | ✔ (23-1295)  | ✔ (23-1295)  | ✔ (24-438)   |
-| 2022 | ✔ (22-297)   | ✔ (22-297r2) | ✔ (22-297r2) | ✔ (23-456)   |
+| 2022 | ✔ (22-297)   | ✔ (22-297)   | ✔ (22-297) | ✔ (23-456)   |
 | 2021 | ✔ (21-356)   | ✔ (21-729)   | ✔ (22-297)   | ✔ (22-297)   |
 | 2020 | ✔ (20-207)   | ✔ (20-875)   | ✔ (20-875)   | ✔ (21-356)   |
 | 2019 | ✔ (19-766)   | ✔ (19-766)   | ✔ (19-766)   | ✔ (20-207)   |
@@ -55,13 +60,15 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 | 2017 | ✔ (18-907)   | ✔ (2018-150) | ✔ (18-907)   | ✔ (2018-150) |
 | 2016 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2017-042) | ✔ (2017-213) |
 | 2015 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
-| 2014 | &mdash;*     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
-| 2013 | &mdash;*     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
-| 2012 | &mdash;*     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
-| 2011 | &mdash;*     | ✔ (2016-456) | &mdash;       | ✔ (2016-456) |
-| 2010 | &mdash;*     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
+| 2014 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
+| 2013 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
+| 2012 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
+| 2011 | &mdash;^     | ✔ (2016-456) | &mdash;       | ✔ (2016-456) |
+| 2010 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
 
-*: University of Illinois did not have a winter term before 2014.  Winter term semesters are labeled based on the year they end (ex: Winter 2022-2023 term is labeled as "Winter 2023").
+*: Data sources in the format `(##-###)` denote FOIA request identifiers.
+
+^: University of Illinois did not have a winter term before Winter 2015.  Winter term semesters are labeled based on the year they end (ex: Winter 2022-2023 term is labeled as "Winter 2023", consistent with the Course Catalog).
 
 ### Dataset Format Changes
 
