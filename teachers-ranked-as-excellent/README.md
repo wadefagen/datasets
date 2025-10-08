@@ -1,12 +1,13 @@
 # Teachers Ranked as Excellent at The University of Illinois
 
-A collection of all "Teachers Ranked as Excellent" at UIUC from Fall 1993 through Fall 2024 (includes Winter 2024/25) in a clean, consistent CSV format.
+A collection of all "Teachers Ranked as Excellent" records at UIUC from Fall 1993 to present in a clean, consistent CSV format.
 
 [A single CSV containing all of the data can be downloaded here.][Single_CSV_Download]
 
 [Single_CSV_Download]: https://raw.githubusercontent.com/wadefagen/datasets/master/teachers-ranked-as-excellent/uiuc-tre-dataset.csv
 
-- Latest Update: **April 7, 2025**, added data for Summer 2020 - Fall 2024
+- Latest Update: **October 7, 2025** (added Spring '25 and Summer '25),
+- Dataset Date Range: Fall 1993 - Spring 2025
 
 ## Background
 
@@ -57,7 +58,7 @@ All CSVs contain eight fields, with field labels in the first row and data in al
 
 #### Ranked as Excellent in Multiple Courses in One Semester
 
-The same teacher may be ranked for multiple courses in a single semester.  In that case, the teacher will appear more than once.  For example:
+The same teacher may be ranked for multiple courses in a single semester.  In that case, the teacher will appear more than once in this dataset (this is different than how the source dataset presents this data).  For example:
 ```
 sp2012,"NUCLEAR, PLASMA & RAD. ENGR.",AXFORD,R,Instructor,Excellent,447
 sp2012,"NUCLEAR, PLASMA & RAD. ENGR.",AXFORD,R,Instructor,Excellent,521
