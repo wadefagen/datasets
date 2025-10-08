@@ -1,0 +1,156 @@
+term,unit,lname,fname,role,ranking,course
+su2025,"Accountancy",Augusto Sampaio,G,Instructor,Outstanding,501
+su2025,"Accountancy",Chatteron,A,Instructor,Excellent,501
+su2025,"Accountancy",Fisher,M,Instructor,Excellent,501
+su2025,"Accountancy",Hutchens,M,Instructor,Outstanding,550
+su2025,"Accountancy",Hutchens,M,Instructor,Outstanding,554
+su2025,"Accountancy",Kustanovich,M,Instructor,Excellent,593
+su2025,"Accountancy",Penn,M,Instructor,Excellent,410
+su2025,"Animal Sciences",Emmert,J,Instructor,Excellent,205
+su2025,"Anthropology",Shaw,G,TA,Excellent,180
+su2025,"Art",Edwards,L,TA,Outstanding,201
+su2025,"Business Administration",Anand,G,Instructor,Excellent,567
+su2025,"Business Administration",Bradley,J,Instructor,Excellent,551
+su2025,"Business Administration",Corredor Waldron,S,Instructor,Excellent,544
+su2025,"Business Administration",Ji,M,Instructor,Excellent,310
+su2025,"Business Administration",Kim,M,Instructor,Excellent,320
+su2025,"Business Administration",Luckman,E,Instructor,Outstanding,311
+su2025,"Business Administration",Moshref Javadi,M,Instructor,Excellent,567
+su2025,"Business Administration",Somaya,D,Instructor,Excellent,544
+su2025,"Business Administration",Warnick,T,Instructor,Excellent,300
+su2025,"usiness and Technical Writing",Dawn,L,TA,Excellent,250
+su2025,"Civil and Environmental Engineering",Greer,W,Instructor,Excellent,498
+su2025,"Communication",Kolson,E,TA,Outstanding,102
+su2025,"Computer Science",Alawani,A,Instructor,Excellent,411
+su2025,"Computer Science",Balepur,N,Instructor,Excellent,173
+su2025,"Computer Science",Chen,H,TA,Excellent,173
+su2025,"Computer Science",Kani,N,Instructor,Excellent,374
+su2025,"Computer Science",Koe,K,TA,Excellent,225
+su2025,"Computer Science",Nowak,M,Instructor,Excellent,128
+su2025,"Computer Science",Shaffer,E,Instructor,Excellent,519
+su2025,"Crop Sciences",Behnke,G,Instructor,Excellent,413
+su2025,"Crop Sciences",Klimasmith,I,Instructor,Excellent,499
+su2025,"Curriculum and Instruction",Cyliax,L,TA,Excellent,424
+su2025,"Curriculum and Instruction",Hartman,B,Instructor,Excellent,438
+su2025,"Curriculum and Instruction",Lehrer,M,TA,Outstanding,424
+su2025,"Curriculum and Instruction",Nelson,J,Instructor,Excellent,550
+su2025,"Economics",Agiakloglou,C,Instructor,Excellent,504
+su2025,"Economics",Buckley,B,Instructor,Outstanding,302
+su2025,"Economics",Buckley,B,Instructor,Outstanding,415
+su2025,"Economics",Elosegui,P,Instructor,Excellent,516
+su2025,"Education Policy, Organization and Leadership",Herrmann,M,Instructor,Excellent,541
+su2025,"Education Policy, Organization and Leadership",Johnson,J,Instructor,Excellent,403
+su2025,"Education Policy, Organization and Leadership",Kang,H,TA,Outstanding,472
+su2025,"Education Policy, Organization and Leadership",Oh,E,Instructor,Excellent,472
+su2025,"Education Policy, Organization and Leadership",Rosillo,S,TA,Excellent,403
+su2025,"Education Research and Methods",Roegman,R,Instructor,Excellent,575
+su2025,"Educational Psychology",Galla,M,TA,Excellent,408
+su2025,"Electrical and Computer Engineering",Chen,Y,Instructor,Excellent,210
+su2025,"Electrical and Computer Engineering",Kudeki,E,Instructor,Excellent,329
+su2025,"Electrical and Computer Engineering",Lumetta,S,Instructor,Excellent,408
+su2025,"Electrical and Computer Engineering",Mironenko,O,Instructor,Excellent,330
+su2025,"Electrical and Computer Engineering",Sleiman Tellawi,Y,TA,Excellent,120
+su2025,"English",Stevens,A,Instructor,Outstanding,117
+su2025,"English as a Second Language",Cooper,L,Instructor,Excellent,508
+su2025,"English as a Second Language",Huang,J,Instructor,Excellent,521
+su2025,"English as a Second Language",Kotnarowski,J,Instructor,Excellent,508
+su2025,"English as a Second Language",Miszoglad,E,Instructor,Outstanding,504
+su2025,"English as a Second Language",Pennell,J,Instructor,Excellent,508
+su2025,"English as an International Language",Franks,S,Instructor,Excellent,411
+su2025,"Finance",Almeida,H,Instructor,Excellent,570
+su2025,"Finance",Manouchehri Irani,R,Instructor,Excellent,571
+su2025,"Finance",Meisenzahl,R,Instructor,Excellent,571
+su2025,"Finance",Raskie,S,Instructor,Outstanding,435
+su2025,"Finance",Zeume,S,Instructor,Excellent,570
+su2025,"Food Science and Human Nutrition",Gist,T,Instructor,Excellent,101
+su2025,"Food Science and Human Nutrition",Gist,T,Instructor,Excellent,120
+su2025,"Geography & Geographic Information Science",Meem,T,TA,Excellent,101
+su2025,"Geology",Christie,M,Instructor,Excellent,517
+su2025,"Health and Kinesiology",Clarke,C,Instructor,Outstanding,471
+su2025,"Information Sciences",Betts-Green,D,Instructor,Outstanding,403
+su2025,"Information Sciences",Cordell,R,Instructor,Outstanding,583
+su2025,"Information Sciences",Darch,P,Instructor,Outstanding,467
+su2025,"Information Sciences",Diekman,L,Instructor,Outstanding,453
+su2025,"Information Sciences",Holba Puacz,J,Instructor,Excellent,530
+su2025,"Information Sciences",Maimone,J,TA,Outstanding,493
+su2025,"Information Sciences",Mattson,K,Instructor,Outstanding,581
+su2025,"Information Sciences",Monroe,O,TA,Excellent,312
+su2025,"Information Sciences",Myers,C,Instructor,Excellent,585
+su2025,"Information Sciences",Stier,Z,Instructor,Excellent,591
+su2025,"Information Sciences",Wong,M,Instructor,Outstanding,471
+su2025,"Integrative Biology",Anderson,N,Instructor,Excellent,496
+su2025,"Labor and Employment Relations",Bartlow,A,Instructor,Outstanding,533
+su2025,"Labor and Employment Relations",Harris,B,Instructor,Outstanding,533
+su2025,"Labor and Employment Relations",Gilbert,D,Instructor,Excellent,???
+su2025,"Labor and Employment Relations",LeRoy,M,Instructor,Outstanding,522
+su2025,"Labor and Employment Relations",Sun,Y,Instructor,Excellent,545
+su2025,"Labor and Employment Relations",Walsh,M,Instructor,Excellent,531
+su2025,"Linguistics",Mendoza,A,Instructor,Excellent,489
+su2025,"Materials Science and Engineering",TerBush,J,Instructor,Excellent,498
+su2025,"MBA Program",Bradley,J,Instructor,Excellent,590
+su2025,"MBA Program",Bucheli,M,Instructor,Excellent,590
+su2025,"MBA Program",Corredor Waldron,S,Instructor,Excellent,590
+su2025,"MBA Program",Dolgopolov,V,Instructor,Excellent,590
+su2025,"MBA Program",Excell,R,Instructor,Excellent,590
+su2025,"MBA Program",Girndt-Clougherty,T,Instructor,Excellent,547
+su2025,"MBA Program",Green,D,Instructor,Outstanding,590
+su2025,"MBA Program",Kink,D,Instructor,Excellent,590
+su2025,"MBA Program",Loewenstein,J,Instructor,Excellent,552
+su2025,"MBA Program",Noel,H,Instructor,Excellent,590
+su2025,"MBA Program",Shavitt,S,Instructor,Excellent,547
+su2025,"MBA Program",Soman,S,Instructor,Excellent,598
+su2025,"MBA Program",Szymanski,M,Instructor,Excellent,552
+su2025,"MBA Program",Torelli,C,Instructor,Excellent,547
+su2025,"MBA Program",Watkins,R,Instructor,Excellent,598
+su2025,"Mechanical Engineering",Tang,K,Instructor,Outstanding,400
+su2025,"Media and Cinema Studies",Font Bas,V,Instructor,Outstanding,371
+su2025,"Music",Carrillo,C,Instructor,Outstanding,408
+su2025,"Music",Gallo,D,Instructor,Outstanding,499
+su2025,"Music",Kruse,A,Instructor,Excellent,499
+su2025,"Music",Mullen,J,Instructor,Outstanding,533
+su2025,"Political Science",Yin,T,TA,Excellent,100
+su2025,"Psychology",Lleras Buetti,S,Instructor,Excellent,230
+su2025,"Psychology",Lleras Buetti,S,Instructor,Excellent,355
+su2025,"Recreation, Sport, and Tourism",Santos,C,Instructor,Outstanding,118
+su2025,"Recreation, Sport, and Tourism",Shinew,K,Instructor,Excellent,100
+su2025,"Recreation, Sport, and Tourism",Siskind,S,Instructor,Excellent,118
+su2025,"Religion",Newman,A,Instructor,Excellent,110
+su2025,"Social Work",Bedient,M,Instructor,Excellent,531
+su2025,"Social Work",Laursen,T,Instructor,Excellent,410
+su2025,"Social Work",Wegmann,K,Instructor,Outstanding,410
+su2025,"Social Work",Xia Yu,C,Instructor,Excellent,451
+su2025,"Spanish",Alarcon,L,TA,Outstanding,142
+su2025,"Spanish",Marszalik,K,TA,Excellent,122
+su2025,"Special Education",Mason,E,Instructor,Outstanding,517
+su2025,"Special Education",Tarconish,E,Instructor,Excellent,514
+su2025,"Speech and Hearing Science",Delaram Gharamaleki,V,TA,Outstanding,240
+su2025,"Speech and Hearing Science",Dramin Weiss,S,Instructor,Excellent,221
+su2025,"Speech and Hearing Science",Huang,K,TA,Excellent,320
+su2025,"Speech and Hearing Science",Pucilowski,A,Instructor,Outstanding,571
+su2025,"Social Work",Cintron,V,Instructor,Outstanding,505
+su2025,"Social Work",Decker-Tonnesen,P,Instructor,Outstanding,520
+su2025,"Social Work",Gulbrandson-Andrews,H,Instructor,Excellent,400
+su2025,"Social Work",Miebach,T,Instructor,Outstanding,505
+su2025,"Special Education",Carey,Y,Instructor,Outstanding,591
+su2025,"Statistics",Kinson,C,Instructor,Excellent,385
+su2025,"Statistics",Stepanov,A,Instructor,Excellent,410
+su2025,"Strategic Brand Communication",Mabry-Flynn,A,Instructor,Excellent,510
+su2025,"Strategic Brand Communication",Sachdev,V,Instructor,Excellent,511
+su2025,"Veterinary Medicine",Baratta-Martin,A,Instructor,Excellent,613
+su2025,"Veterinary Medicine",Berry,M,Instructor,Excellent,613
+su2025,"Veterinary Medicine",Bruner,S,Instructor,Outstanding,613
+su2025,"Veterinary Medicine",Chen,M,Instructor,Outstanding,613
+su2025,"Veterinary Medicine",Kadotani,S,Instructor,Outstanding,613
+su2025,"Veterinary Medicine",Knap,K,Instructor,Excellent,613
+su2025,"Veterinary Medicine",Lewis,S,Instructor,Excellent,613
+su2025,"Veterinary Medicine",Moran,C,Instructor,Outstanding,613
+su2025,"Veterinary Medicine",Parker,M,Instructor,Outstanding,613
+su2025,"Veterinary Medicine",Pavlovsky,G,Instructor,Excellent,613
+su2025,"Veterinary Medicine",Peters,R,Instructor,Outstanding,613
+su2025,"Veterinary Medicine",Phillips,H,Instructor,Excellent,613
+su2025,"Veterinary Medicine",Reinhart,J,Instructor,Excellent,613
+su2025,"Veterinary Medicine",Selting,K,Instructor,Excellent,613
+su2025,"Veterinary Medicine",Shores,C,Instructor,Excellent,613
+su2025,"Veterinary Medicine",Strahl-Heldreth,D,Instructor,Outstanding,613
+su2025,"Veterinary Medicine",Toborowsky,C,Instructor,Outstanding,613
+su2025,"Veterinary Medicine",Vieson,M,Instructor,Excellent,613
