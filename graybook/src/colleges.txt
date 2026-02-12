@@ -1,0 +1,34 @@
+KL - Agr, Consumer & Env Sciences
+KY - Applied Health Sciences
+LD - Armed Forces
+NQ - Auxiliary Units
+LT - Carle Illinois Medicine
+LN - Center Innov in Teach Learn
+NA - Chancellor
+KT - College of Media
+NU - Div Intercollegiate Athletics
+KW - Division of Exploratory Studies
+KN - Education
+MY - Energy Services
+NN - Facilities
+KR - Fine & Applied Arts
+KM - Gies College of Business
+KS - Graduate College
+KP - Grainger Engineering
+LQ - Illinois International
+KU - Law
+KV - Liberal Arts & Sciences
+NP - OVCRI Institutes
+NS - Ofc VC Inst Advancement
+NB - Provost & Executive VC
+LF - Public Safety
+LP - School of Information Sciences
+LG - School of Labor & Empl. Rel.
+LL - School of Social Work
+NT - Technology Services
+LR - University Library
+NL - VC Admin and Operations
+NJ - VC Student Affairs
+NE - VC for Research and Innovation
+LC - Veterinary Medicine
+NV - Vice Chancellor for Diversity
