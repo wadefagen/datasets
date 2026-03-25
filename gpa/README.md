@@ -51,7 +51,7 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 | Year | Winter        | Spring       | Summer        | Fall         |
 | ---- | ------------- | ------------ | ------------- | ------------ |
 | 2026 | ✔ Public DMI | &mdash;      | &mdash;       | &mdash;       |
-| 2025 | ✔ (25-491)*   | ✔ ISC        | &mdash;       | ✔ Public DMI |
+| 2025 | ✔ (25-491)*   | ✔ ISC        | ✔ Public DMI | ✔ Public DMI |
 | 2024 | ✔ (24-438)   | ✔ (24-1690)  | ✔ (24-1690)  | ✔ (25-491 + 25-1781)   |
 | 2023 | ✔ (23-456)   | ✔ (23-1295)  | ✔ (23-1295)  | ✔ (24-438)   |
 | 2022 | ✔ (22-297)   | ✔ (22-297)   | ✔ (22-297) | ✔ (23-456)   |
