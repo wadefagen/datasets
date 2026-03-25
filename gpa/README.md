@@ -2,7 +2,7 @@
 
 As a response to Freedom of Information Act requests (FOIA #16-456, and others) for *"the grade distributions by percent and/or letter grade, for every class [...] at the University of Illinois at Urbana-Champaign"*.  This repository contains a record of all of the data from the above FOIA requests in a clean, documented CSV format.
 
-[Download the full dataset as a single CSV file](https://raw.githubusercontent.com/wadefagen/datasets/master/gpa/uiuc-gpa-dataset.csv)
+[Download the full dataset as a single CSV file](https://raw.githubusercontent.com/wadefagen/datasets/main/gpa/uiuc-gpa-dataset.csv)
 
 ## Data Format
 
@@ -34,6 +34,7 @@ All data contains in this repository is data contained in public documents relea
 
 The source of the data in this dataset is from:
 
+- Starting with Summer 2025, the data was provided as a public document from Division of Management Information (DMI).
 - Starting with Spring 2025, the data is provided as a service from [Illinois Student Council](https://isc.illinois.edu/).  *(A special thanks to Hunter Farnham and the Senate Committee on Educational Policy for empowering ISC to enable greater access to campus GPA data.)*
 - Data prior to Spring 2025 was released in response to FOIA requests.
 
@@ -49,7 +50,8 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 | Year | Winter        | Spring       | Summer        | Fall         |
 | ---- | ------------- | ------------ | ------------- | ------------ |
-| 2025 | ✔ (25-491)*   | ✔ ISC        | &mdash;       | &mdash;       |
+| 2026 | ✔ Public DMI | &mdash;      | &mdash;       | &mdash;       |
+| 2025 | ✔ (25-491)*   | ✔ ISC        | &mdash;       | ✔ Public DMI |
 | 2024 | ✔ (24-438)   | ✔ (24-1690)  | ✔ (24-1690)  | ✔ (25-491 + 25-1781)   |
 | 2023 | ✔ (23-456)   | ✔ (23-1295)  | ✔ (23-1295)  | ✔ (24-438)   |
 | 2022 | ✔ (22-297)   | ✔ (22-297)   | ✔ (22-297) | ✔ (23-456)   |
@@ -62,7 +64,7 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 | 2015 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
 | 2014 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
 | 2013 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
-| 2012 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
+| 2012 | &mdash;^     | &mdash;       | ✔ (2016-456) | ✔ (2016-456) |
 | 2011 | &mdash;^     | ✔ (2016-456) | &mdash;       | ✔ (2016-456) |
 | 2010 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
 
@@ -71,6 +73,10 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 ^: University of Illinois did not have a winter term before Winter 2015.  Winter term semesters are labeled based on the year they end (ex: Winter 2022-2023 term is labeled as "Winter 2023", consistent with the Course Catalog).
 
 ### Dataset Format Changes
+
+#### March 25, 2026
+
+- Spring 2012 was a copy of Summer 2012 data and was incorrectly labeled as Spring 2012.  The data labeled as Spring 2012 has been removed from the dataset. (E-mail followup from [#14](https://github.com/wadefagen/datasets/issues/14))
 
 #### April 7, 2025
 
