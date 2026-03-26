@@ -76,7 +76,7 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 #### March 25, 2026
 
-- Spring 2012 was a copy of Summer 2012 data and was incorrectly labeled as Spring 2012.  The data labeled as Spring 2012 has been removed from the dataset. (E-mail followup from [#14](https://github.com/wadefagen/datasets/issues/14))
+- Spring 2012 was a copy of Summer 2012 data and was incorrectly labeled as Spring 2012.  The data labeled as Spring 2012 has been removed from the dataset. *(Huge thanks to Alex Koscielski for finding this!)*
 
 #### April 7, 2025
 
