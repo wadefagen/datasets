@@ -34,8 +34,7 @@ All data contains in this repository is data contained in public documents relea
 
 The source of the data in this dataset is from:
 
-- Starting with Summer 2025, the data was provided as a public document from Division of Management Information (DMI).
-- Starting with Spring 2025, the data is provided as a service from [Illinois Student Council](https://isc.illinois.edu/).  *(A special thanks to Hunter Farnham and the Senate Committee on Educational Policy for empowering ISC to enable greater access to campus GPA data.)*
+- Starting with Spring 2025, the data is provided from The University of Illinois in response to Urbana Senate item EP.25.072.  This proposal was brought to the Senate via the [Illinois Student Council](https://isc.illinois.edu/).  *(A special thanks to Hunter Farnham and the Senate Committee on Educational Policy for empowering ISC to enable greater access to campus GPA data.)*
 - Data prior to Spring 2025 was released in response to FOIA requests.
 
 ### Exclusion of Data
@@ -50,8 +49,8 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 | Year | Winter        | Spring       | Summer        | Fall         |
 | ---- | ------------- | ------------ | ------------- | ------------ |
-| 2026 | ✔ Public DMI | &mdash;      | &mdash;       | &mdash;       |
-| 2025 | ✔ (25-491)*   | ✔ ISC        | ✔ Public DMI | ✔ Public DMI |
+| 2026 | ✔ EP.25.072 | &mdash;      | &mdash;       | &mdash;       |
+| 2025 | ✔ (25-491)*   | ✔ EP.25.072 | ✔ EP.25.072 | ✔ EP.25.072 |
 | 2024 | ✔ (24-438)   | ✔ (24-1690)  | ✔ (24-1690)  | ✔ (25-491 + 25-1781)   |
 | 2023 | ✔ (23-456)   | ✔ (23-1295)  | ✔ (23-1295)  | ✔ (24-438)   |
 | 2022 | ✔ (22-297)   | ✔ (22-297)   | ✔ (22-297) | ✔ (23-456)   |
