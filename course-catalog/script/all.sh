@@ -1,7 +1,19 @@
-node CIS-scraper.js 2019-fa
-node CIS-scraper.js 2019-sp
-node CIS-scraper.js 2018-fa
-node CIS-scraper.js 2018-sp
-node CIS-scraper.js 2017-fa
-node CIS-scraper.js 2017-sp
-node CIS-scraper.js 2016-fa
+node CIS-scraper.js 2025-su
+node CIS-scraper.js 2024-su
+node CIS-scraper.js 2023-su
+node CIS-scraper.js 2022-su
+node CIS-scraper.js 2021-su
+node CIS-scraper.js 2020-su
+node CIS-scraper.js 2019-su
+node CIS-scraper.js 2018-su
+node CIS-scraper.js 2017-su
+
+node CIS-scraper.js 2026-wi
+node CIS-scraper.js 2025-wi
+node CIS-scraper.js 2024-wi
+node CIS-scraper.js 2023-wi
+node CIS-scraper.js 2022-wi
+node CIS-scraper.js 2021-wi
+node CIS-scraper.js 2020-wi
+node CIS-scraper.js 2019-wi
+node CIS-scraper.js 2018-wi
