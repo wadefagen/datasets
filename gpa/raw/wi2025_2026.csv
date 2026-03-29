@@ -1,0 +1,50 @@
+﻿CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Primary Instructor,A Range,B Range,C Range,D Range,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,F,W,Average Grade
+10104,ADV,150,Introduction to Advertising,A,ONL,120260,"Hall, Steven R",,,,,23,2,0,0,1,0,0,0,0,0,0,0,0,0,3.96
+10141,ANTH,103,Anthro in a Changing World,ONL,ONL,120260,"Patino, Michelle",,,,,38,1,1,2,0,0,0,0,0,0,0,0,0,0,3.96
+10152,ANTH,180,The Archaeology of Death,ONL,ONL,120260,"Shaw, Joanna G",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10143,ANTH,246,Forensic Science,ONL,ONL,120260,"Reich, Arielle Y",,,,,5,18,1,1,2,0,0,1,0,0,0,0,1,0,3.69
+10005,ASTR,100,Introduction to Astronomy,ONL,ONL,120260,"Dunne, Bryan C",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10064,ASTR,330,Extraterrestrial Life,ONL,ONL,120260,"Looney, Leslie W",,,,,8,27,0,0,0,1,0,0,0,0,0,0,0,0,3.96
+10002,ATMS,120,Severe and Hazardous Weather,ONL,ONL,120260,"Choate, Jessica J",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10121,BADM,275,Intro to Op & Supply Chain Mgt,OL,ONL,120260,"Sumkin, Dmitrii",,,,,0,55,5,0,1,0,0,0,0,0,0,0,0,0,3.96
+10013,BADM,300,The Legal Environment of Bus,OL,ONL,120260,"Noonan, James R",,,,,134,38,1,2,2,0,0,0,1,0,0,0,1,0,3.94
+10014,BADM,310,Mgmt and Organizational Beh,OL,ONL,120260,"Ji, Mingshuang",,,,,24,93,4,2,0,2,1,0,0,0,0,0,0,0,3.94
+10056,BADM,320,Principles of Marketing,OL,ONL,120260,"Liu, Yunchuan",,,,,30,65,10,6,0,1,0,2,0,0,0,0,1,0,3.86
+10017,BADM,380,International Business,OL,ONL,120260,"Bucheli, Marcelo",,,,,3,16,2,0,2,0,0,0,0,0,0,2,0,0,3.63
+10071,CLCV,102,Medical Terms-GRK & LAT Roots,A,ONL,120260,"Fenton, Vaughn H",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10083,CLCV,115,Mythology of Greece and Rome,A,ONL,120260,"Moulita, Maria",,,,,3,8,5,1,2,1,0,2,1,0,0,0,0,1,3.48
+10085,CMN,210,Public Comm in Everyday Life,A,ONL,120260,"Murphy, Margaret A",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10027,DANC,100,Intro to Contemporary Dance,OL1,ONL,120260,"Wahrendorf, Chelsea M",,,,,0,19,2,2,1,0,0,0,0,0,0,0,0,1,3.88
+10019,ECON,102,Microeconomic Principles,ONL,ONL,120260,"DiIanni, Isaac",,,,,55,27,1,5,1,0,0,0,0,0,0,0,0,0,3.95
+10020,ECON,103,Macroeconomic Principles,ONL,ONL,120260,"Vazquez, Jose J",,,,,1,28,11,4,3,2,3,1,1,0,1,0,1,0,3.49
+10051,ECON,202,Economic Statistics I,ONL,ONL,120260,"Schultz, Colleen",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10076,ESE,360,Environmental Writing,A,ONL,120260,"Tomkin, Jonathan H",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10074,GEOL,111,Emergence of Life,A,ONL,120260,"Christie, Max L",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10049,GEOL,117,The Oceans,A,ONL,120260,"Pettijohn, Justin C",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10007,GEOL,118,Natural Disasters,A,ONL,120260,"Austin, Sarah",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10054,GLBL,100,Intro to Global Studies,CF,ONL,120260,"Schrag, David M",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10117,GLBL,200,Foundations of Research,AL1,ONL,120260,"Bonatti, Valeria",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10144,HIST,100,Global History,A,ONL,120260,"Mandala, Ruth V",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10145,HIST,104,Black Music,A,ONL,120260,"Hertzman, Marc A",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10154,HIST,104,Black Music,B,ONL,120260,"MacDonald, Owen J",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10139,HK,271,Health Equity in the U.S.,ONL,ONL,120260,"Frasca, Elizabeth A",,,,,16,14,3,0,0,1,1,1,1,0,0,0,1,0,3.68
+10138,HK,302,Disability in American Society,ONL,ONL,120260,"Rice, Laura A",,,,,10,7,3,0,0,1,0,0,0,0,0,0,0,0,3.89
+10101,IS,199,Intro to Command Line Tools,ICL,ONL,120260,"Wickes, Elizabeth D",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10132,IS,229,Web Design Fundamentals,OAU,ONL,120260,"MacMullen, Thomas C",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10113,IS,390,Intro to Intellectual Property,IIP,ONL,120260,"Benson, Sara R",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10120,IS,445,Data Visualization,OAU,ONL,120260,"Besser, Stephanie A",,,,,12,13,1,0,1,0,0,0,1,0,0,0,2,0,3.61
+10140,JOUR,200,Introduction to Journalism,A,ONL,120260,"King, Colleen C",,,,,7,10,14,6,4,0,0,0,0,1,0,0,1,0,3.55
+10150,LAST,170,Que Pasa in Latin America?,WO,ONL,120260,"Szremski, Katherine A",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10011,MACS,356,Sex & Gender in Popular Media,A,ONL,120260,"Aguayo, Angela J",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10055,MUS,132,Popular Music Studies,A,ONL,120260,"Eagen-Jones, Megan K",,,,,31,42,12,3,3,2,0,1,2,0,0,0,2,0,3.73
+10097,MUS,133,Introduction to World Music,A,ONL,120260,"Smith, Jonathon M",,,,,59,33,12,0,1,0,0,0,0,0,0,0,0,0,3.95
+10066,PS,241,Comp Politics in Global South,A,ONL,120260,"Alpay, Izel Ekin",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10034,PSYC,100,Intro Psych,A,ONL,120260,"Shenouda, Christine K",,,,,2,9,6,6,6,3,1,2,0,0,1,0,2,0,3.14
+10060,PSYC,204,Intro to Brain and Cognition,A,ONL,120260,"Dolcos, Sanda M",,,,,8,13,6,4,0,3,0,0,1,1,0,0,0,1,3.62
+10099,PSYC,216,Child Psych,A,OLC,120260,"Hyde, Daniel",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10061,PSYC,230,Perception & Sensory Processes,A,ONL,120260,"Lleras Buetti, Simona",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10106,REL,110,World Religions,AL1,ONL,120260,"Ebel, Jonathan H",,,,,0,26,7,0,0,0,0,2,0,0,1,0,2,0,3.54
+10018,SOC,100,Introduction to Sociology,ONL,ONL,120260,"Dill, Brian",,,,,30,27,3,2,1,1,0,1,0,0,0,0,1,0,3.84
+10039,SPAN,130,Intermediate Spanish,A,ONL,120260,"Abbott, Annie R",,,,,10,8,3,2,0,3,1,0,0,0,1,0,0,0,3.61
+10102,SPAN,130,Intermediate Spanish,B,ONL,120260,"Hughes, Brady A",,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10040,SPAN,142,Spanish in the Professions,A,ONL,120260,"Dutton, Michelle M",,,,,16,2,1,2,6,1,1,0,0,0,0,0,0,0,3.63
