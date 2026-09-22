@@ -49,7 +49,7 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 | Year | Winter        | Spring       | Summer        | Fall         |
 | ---- | ------------- | ------------ | ------------- | ------------ |
-| 2026 | ✔ EP.25.072 | &mdash;      | &mdash;       | &mdash;       |
+| 2026 | ✔ EP.25.072 | ✔ EP.25.072      | &mdash;       | &mdash;       |
 | 2025 | ✔ (25-491)*   | ✔ EP.25.072 | ✔ EP.25.072 | ✔ EP.25.072 |
 | 2024 | ✔ (24-438)   | ✔ (24-1690)  | ✔ (24-1690)  | ✔ (25-491 + 25-1781)   |
 | 2023 | ✔ (23-456)   | ✔ (23-1295)  | ✔ (23-1295)  | ✔ (24-438)   |

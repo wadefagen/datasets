@@ -15,7 +15,13 @@ for f in listdir("raw/"):
   print(f)
   with open("raw/" + f, "r") as csvfile:
     reader = csv.DictReader(csvfile)
+
+    first = True
     for row in reader:
+      if first:
+        print(row)
+        first = False
+        
       # The unified field for course subject (eg: "CS") will be called "Subject"
       replaceKey("Course Subject", "Subject")
       replaceKey("ï»¿Subject", "Subject")
@@ -43,7 +49,7 @@ for f in listdir("raw/"):
           del row[key]
 
       # Include only real data
-      if row["A+"] != "N/A":
+      if row["A+"] != "N/A" and row["A+"] != "":
         # Add "Students" column:
         row["Students"] = \
           int(row["A+"]) + int(row["A"]) + int(row["A-"]) + \
