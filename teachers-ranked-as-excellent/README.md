@@ -1,21 +1,35 @@
 # Teachers Ranked as Excellent at The University of Illinois
 
-A collection of all "Teachers Ranked as Excellent" records at UIUC from Fall 1993 to present in a clean, consistent CSV format.
+A collection of all "Teachers Ranked as Excellent" and "Illinois Student Government FLEX Award" records at UIUC from Fall 1993 to present in a clean, consistent CSV format.
 
 [A single CSV containing all of the data can be downloaded here.][Single_CSV_Download]
 
-[Single_CSV_Download]: https://raw.githubusercontent.com/wadefagen/datasets/master/teachers-ranked-as-excellent/uiuc-tre-dataset.csv
+[Single_CSV_Download]: https://raw.githubusercontent.com/wadefagen/datasets/master/teachers-ranked-as-excellent/highly-ranked-instructors.csv
 
-- Latest Update: **October 7, 2025** (added Spring '25 and Summer '25),
-- Dataset Date Range: Fall 1993 - Spring 2025
+- Latest Update: **October 29, 2026** (added ISG FLEX Awards for Fall 2025 - Summer 2026),
+- Dataset Date Range:
+  - Teachers Ranked as Excellent: Fall 1993 - Spring 2025
+  - Illinois Student Government FLEX Award: Fall 2025 - Spring 2026
 
 ## Background
 
-At the University of Illinois at Urbana-Champaign, every semester students complete an [Instructor and Course Evaluation (ICES)][ICES_CITL] questionnaire for each course they are enrolled.  The [Center for Innovation in Teaching and Learning (CITL)][MAIN_CITL] compiles this data into the list of "Teachers Ranked as Excellent" and publishes the names of those teaches in the local newspaper and [online as a PDF][TRE_CITL].
+### Teachers Ranked as Excellent
+
+Before Fall 2025, every semester students completed an [Instructor and Course Evaluation System (ICES)][ICES_CITL] questionnaire for each course they are enrolled.  The [Center for Innovation in Teaching and Learning (CITL)][MAIN_CITL] compiles this data into the list of "Teachers Ranked as Excellent" and publishes the names of those teaches in the local newspaper and [online as a PDF][TRE_CITL].
 
 [TRE_CITL]: http://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent
 [ICES_CITL]: http://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)
 [MAIN_CITL]: http://citl.illinois.edu/
+
+- Instructors and TAs who were ranked "Outstanding" (the highest honor) are denoted with `Outstanding` in the `ranking` column in the dataset.
+- Instructors and TAs who were ranked "Excellent" are denoted with `Excellent` in the `ranking` column in the dataset.
+
+### Illinois Student Government FLEX Award
+
+In Fall 2025, the ICES questionnaire was replaced by the Feedback on the Learning Experience (FLEX) survey.  The "Teachers Ranked as Excellent" award was replaced by the Illinois Student Government (ISG) FLEX Award, which "recognizes instructors and TAs who achieve outstanding FLEX evaluation results".
+
+- Instructors and TAs who were ranked are denoted with `ISG FLEX Award` in the `ranking` column in the dataset.
+
 
 ## Repository Contents
 

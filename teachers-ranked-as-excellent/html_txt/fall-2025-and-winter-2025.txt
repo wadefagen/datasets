@@ -1,0 +1,3685 @@
+# Accountancy
+Green, D - 200
+Zhang, L - 200, 503
+Fisher, M - 201
+Guan, H - T.A. 201
+Lesperance, A - T.A. 201
+McMasters, M - T.A. 201
+Midgley, J - T.A. 201
+Oversen, E - T.A. 201
+Ponugoti, H - T.A. 201
+Tarnoff, N - T.A. 201
+Xue, X - T.A. 201
+Kozlowska, E - T.A. 202
+Kyriakopoulos, C - T.A. 202
+Leite Williams, M - T.A. 202
+Mortell, M - T.A. 202
+Shapland, J - 202
+Vandenberg, A - 301
+Wolfe, K - 301
+Choy, S - 302
+Curtis, S - 302
+Pachera, S - 303
+Ren, B - 303
+Dahle, A - 304
+Williamson, M - 304
+Richter, S - 312
+Vuong, A - 312
+Lullo, M - 375
+Hutchens, M - 398, 505
+Rogowski, E - 405, 574
+Stirnkorb, S - 405
+Ibrahim, A - 410
+Beardsley, E - 451
+Holder, C - 451, 505
+Mendoza, S - 500, 502
+Urcan, O - 500, 532
+Augusto Sampaio, G - 501, 593
+Evans, M - 501
+Johnson, J - 502
+Schwartz, R - 502
+Chatterton, A - 503, 531, 569
+Chen, X - 503
+Rozario, A - 504
+Alt, M - 505
+Kustanovich, M - 506
+Mongold, C - 510
+Lu, L - 512, 570, 578
+Zhou, D - 515
+Li, Y - 517
+Nekrasz, F - 518
+Chen, C - 531
+Holder, D - 556
+Guymon, R - 569
+Anquandah, D - T.A. 570
+Herbold, J - 570
+Lu, Y - 570
+Van Wagoner, A - T.A. 570
+Zhang, K - 570
+Penn, M - 575
+Brunner, R - 593
+Park, Y - 593
+
+# Actuarial Science and Risk Management
+Liang, F - 101
+Bouris, T - T.A. 210
+Kemboi, S - T.A. 401
+Icaza, E - 406, 441, 461
+Mohamed Khalid Hamid, Y - 409
+Medina Landeros, A - T.A. 441
+Jing, X - 455, 539
+Hu, C - T.A. 461
+Dong, P - T.A. 471
+
+# Advertising
+Chick, C - T.A. 150
+Goodreau, A - T.A. 150
+Hall, S - 150
+Ji, H - T.A. 150
+Zhao, M - T.A. 150
+Chang, J - T.A. 250
+Hitchon, J - 250
+Kazybayeva, A - T.A. 250
+Rahman, N - T.A. 281
+Voskoboynikova, S - T.A. 281
+He, A - T.A. 284
+Liu, A - T.A. 284
+Heede, P - 290
+Yao, M - 305
+Brown, K - 314
+Meron, S - 333, 390, 391
+Ham, C - 360, 581
+Park, S - T.A. 360
+Wilson, C - 393
+Zhang, J - T.A. 483
+Peacock, M - 498
+Sar, S - 550
+Wise, K - 580
+Su, Y - 587
+
+# Aerospace Engineering
+Gonzalez, J - 100
+Gupta, R - 100
+Shanmugam, L - 100
+Woodard, B - 100
+Wroblewski, E - 100, 298
+Hausman, M - 199, 298
+Merret, J - 199
+Gerhold, L - 298
+Kearney, S - 312
+Goza, A - 370
+Woollands, R - 402
+Clarke, M - 416
+Rovey, J - 433
+Saxton-Fox, T - 460
+Bretl, T - 483
+Ning, X - 498
+Ornik, M - 498
+Elliott, G - 564
+Evrard, F - 598
+Tsukamoto, H - 598
+
+# African American Studies
+Adams, Y - T.A. 100
+McDuffie, E - 100
+Thomas, A - T.A. 101
+Harris, K - T.A. 132
+McGowan, K - T.A. 132
+O'Byrn, E - 227
+Phillips, M - 383
+
+# Agr & Consumer Economics
+Hadunka, P - T.A. 100
+Wu, S - T.A. 100
+Dalbey, B - T.A. 123
+Djisseglo, J - T.A. 123
+Dragnevska, V - T.A. 123
+Elmore, A - 123, 220, 345, 398, 444
+Low, S - 123
+Martinez, J - T.A. 123
+McAdams, C - T.A. 123
+Podgorni, J - T.A. 123
+Burnett, M - 161
+Ghorbani Vagheei Nefouti, K - T.A. 161
+Lo, A - 161
+Yim, H - T.A. 199
+Coppess, J - 203
+Yin, J - T.A. 210
+Stoddard, P - 221, 222, 428
+Lemoine, C - 240
+Sanchez, D - 240, 243
+Hossain, S - T.A. 251
+Pabon, M - T.A. 251
+Carson, M - T.A. 255
+Du, Q - T.A. 255
+Skidmore, M - 255
+Dall'Erba, S - 264, 532
+Taylor, B - 270
+Kalaitzandonakes, M - 335
+Brockett, J - 341
+Elam, S - 341
+Fee, P - 341
+Helton, C - 341
+March, L - 341
+Sandler, C - 341
+Breen, J - 346
+Mashange, G - 360
+Endres, B - 406, 592
+Blumthal, M - 431
+Ridley, W - 455, 500
+Valencia Rivamontan, C - T.A. 476
+Hochman, G - 499
+Schnitkey, G - 544
+Goodrich, B - 545
+Paulson, N - 545
+Goodrich, R - 562, 564
+Janzen, S - 569
+
+# Agr, Consumer, & Env Sciences
+Steinbrenner, H - 123
+Gregg, B - 200
+Ball, A - 399
+
+# Agricultural Comm Pgm & Crse
+Axtman-Barker, P - 220
+Morgan, E - 330
+
+# Agricultural Education Program
+Marzolino, T - 421
+
+# Agricultural Leadership, Education, and Communications Program
+Ochs, G - 110
+Axtman-Barker, P - 115
+Brockett, J - 123, 492
+Ball, A - 500
+Leman, A - 510
+
+# Agricultural and Biological Engineering
+Bhattarai, R - 127, 199
+Khanal, S - T.A. 127
+Davidson, P - 199, 430
+Kalita, P - 199
+Greeson, X - T.A. 227
+Lawson-Bulten, E - T.A. 227
+Lasalle, C - T.A. 232
+Kamruzzaman, M - 340
+Kanner, D - T.A. 430
+Oberg, J - T.A. 430
+Reynolds, L - T.A. 430
+Steele, A - T.A. 430
+Nazari, S - T.A. 436
+Alves de Oliveira, L - 456
+Allen, C - 466
+Leonelli, L - 498
+Shajahan, S - 498
+Zhang, Y - 501
+Rausch, K - 503
+Reid, J - 598
+
+# Air Force Aerospace Studies
+Meents, J - 100
+
+# American Indian Studies Prgrm
+Ryan Burchfield, R - 101
+Calcaterra, A - 285
+Sutton, E - 490
+
+# Animal Sciences
+Cardoso, P - 100, 251
+Cattai de Godoy, M - 100
+Harsh, B - 100
+Urbano Braz, C - 100, 221
+Emmert, J - 103, 205
+Glowacz, M - 103, 206
+Nolan, D - 103
+Parsons, C - 103, 590
+Allen, C - 110
+Dilger, A - 198, 309, 452
+Richardson, S - 198, 250, 305
+Pister, M - T.A. 205
+Schneider, A - 207, 307
+Antonson, A - 222
+Dean, M - 222, 431
+Wheeler, M - 222
+Shike, D - 255
+Webel, B - T.A. 255
+Morris, C - 298
+Girman, J - T.A. 305
+McCann, J - 401
+Swanson, K - 422
+Nowak, R - 431
+Shasteen, A - 498
+Bresolin, T - 590
+Cardoso Ferreira, I - 590
+Taves, M - 590
+
+# Anthropology
+Wang, Y - T.A. 105
+Farley, M - T.A. 143
+Doubles, Z - T.A. 157
+Fennell, C - 220, 453
+Konigsberg, L - 241
+Antoniuk, C - T.A. 246
+Houkes, A - T.A. 246
+Beck, D - 288
+Calhoun, K - 399, 515
+Ritchison, B - 449
+Greenberg, J - 488
+Clancy, K - 498
+Kramer, E - 498
+Jelinek, P - 499
+
+# Applied Health Sci Courses
+Lopez, B - 199
+Mason, E - 199
+
+# Arabic
+Saadah, E - 150, 405
+
+# Architecture
+Lassiter, W - 171, 371
+Schwartzman, G - 171, 371
+Swiatek, H - 171, 473
+Deutsch, R - 231
+Zook, J - 321, 523
+Altshuler, J - 371
+Mata Pradera, C - 371
+Grossman, H - 412
+Johnson, T - 417
+Aminmansour, A - 433, 550
+Bally, H - T.A. 433
+Vozza, R - T.A. 433
+Kim, Y - T.A. 434
+Kwon, S - T.A. 434
+Reinhard, K - T.A. 434
+Strand, R - 434
+Nduom, D - 473
+Taylor, M - 473
+Bowman, M - T.A. 536
+Kanwischer, B - T.A. 536
+Krishnan, S - 536, 558
+Panji, A - T.A. 536
+Poss, J - 571
+Dasgupta, S - T.A. 572
+Natke, P - 572
+Yi, Y - 573
+Chasco, D - 574
+Murray, S - 575
+Kharadi, D - T.A. 577
+Stallmeyer, J - 577
+Winter, B - T.A. 577
+
+# Art
+Tangas, M - T.A. 102
+Chung, C - T.A. 140
+Gu, R - T.A. 140
+Lee, S - 140
+Curtis, K - 150
+Ward, K - 160
+Edwards, L - T.A. 201
+Hogin, L - 499
+
+# Art--Design
+Shao, F - T.A. 101
+Fathinezhad, K - 151
+Marble, J - 222, 351, 371, 451
+Schmit, B - 230
+Alzate Mora, C - 251
+Pridemore, J - 270, 318, 451
+Trevisani, m - 318
+Blazek, K - 351
+Briggs, M - 351
+Hartz, J - 448
+Marcelino, C - 448
+Wu, S - T.A. 451
+
+# Art--Education
+Lee, S - 202
+Bergmark, J - 303, 501
+Smith, B - 501
+
+# Art--Foundation
+Montgomery, G - 101
+Heaton, R - 103
+Jung, S - 103
+Reitz, A - T.A. 103
+Hudson, S - 106
+
+# Art--History
+Brown, H - T.A. 110
+Lyon, A - T.A. 110
+Wills, S - T.A. 110
+Romberg, K - 241
+O'Brien, D - 540
+Chuong, J - 593
+
+# Art--Studio
+Bakaletz, M - T.A. 205
+Lingscheit, E - 205
+Vincenzi, C - 221, 499
+Becker, S - 223
+Griffis, R - 241, 595
+Koeneman, Q - 245
+Witkowski, G - T.A. 250
+Peterson, H - T.A. 251
+Batten, L - 264, 365
+Farish, G - T.A. 264
+Jones, S - T.A. 280
+Cain, K - T.A. 354
+Fein-Smolinski, R - 364
+Weaver, D - 446
+Hudson, S - 454
+Bakker, C - 457, 595
+Grosser, B - 593
+
+# Asian American Studies
+Charity, H - T.A. 100
+Mukhopadhyay, A - T.A. 100
+Roy, S - T.A. 100
+Wang, Y - T.A. 100
+Siglos, D - 200, 215
+
+# Astronomy
+Moon, Y - T.A. 121
+Vishwakarma, A - T.A. 121
+Dunne, B - 150, 199
+Young, L - 310
+Looney, L - 330, 496
+Fields, B - 404
+French, D - 406
+
+# Atmospheric Sciences
+Frame, J - 100
+Gorden, V - T.A. 100
+Choate, J - 180, 201
+Riemer, N - 301
+Trapp, R - 302
+Trujillo, J - 491
+Sriver, R - 500
+Klees, A - 517, 520
+Nesbitt, S - 523, 591
+
+# Basque
+Casquete De La Puente, M - T.A. 401
+
+# Biochemistry
+Neff, A - 190
+
+# Bioengineering
+Ansari, A - 100, 120
+Wang, A - T.A. 100
+Amos, J - 201
+Odle, N - T.A. 202
+Newman, W - 210
+Reck, R - 415
+Tibbs, J - T.A. 415
+Smith, A - 450
+Underhill, G - 476
+Ma, H - 483
+Li, Y - 485
+Shepherd, S - T.A. 498
+Sirk, S - 502
+
+# Biophysics
+Wu, N - 401
+
+# Business
+Barbeau, A - 101
+Kim, H - 101, 201
+Newell, R - 115
+Lewis, L - 199
+Pearson, G - 199
+Luckman, E - 201
+Sanchez, C - 201
+Szymanski, M - 201, 301
+White, J - 201
+Ji, M - 301
+Keating, K - 301
+Kurtz, J - 301
+Ohms, C - 315
+Corredor Waldron, S - 401
+Swenddal, H - 401
+Metzger, R - 415
+
+# Business Administration
+Luckman, E - 199, 508
+Larson, E - 210, 502
+Bahrini, A - 211, 378
+Liu, Z - 211, 352
+Virudachalam, V - 211
+Love, E - 261, 509
+Baddam, S - 275, 567
+Han, B - 275
+Kirci, I - 275, 377, 589
+Liang, H - 275, 374, 375
+Moshref Javadi, M - 275, 460
+Warnick, T - 300
+Winter, G - 300, 513
+Swenddal, H - 310
+White, J - 310
+Goncalo, J - 311
+Khessina, O - 312
+Kim, Y - T.A. 312
+Nelson, D - 313
+Ybarra, O - 314
+Wolters, M - 320
+Xu, A - 320
+Kim, M - 322
+Raquel, S - 323, 520
+Sumkin, D - 324, 453
+Han, W - 325
+Kang, M - T.A. 325
+Scott, N - 335
+Mehrotra, M - 337
+Jang, T - T.A. 338
+Takeda, Y - 340, 514
+Kourpas, E - 346
+Gokhale, S - T.A. 350
+Pant, G - 350, 356
+Ivanov, A - 351, 562
+Sakhartov, A - 367
+Yao, F - 381, 449, 590
+Euh, H - 382
+Laursen, T - 395
+Rindfleisch, A - 420
+Chung, D - 449
+Kim, J - 449, 550
+Mahoney, J - 449, 504
+Martinez, C - 449
+Schijven, M - 449
+Charles, D - 508
+Keating, K - 508
+Kraatz, M - 508
+Loewenstein, J - 508
+Bednar, M - 509
+Dahl, J - 509
+Noonan, J - 513
+Noel, H - 520
+Rodas Waters, M - 520
+Sachdev, V - 554
+Subramanyam, R - 557
+Anand, G - 567
+Wang, Y - 569
+Dolgopolov, V - 572
+Taghaboni-Dutta, F - 572, 589
+Khandelwal, A - 579
+Pachera, S - 590
+Roach, M - 591
+Kurtz, J - 595
+
+# Business Data and Innovation
+Park, Y - 475
+Du, F - 513
+
+# Business and Technical Writing
+Becker, L - 250
+Grohens, J - 250, 279
+Hapke, G - 250
+Henningsen, K - T.A. 250
+Holguin, M - 250, 380
+McGuire, L - 250
+Moss, A - 250, 380
+Newton, K - 250, 261
+Roche, D - 250
+Schering, M - 250
+Selznick, H - 250
+Shetina, M - 250
+Williams, P - 250
+
+# Campus Honors Program
+Abbott, A - 395
+
+# Center for Writing Studies
+Wisniewski, C - 300
+
+# Chemical & Biomolecular Engr
+Higdon, J - 221
+Rogers, S - 221
+Fieser, M - T.A. 321
+Ge, L - T.A. 321
+Kuenstler, A - 321
+Spencer, A - T.A. 321
+Mullen, R - 412, 431
+Jackson, N - 413
+Harley, B - 421
+Nong, R - T.A. 421
+Schoetz, T - 422
+Leicht, J - 430
+Monye, U - 430
+Kraft, M - 471
+Sing, C - 525
+Morris, J - 594
+
+# Chemistry
+Ahn, S - T.A. 101
+Berkley, K - T.A. 101
+Bossard, H - T.A. 101, 103
+Easter, D - T.A. 101
+Fall, M - T.A. 101
+Huang, E - T.A. 101
+Kamble, S - T.A. 101
+Kraniak, M - T.A. 101
+Lapitsky, R - T.A. 101
+Leveritt, J - 101
+McCarren, E - 101
+Moore, A - T.A. 101
+Murray, D - T.A. 101
+Musozoda, M - T.A. 101
+Panomitros, G - T.A. 101
+Radziej, C - T.A. 101
+Roy, A - T.A. 101
+Sedgwick, M - T.A. 101
+Shin, E - T.A. 101
+Shkolnik, N - T.A. 101
+Slonneger, B - T.A. 101
+Swanson, E - T.A. 101
+Tran, A - T.A. 101
+Tsuei, K - T.A. 101
+Wandrey, N - T.A. 101
+Wiegandt, M - T.A. 101
+Zeng, L - T.A. 101
+Zi, S - T.A. 101
+Azhakath Valappil, H - T.A. 102
+Bachu, A - T.A. 102
+Bautista, K - T.A. 102
+Bhamidipati, N - T.A. 102
+Blackwell, N - T.A. 102
+Chang, E - T.A. 102
+Chavez, R - T.A. 102
+Chen, K - T.A. 102
+Chirayil, S - T.A. 102
+Cloum, R - T.A. 102
+Gannon, N - T.A. 102
+Glogovac, A - T.A. 102
+Hasan, S - T.A. 102
+Izaguirre, J - T.A. 102
+Kader Yousuff, M - T.A. 102
+Kohls, J - T.A. 102
+Kuo, K - T.A. 102
+Miller, R - T.A. 102
+Munro, C - T.A. 102
+Na, Y - T.A. 102
+Nelavelli, Y - T.A. 102
+Priya, P - T.A. 102
+Ramesh, N - T.A. 102
+Rohlwing, N - T.A. 102
+Shah, D - T.A. 102
+Sharpe, K - T.A. 102
+Singh, A - T.A. 102
+Sodhi, T - T.A. 102
+Stein Christ, E - T.A. 102
+Stokes, C - T.A. 102
+Swamy, M - T.A. 102
+Thalackan, J - T.A. 102
+Velko, K - T.A. 102
+Yung, J - T.A. 102
+Zhao, E - T.A. 102
+Agarwal, K - T.A. 103
+Chahine, A - T.A. 103
+Chan, A - T.A. 103
+Glaubinger, M - T.A. 103
+Green, W - T.A. 103
+Guerrero, G - T.A. 103
+Hightower, A - T.A. 103
+Jun, H - T.A. 103
+Kashinathappa, S - T.A. 103
+Kremitzki, M - T.A. 103
+Lamphear, P - T.A. 103
+Linarez, E - T.A. 103
+Lu, E - T.A. 103
+Missakasavake, N - T.A. 103
+Mlynarczyk, G - T.A. 103
+Nabavi, A - T.A. 103
+Nam, E - T.A. 103
+Nasir, W - T.A. 103
+Parker, E - T.A. 103
+Qiu, I - T.A. 103
+Rajesh, N - T.A. 103
+Sampathkumar, A - T.A. 103
+Shadid, M - T.A. 103
+Shih, A - T.A. 103
+Siharath, N - T.A. 103
+Strong, M - T.A. 103
+Varma, N - T.A. 103
+Wright, C - T.A. 103
+Zhao, J - T.A. 103
+Chen, C - T.A. 104
+Flaugher, E - T.A. 104
+Iglesia, M - T.A. 104, 150
+Joshi, S - T.A. 104
+Lam, A - T.A. 104
+Melton, P - T.A. 104
+Nissan, N - T.A. 104
+Pathak, A - T.A. 104
+Ray, C - 104
+Tavolacci, M - T.A. 104
+Tijerina-Albury, A - T.A. 104
+Wang, B - T.A. 104
+Allenfort, A - T.A. 105
+Bradu, A - T.A. 105
+Calic, K - T.A. 105
+Daye, J - T.A. 105
+Kleidon, N - T.A. 105
+Locke, T - T.A. 105
+Maghinang, K - T.A. 105
+Roeva, A - T.A. 105
+Cho, S - T.A. 150
+Delaney, D - T.A. 150
+Iqbal, R - T.A. 150
+Myszka, M - T.A. 150
+Tedford, E - T.A. 150
+Camp, K - T.A. 199
+Klein, M - T.A. 199
+Ortiz, M - T.A. 199
+Poces-Bell, T - T.A. 199
+Ramirez, E - T.A. 199
+Ramos, L - T.A. 199
+Tibudan, S - T.A. 199
+Brown, S - T.A. 202
+Conklin, M - T.A. 202
+Decoste, D - 202
+Ebert, Z - T.A. 202
+French, C - T.A. 202
+Li, R - T.A. 202
+Pascual, X - T.A. 202
+Shell, S - T.A. 202
+Huang, Y - T.A. 203
+Judge, G - T.A. 203
+Kubakh, P - T.A. 203
+Lee, J - T.A. 203
+Muller, S - T.A. 203
+Niculescu, A - T.A. 203
+Roy, A - T.A. 203
+Yuan, S - T.A. 203
+Blystone, A - 223
+Carney, Z - T.A. 223
+Ihrke, C - T.A. 223
+Lin, J - T.A. 223
+Vrana, E - T.A. 223
+Axelson, J - 232
+Barni, A - T.A. 232
+Chen, H - T.A. 232
+Cordero, R - T.A. 232
+Failla, V - T.A. 232
+Farraday, M - T.A. 232
+Glover, R - T.A. 232
+King, H - T.A. 232
+McAfee, M - T.A. 232
+Bharadwaj, K - T.A. 233
+Buck, A - T.A. 233
+Gross, B - T.A. 233
+Jayaram, S - T.A. 233
+Mudireddy, A - T.A. 233
+Nyamkondiwa, K - T.A. 233
+Otero, D - T.A. 233
+Pack, J - T.A. 233
+Reyes Lopez, V - T.A. 233
+Kurak, J - T.A. 236
+Lee, G - T.A. 236
+Ivanov, S - T.A. 237
+Kern, F - T.A. 237
+Kintigh, P - T.A. 237
+Mazure, S - T.A. 237
+Parente, A - T.A. 237
+Steen, L - T.A. 237
+Harrigan, M - T.A. 315
+Rodriguez, J - T.A. 315
+Sweedler, J - 315
+Fataftah, M - 317, 512
+Tram, A - T.A. 317
+Cini, F - T.A. 332
+Drury, P - T.A. 332
+Pillai, S - 332
+Zhou, R - T.A. 332
+Rodriguez Lopez, J - 420
+Landes, C - 440
+Hirata, S - 442
+Manesis, A - 518
+Olshansky, L - 518
+Isomura, M - 534
+Makri, N - 540
+Luthey-Schulten, Z - 544
+Girolami, G - 585
+Silverman, S - 592
+
+# Chinese
+Guo, S - T.A. 201
+Xu, L - T.A. 203
+Wang, R - T.A. 241
+
+# Civil & Environmental Eng
+Garg, Y - T.A. 300
+Iqbal, F - T.A. 300
+Maxwell, T - T.A. 300
+Moreno-Colin, V - T.A. 300
+Qadri, F - T.A. 300
+Tabassum, N - T.A. 300
+Yellampalli, A - T.A. 300
+Hajj, R - 310
+Ghodrati Amiri, A - T.A. 320
+Golparvar Fard, M - 320, 595
+Hsu, S - T.A. 320
+Tinoco Lopez, R - 331, 595
+Matthews, M - 340
+Konar, M - 350
+Dynak, D - T.A. 401
+Henschen, J - 401
+Spitz, K - 407
+Edwards, J - 409
+Talebpour, A - 416
+Al Kalal, K - T.A. 421
+Almasry, O - T.A. 421
+Helaly, H - T.A. 421
+El-Gohary, N - 422
+Stillwell, A - 433
+Verma, V - 435
+Mei, R - 437, 595
+Cusick, R - 443
+Wei, N - 444
+Tartakovsky, A - 457
+Hardt, P - T.A. 458
+Liu, J - T.A. 458
+Schmidt, A - 458
+Behbahani, D - 460
+Eick, B - 460
+Duarte, C - 470, 595
+Kamarei, F - T.A. 471
+Spencer, B - 472, 595
+Tessum, C - 492
+Guest, J - 493
+Ignacio, E - 498
+Jebelli, H - 498
+Dahal, S - T.A. 504
+Popovics, J - 504
+El-Rayes, K - 526
+Olson, S - 590
+Lopez-Pamies, O - 595
+Makhnenko, R - 595
+Alipour, M - 598
+Kontou, E - 598
+
+# Classical Civilization
+Markaki, K - T.A. 102
+Garcia-Molina, E - 114, 220
+Baronovic, J - T.A. 115
+Boyd, H - T.A. 115
+Mason, L - T.A. 115
+Moulita, M - T.A. 115
+Riedel, L - T.A. 115
+Austen, V - 220, 444
+Bevis, B - 220
+Reeber, J - 222
+Banta, H - T.A. 224
+Sanders-Braxton, E - T.A. 224
+Shively, B - T.A. 224
+Stokes, A - T.A. 224
+
+# Communication
+Alberti, G - 101
+Allegretti, A - T.A. 101
+Armour, L - T.A. 101
+Bishop, M - 101
+Black, D - T.A. 101
+Bunch, C - 101
+Bunsold, K - T.A. 101, 375
+Caddell, M - T.A. 101
+Caryl, Z - T.A. 101
+French, C - T.A. 101
+Fung, K - T.A. 101
+Gailey, B - 101
+Gallo, F - 101
+Hall, S - T.A. 101
+Humphreys, L - T.A. 101
+Mueller, K - T.A. 101
+Nixon, S - T.A. 101
+Richards, V - T.A. 101
+Rodrigues Gomes Da Silva, L - T.A. 101
+Rollins, D - T.A. 101
+Smith, T - T.A. 101
+St John, J - T.A. 101
+Stewart, N - T.A. 101
+Toler, K - T.A. 101
+Yisrael, E - T.A. 101
+Da Silva, O - T.A. 102
+De Oliveira Miranda Gomes, R - T.A. 102
+Quick, B - 102, 465
+Asare Kwakye, I - T.A. 111
+Dyer, A - T.A. 111
+Kincer, T - T.A. 111
+Macswain, C - T.A. 111
+Murphy, K - T.A. 111
+Murphy, M - T.A. 111
+Sanders, J - T.A. 111
+Wright, A - 111
+Zeb, J - T.A. 111
+Zhang, K - T.A. 111
+Cunningham, L - 211
+Pool, K - T.A. 215
+Guntzviller, L - 230, 435
+Yan, J - T.A. 230
+Koven, M - 232, 433
+White, N - T.A. 232
+Kolson, E - T.A. 250
+Chung, M - T.A. 260
+Cisneros, J - 274, 538
+Dixon, T - 277, 326
+Miles, J - 312, 396
+Barbour, J - 315
+Murphy, J - 321
+Melendez, T - T.A. 323
+Fujimoto, E - T.A. 326
+Ramey, M - 336, 368
+Fields, V - T.A. 340
+Bigsby, E - 345
+Khanam, S - T.A. 368
+Giorgio, G - 375, 432
+Finnegan, C - 396, 595
+Guyette, R - 396
+Hardy, A - 396
+Mustafaj, M - 396
+Coles, S - 425
+Thompson, C - 462
+Weiner, L - 501
+Barley, W - 529
+Caughlin, J - 574
+
+# Comparative & World Literature
+Ghosh, S - T.A. 114
+Tedoradze, M - T.A. 114
+Hilger, S - 241
+Meshkani, Z - T.A. 241
+Ozgul, Z - T.A. 241
+Kaplan, B - 561
+
+# Computer Science
+Atcheson, A - T.A. 101
+Fowler, M - 101
+Johns, J - 101
+Kapadia, A - T.A. 101
+Li, Z - T.A. 101
+Liu, S - T.A. 101
+Matthew, G - T.A. 101
+Ritschel, N - 101
+Tiwary, N - T.A. 101
+Yu, E - T.A. 101
+Zhang, Y - T.A. 101
+Chan, J - T.A. 105
+Chen, H - T.A. 105
+Chowdhury, H - T.A. 105
+Ni, Z - T.A. 105
+Vanavasam, S - T.A. 105
+Buabeng, J - T.A. 128
+Chong, M - T.A. 128
+Hoxha, E - T.A. 128
+Kao, B - T.A. 128
+Koskelo, N - T.A. 128
+Willson, J - T.A. 128
+Gonzalez, D - 173
+Parthasarathy, M - 173
+Cunningham, R - 210, 498
+Azam, R - T.A. 225
+Ding, y - T.A. 225
+Eusuf, S - T.A. 225
+Koe, K - T.A. 225
+Roddur, M - T.A. 225
+Roy, K - T.A. 225
+Solomon, B - 225
+Srimath Tirumala, H - 225
+Ur Rahman, S - T.A. 225
+Yuan, Y - T.A. 225
+Zyrianov, V - T.A. 225
+Herman, G - 233
+Dalpiaz, D - 307
+Schatz, J - 340
+Tychonievich, L - 340, 418
+Angrave, L - 341
+Reidys, B - T.A. 341
+Youn, C - T.A. 341
+Silva, M - 357
+Karan, A - T.A. 361
+Kato, S - T.A. 361
+Agaram, K - T.A. 374
+Arad, Y - T.A. 374
+Braught, K - T.A. 374
+Cheung, D - T.A. 374
+Erickson, J - 374
+Jeon, S - T.A. 374
+Jin, A - T.A. 374
+Luo, E - T.A. 374
+Prasad, V - T.A. 374
+Sharma, S - T.A. 374
+Stubenvoll, J - T.A. 374
+Vemuganti, S - T.A. 374
+Williams, T - 400, 491
+Gertner, Y - 401, 491
+Alawini, A - 411
+McPherson, L - 415
+Shaffer, E - 415
+Gupta, I - 425
+Ghose, S - 433
+Caesar, M - 437
+Hoiem, D - 441
+Olson, L - 450
+Borisov, N - 461
+Gunter, C - 464
+Bailey, B - 465
+Sinha, M - 473
+You, J - 512
+Singh, G - 521
+Yan, F - 538
+Jiang, N - 542
+Kim, M - 545
+Hakkani Tur, D - 546
+Ringer, T - 576
+Mehta, R - 580
+Liu, G - 582
+Amato, N - 591
+Lazebnik, S - 591
+Alagappan, R - 598
+Chandrasekharan, E - 598
+Cunningham, K - 598
+Jabbarvand Behrouz, R - 598
+Kao, D - 598
+Lambert, C - T.A. 598
+Saha, K - 598
+Soltani, E - 598
+Sterman, S - 598
+Sun, J - 598
+Wang, S - 598
+Willis, C - 598
+Zhao, H - 598
+
+# Creative Writing
+Bales, A - 100
+Escamilla, I - T.A. 100
+Martin, C - 100
+Moore, T - T.A. 100
+Price, J - 100, 106
+Bergmark, S - T.A. 104
+Canipe, J - 104
+McVeigh, M - T.A. 104
+Rubins, J - 104, 202, 204
+Williams, P - 104
+Metz, N - T.A. 106
+VanCalbergh, M - 106
+Latham, C - T.A. 200
+Sanders, J - 204
+McVicker, Z - 206
+Gaffney, K - 208
+Dudek, J - 243
+Hassinger, A - 404, 500
+Shakar, A - 404
+Hurley, M - 460
+Kempf, C - 463
+Pintar, J - 463
+Garcia, G - 504
+Garcia, A - 506
+
+# Crop Sciences
+Bohn, M - 102
+Arbelaez, J - 112
+Dhakal, A - T.A. 112
+Kigoni, M - T.A. 112
+Scheffel Pereira, S - T.A. 112
+Lambert, K - 131
+Riggins, C - 180
+Schlegel Werle, I - T.A. 326
+Tranel, P - 326
+Dominguez Mendez, L - T.A. 352
+Seiter, N - 370, 508
+Mideros Mora, S - 407, 498
+Venadan, S - T.A. 407
+Villamil, M - 414, 418
+Lee, D - 415
+Vittore, K - T.A. 415
+Riechers, D - 426
+Davis, A - 437
+Lipka, A - 440
+Jamann, T - 452, 594
+Sorensen, P - T.A. 452
+Juvik, J - 498
+Geedey, A - T.A. 499
+Klimasmith, I - 499
+Athey, K - 508
+
+# Curriculum and Instruction
+Baker, F - T.A. 210
+Bawankule, A - T.A. 380
+Gonzalez Rivera, G - 402
+Gutzmer, C - 402
+Chappell, M - 403
+Getowicz, C - T.A. 403
+Poetzel, A - 403, 430
+Smith, A - T.A. 403
+Latham, N - 405
+Hedrick-Shaw, D - 406
+Lake, B - T.A. 406
+McClellan, A - T.A. 406
+Li, Q - T.A. 415
+Martinez Negrette, G - 415, 433
+Wawire, P - T.A. 415, 433
+Smith, S - 421
+Wang, N - T.A. 422
+Altshuler, M - 430
+Nunez Cortez, I - 446
+Pierce, G - T.A. 452
+Pradzinski, A - 454
+Chudzik, M - 455
+Driscoll, K - 465, 501
+Davenport, K - T.A. 467
+Lehrer, M - T.A. 467
+Periodi, I - T.A. 467
+Kaczmarczyk-Smith, W - T.A. 471
+Filkins, S - 476
+Ren, V - T.A. 476
+Xu, S - T.A. 476
+Kang, J - 479
+Jayathirtha, G - 480
+Thorstensson Davila, L - 507
+Jones, A - 508, 512
+Mercier Newton, E - 511
+Dyer, E - 536
+D'Angelo, C - 550
+Lindgren, R - 593
+
+# Dance
+Allen, B - 100
+Amiri, B - T.A. 100
+Henss, J - 100, 200
+Trogdon, N - T.A. 100
+Vangelatos, S - T.A. 100
+Wahrendorf, C - T.A. 100
+Crocker, T - 116
+Doniff, M - T.A. 116
+Tecza, A - 116
+Sapozhnikov, A - 150, 216
+Caldarella, P - 160, 232, 360
+Nance, C - 160, 232
+Marini, N - 201, 451
+Rome, E - T.A. 216
+Segale, M - T.A. 216
+Lewis, T - 270
+Aprahamian, S - 441
+
+# EXP
+Gay, L - 101
+Gutwein, C - 101
+Lipscomb, D - 101
+Matresse, E - T.A. 101
+Medina, R - 101
+Pritchard, B - 101
+Puente, S - 101
+Singleton, J - 101
+Smothers, S - 101
+Stengel, L - 101
+Vazquez Rodriguez, M - 101
+Verhelst, C - 101
+Williams, N - 101
+
+# Earth, Society, and Environment
+Brown, C - 200
+Meghani, N - 200, 311
+Cole, T - 320
+Barnard, J - 360
+Tomkin, J - 468
+
+# East Asian Languages and Cultures
+Huo, R - T.A. 130
+Su, Y - 130
+Wang, Y - 207
+Jagiello, J - T.A. 230
+Jiang, Y - T.A. 230
+Li, Y - T.A. 230
+Pu, Y - 240, 398
+Lu, Y - T.A. 250
+Bian, R - T.A. 275
+Martin, J - 280
+Lee, A - 367
+He, B - 398
+Persiani, G - 398
+Sadler, M - 398
+Callahan, C - 485
+Wilson, R - 500
+
+# Economics
+Ambardar, S - T.A. 102
+Barros De Aquino Fonseca, D - T.A. 102
+Buckley, B - 102, 302, 415
+Buller, D - T.A. 102
+Chen, Z - T.A. 102
+DiIanni, I - 102, 302, 402
+Dunets, S - T.A. 102
+Gao, K - T.A. 102
+Han, Y - T.A. 102
+Jang, H - T.A. 102
+Jung, Y - T.A. 102
+Liu, S - T.A. 102
+Mun, S - T.A. 102
+Tavakoli, A - T.A. 102
+Wang, L - T.A. 102
+de Lima, J - T.A. 103
+Hoque, M - T.A. 103
+Narayanaswamy, K - T.A. 103
+Niu, M - T.A. 103
+Rahmati, A - T.A. 103
+Rocha Cavalcante, C - T.A. 103
+Simon, P - T.A. 103
+Sintos, E - T.A. 103
+Vazquez, J - 103, 490
+Kennealy - Pierczynski, K - 198
+Bhattacharjee, S - T.A. 202
+Whamond, C - T.A. 202
+Cho, H - T.A. 203
+Choi, T - T.A. 203
+Jeziorski, W - T.A. 203
+Ray, S - T.A. 203
+Song, H - T.A. 203
+Moore, R - T.A. 302
+Shadram, V - T.A. 302
+Stechuk, S - T.A. 302
+Albouy, D - 414
+Dziuba, P - 420, 516
+Krasa, S - 437
+Sun, Y - 447, 448
+Akresh, R - 450, 551
+Lee, J - 472, 504, 521
+Chung, E - 474
+Da Cunha Rodrigues, F - T.A. 475
+Toossi, A - 480, 502
+Schultz, C - 484
+Wang, C - T.A. 490
+Alonso Fontes, D - 491
+Bartik, A - 491, 523
+Durandard, T - 491
+Shea, J - 491, 590
+Sadeghi, M - T.A. 500
+Song, L - 500
+Wu, J - 501, 590
+Yuwen, R - T.A. 501
+Rafi, J - T.A. 502
+Singh, L - T.A. 502
+King, H - T.A. 530
+Lemus Encalada, J - 530
+Parente, S - 531
+Park, K - T.A. 531
+Tiwari, A - T.A. 532
+Cunha Medeiros, M - 590
+Deltas, G - 590
+
+# Educ Policy, Organization and Leadership
+Ewa, O - T.A. 310
+Haggins, G - T.A. 310
+Ruiz-Divas, V - T.A. 310
+Sultan, I - T.A. 310
+Torres, A - T.A. 380
+Ransom, K - 403
+Barnett, B - 409
+Kwon, C - 470
+Hrubec, D - 472, 483
+Kang, H - T.A. 472
+Oh, E - 485
+Johnson, J - 500
+Flores, O - 516
+Witt, A - 522
+Xu, L - T.A. 522
+Elkorghli, E - T.A. 523
+Herrera, L - 523
+Jangjou Tazehkand, P - T.A. 523
+Muga, M - T.A. 523
+Lindgren, S - 524
+Nkrumah-Ababio, P - T.A. 524
+Tapaha, O - 531
+Carvalho de Castro, V - 534
+Wang, C - T.A. 534
+Rice, P - 538
+Nelson, J - 544
+Gantz, S - 551
+Mason, C - 554
+Zhu, X - 590
+Roegman, R - 591
+
+# Education Administration
+Poetzel, A - 101, 102
+Kim, H - T.A. 201
+Kumi, S - T.A. 201
+Lee, S - T.A. 201
+Rodriguez, G - 201
+Shepherd, J - T.A. 201
+Torres, A - T.A. 201
+Kirby, E - T.A. 202
+Lomax, K - T.A. 202
+
+# Education Research and Methods
+Kang, H - 511
+Hinze-Pifer, R - 550
+Bruno, P - 556
+Oh, E - 556
+Won, Y - T.A. 556
+Lueking, E - 574
+Castillo, N - 581
+
+# Educational Psychology
+Bandstra, A - T.A. 201
+Lopez, E - T.A. 201
+Marchand, A - 201
+Peters, D - T.A. 201
+Ravelo, G - T.A. 201
+Revell, S - T.A. 201
+Xie, H - T.A. 201
+Zhou, Q - T.A. 201
+Clarke, W - T.A. 202
+Valdez, J - T.A. 202
+Beckless, C - T.A. 203
+Lee, S - 203
+Hong, E - T.A. 220
+Gladstone, J - 400
+Beard, J - 419, 420
+Napolitano, C - 430
+Kirby, E - T.A. 485
+Mann, J - 485
+Poetzel, A - 485
+D'Angelo, C - 508
+Avent, C - 575
+Kern, J - 582, 589, 590
+Chen, L - 590
+Khuri, M - 590
+
+# Electrical & Computer Eng
+Bathala, S - T.A. 110
+De Souza, R - T.A. 110
+Elahi, N - T.A. 110
+Endraws, D - T.A. 110
+Erickson, E - T.A. 110
+Haque, A - T.A. 110
+Hwang, A - T.A. 110
+Israni, J - T.A. 110
+Kim, D - T.A. 110
+Lee, A - T.A. 110
+Mo, B - T.A. 110
+Raina, N - T.A. 110
+Schmitz, C - 110, 145
+Shen, Y - T.A. 110
+You, P - T.A. 110
+Gong, Z - T.A. 120
+Jing, Y - T.A. 120
+Luiz, P - T.A. 120
+Sleiman Tellawi, Y - T.A. 120
+Vasilyev, N - T.A. 120
+Zhang, Y - T.A. 120
+Lai, C - T.A. 145
+Yuan, M - T.A. 145
+Zhang, J - T.A. 145
+Curry, W - T.A. 205
+Han, M - T.A. 205
+Liu, J - T.A. 205
+Patel, S - T.A. 205
+Ravaioli, U - 205
+Wolski, E - T.A. 205
+Vithoulkas, A - T.A. 206
+Wang, H - T.A. 206
+Xu, K - T.A. 206
+Zhang, R - T.A. 206
+Zhou, K - T.A. 206
+Chen, K - T.A. 210
+Kolaczkowski, S - T.A. 210
+Shao, Y - 210, 329
+Vanwiggeren, D - T.A. 210
+Abraham, I - 220
+Chen, Y - 220
+Montano, M - T.A. 220
+Choquette, K - 304
+Snyder, C - 310, 364
+Li, H - T.A. 311
+Umrawal, A - 313
+Wei, Y - 313
+Hillmer, P - 316
+Mironenko, O - 330
+Zhang, R - 330
+Schuh, J - 333
+Hanumolu, P - 342
+Radhakrishnan, C - 342
+Gutierrez, N - T.A. 343
+Hwang, J - T.A. 343
+Shen, A - T.A. 343
+Kudeki, E - 350
+Gamota, M - T.A. 395
+Smith, C - 395
+Chitambar, E - 404
+Bogdanov, S - 405
+Moon, T - 420, 463
+Chang, H - T.A. 437
+Gruev, V - 437
+Jin, Y - T.A. 437
+Zhu, W - 441
+Kim, Y - T.A. 444
+Goddard, L - 446
+Sommers, B - T.A. 453
+Chen, X - 457
+Zhou, Y - T.A. 457
+Rafferty, L - T.A. 463
+Banerjee, A - 464, 469
+Zscherpel, L - T.A. 470
+Dominguez-Garcia, A - 476
+McKechnie, G - T.A. 476
+Aoun, C - T.A. 486
+Dragic, P - 495
+Gachich, M - T.A. 495
+Stillwell, A - 498, 590
+Lumetta, S - 508
+Cunningham, B - 514
+Liberzon, D - 517
+Ren, L - 526
+Kamalabadi, F - 544
+Forsyth, D - 549
+Xu, Z - T.A. 551
+Milenkovic, O - 563
+Chen, Y - 564
+Bishop, M - 598
+Driggs-Campbell, K - 598
+Gallo, F - 598
+Schreiber, A - T.A. 598
+
+# Engineering
+Favila, I - 111
+Montagner Martinez, A - 111
+Bradley, J - 177
+Brown, J - 177, 411
+Chen, Y - 177, 580
+Forman, G - 177
+Rodriguez, L - 177
+Schatz, J - 177
+Shen, R - 177
+Schultz, J - 199
+Soranso, M - 199, 398
+Tempel, D - 211
+O'Brien, C - 298
+Mamaril, N - 398
+Liebenberg, L - 471, 571
+Stratton, M - 491
+Beckman, M - 580
+Carter Pipkins, K - 591
+Stites, L - 591
+
+# Engineering Technology and Management for Agricultural Systems
+Johnson, T - 100
+Woodward, K - 123
+Raveendran Nair, G - 232
+Felton, M - T.A. 311
+Kimbrough, S - T.A. 311
+Williams-Stroud, T - T.A. 311
+Azizi, M - T.A. 372
+Huffman, Z - 372, 499
+Zhang, Y - 372
+Rudolphi, J - 422
+Fatemi Heydarabad, A - T.A. 435
+Grift, T - 435
+Allen, C - 464
+Yuan, S - T.A. 464
+
+# English
+Dickerson, C - 103
+Castaneda, C - T.A. 104
+Demirel, D - T.A. 104
+Mridha, A - T.A. 104
+Rivera Lopez, M - T.A. 104
+Downey, S - T.A. 109
+Kim, E - T.A. 109
+Lee, J - T.A. 109
+Mendoza, E - T.A. 109
+Underwood, W - 120
+Morris, D - 200
+Pollock, A - 200, 527
+Soto Crespo, R - 200
+Koepke, C - 202
+Mecolli, M - T.A. 208, 209
+Gray, C - 209
+Vowels, G - T.A. 209
+Barrett, R - 216
+Perry, C - 218
+Dawn, L - T.A. 220
+Gunter, M - T.A. 242
+Myers, D - T.A. 251
+Murison, J - 255
+Schmidt, A - T.A. 255
+Streitmatter, O - T.A. 255
+Claborn, J - 259
+Chatterjee, D - T.A. 285
+Gaedtke, A - 301
+Oh, R - 301
+Nyikos, D - 325
+Basu, M - 350
+Cordell, R - 350
+Somerville, S - 373
+Kinzy, D - 380
+Gallagher, J - 396, 481
+Menendez, K - 402
+Stevens, A - 416
+Gilmore, S - 455
+Dean, T - 564
+Littlefield, M - 578
+
+# English as a Second Language
+Houston, A - 110, 115
+Mikhailova, K - T.A. 110
+Radford, S - T.A. 110
+Teixeira, B - 110
+Young, J - 110, 508
+Benli, C - T.A. 111
+Cahyani, A - T.A. 111
+Canpolat, Z - T.A. 111
+Chinski, M - T.A. 111
+Kotnarowski, J - 111
+Mansouri, S - T.A. 111
+Nguyen, H - T.A. 111
+Nierenhausen, B - 111, 521
+Patellos, V - T.A. 111
+Spirydovich, N - T.A. 111
+Vo, A - T.A. 111
+Zhu, A - T.A. 111
+Carroll Curry, E - 112
+Gomez Cayapu, R - 112, 511
+Black, C - T.A. 115
+Cooper, L - 115, 508
+Ferreira Da Silva Torres, P - T.A. 115
+Gutierrez Rodriguez, J - T.A. 115
+Harreld, M - T.A. 115
+Logacheva, D - T.A. 115
+Sahin, M - T.A. 115
+Franks, S - 504
+Miszoglad, E - 504, 512, 593
+Bowen, M - 508, 515
+Dold, C - 508, 521
+Zhang, Q - 508
+Ginting, R - T.A. 511
+Humaidan, A - 511, 525
+Sanic, N - T.A. 511
+Sinan, Z - T.A. 511
+Zhang, S - T.A. 511
+Ghosh, M - 515
+Hayes, P - T.A. 515
+Jung, J - T.A. 515
+Bui, J - T.A. 521
+Faivre, S - 522
+Huang, J - 525
+Pennell, J - 535
+Dunse, A - 592, 593
+
+# English as an International Language
+Atiles, A - T.A. 422
+Sadler, R - 587
+
+# Environmental Studies
+Green, E - 492
+
+# Finance
+Metzger, R - 199, 425
+Rafat Nezhad, R - T.A. 221
+Raskie, S - 221, 435
+Satchell, J - 221, 500
+Beigie, D - 230, 393
+Thomas, T - 230
+Marcinkowski, M - 300
+Peters, S - 300
+Xu, Q - 321
+Excell, R - 392, 412, 419
+Vitek, M - 392, 464, 504
+Hart, J - 394
+Brown, J - 395, 574
+Sehy, A - 395
+Pal, A - 411
+Muravyev, D - 412, 512
+Krueger, G - 423
+Almeida, H - 424, 572
+Sholem, D - 425
+Grimsley, K - 447
+Bertram, J - 463
+Smith, M - 500, 581
+Widdicks, M - 500, 514, 516
+Deryugina, T - 501
+Pae, T - 503
+Gao, X - 511, 557, 559
+Pollet, J - 511
+Spencer, X - 511, 522
+Huang, J - 521
+Quane, B - 530
+League, R - 550
+Reif, J - 550
+Kronlund, M - 552
+Fonseca Duarte, V - 553
+Ma, R - T.A. 554
+Dolgopolov, V - 574
+Miller, N - 574, 597
+Zhou, Z - T.A. 597
+
+# Fine & Applied Arts Courses
+Mehrtens, B - 110
+Morrissette, J - 110
+Hodgin Jones, K - 230
+
+# Food Science & Human Nutrition
+Gist, T - 101, 120
+Coppess, S - 123
+Craft, J - 140, 232, 340
+Karduck, J - 150, 450, 552
+Miller, M - 175, 598
+Helferich, W - 220, 595
+Molina Chaves, D - T.A. 220
+Engeseth, N - 231, 414
+Blanco Cirer, A - T.A. 250
+Torrico, D - 302
+Phillips, C - 340
+Brotherton, J - 343
+Madson, J - 345
+Holscher, H - 420
+Pramana, A - T.A. 422
+Brandley, E - T.A. 426
+Wang, Y - 460, 595
+Turasan Ozturk, H - 465
+Ozturk, O - 483, 484
+Jin, Y - 574, 598
+Stasiewicz, M - 576
+Pepino de Gruev, Y - 580
+Burton, J - 597
+Demejia, E - 597
+
+# French
+Blanchard, L - T.A. 101
+Craig, S - T.A. 101, 205
+Guitard, M - T.A. 101
+Petre, M - T.A. 102, 212
+Smith, C - T.A. 102
+Clay, A - 103
+Norris, N - T.A. 103
+Zghal, S - T.A. 103
+Kenneth, K - T.A. 104
+Keruskin, J - T.A. 104
+Peterson, S - T.A. 207
+Mall, L - 211
+Maroun, D - 419
+Reynolds, F - 576
+
+# Game Studies and Design
+Durmaz, O - T.A. 101
+Wang, O - T.A. 101
+Boyce, C - T.A. 102
+Bregermann, J - 102
+Ballenger, S - 103
+Curtin, M - 390
+Hopping, D - T.A. 390
+Song, A - 390
+Velazquez, J - 390
+Cermak, D - 403
+Schultz, A - 490
+
+# Gender and Women's Studies
+Gomez-Perez, S - T.A. 100
+Millen, V - T.A. 100
+Velez, E - 100
+Khan, M - 201
+Moussawi, G - 202
+Turner, R - T.A. 250
+Barnes, T - 333
+Frerichs, E - 370
+King, A - 382
+Kashani, M - 550
+Vergara Bracamontes, D - 580
+Williams, C - 590
+
+# Geography & Geographic Information Science
+Butcher, S - 101
+Kim, G - T.A. 204
+Alvarado, N - 210
+Kolak, M - 224
+Wilson, D - 254
+Minn, M - 379
+Portelli, R - 403, 473
+Padmanabhan, A - 407
+Jefferson, B - 412
+Cidell, J - 465
+Diao, C - 477, 489
+Zaragocin, S - 496
+
+# Geology
+Austin, S - 107
+Peterson, K - T.A. 107
+Christie, M - 143
+Lusk, S - T.A. 143
+Anders, A - 401
+Brinker, S - T.A. 401
+Guenthner, W - 411
+Guertin, A - T.A. 411
+Druhan, J - 470
+Conroy, J - 484
+Maguire, R - 497
+Gregg, T - 591
+Nguyen, H - 593
+
+# German
+Fiorini, E - T.A. 101
+Pei, A - T.A. 101
+Cohen, J - T.A. 103
+Kelsey, W - T.A. 103
+Johnson, L - 199
+Cornell, W - T.A. 251
+Niekerk, C - 270, 472
+Hunt, A - 494
+
+# Global Studies
+Schrag, D - 100, 220, 296
+Wedig, T - 100
+Ogwal, S - 225
+Fogelman, C - 296
+Guth, A - 296
+Akresh, R - 298
+
+# Greek
+Leon Ruiz, D - 520
+
+# Greek (Modern)
+Moulita, M - T.A. 201
+
+# Health Technology
+Hale, T - 501, 502
+Gupta, A - 503
+
+# Health and Kinesiology
+Couture, K - T.A. 100
+Douglas, K - T.A. 100
+Gomez Prada, V - T.A. 100, 102
+Hammonds, A - T.A. 100
+Lill, J - T.A. 100
+Yao, J - T.A. 100
+Pauly, S - T.A. 101
+Corral, C - T.A. 102, 140
+Ko, H - T.A. 102
+North, J - T.A. 102, 340
+Tangonan, A - T.A. 102
+Guo, J - T.A. 103
+Huang, H - T.A. 103, 352
+Huang, P - T.A. 103
+Novak, S - T.A. 103
+Soto, D - T.A. 103, 106
+Clarke, C - 104, 470, 471
+Babaniamansour, A - T.A. 106
+Chen, C - T.A. 106
+Wang, C - T.A. 106
+Witte, P - T.A. 106, 140
+Zhang, K - T.A. 106
+Ensign, J - 109
+Ashrafee, T - T.A. 110, 111
+Riis, J - 110, 111
+Johnson, S - 111
+Khaium, M - T.A. 111
+Mannava, A - T.A. 111, 208
+Okon, S - T.A. 111
+Peterson, N - 112
+Heintz, H - 125
+Hudek, P - 125
+O'Neill, A - 125
+Tyner, K - 125
+White, A - 125
+Wisdom, A - 125
+Choi, J - T.A. 140
+Couture, J - 140, 154, 243, 442
+Malani, R - T.A. 140
+Boppart, M - 150
+Choi, S - T.A. 150
+Dabirian, N - T.A. 150
+Morgan, A - T.A. 150
+Patel, S - T.A. 150
+Leonardis, W - 154, 353
+Harris, A - 160, 350, 454
+Bensken, J - 171
+Keye Cerna, S - 199, 440
+Bakare, J - T.A. 201
+Harrison, Z - T.A. 201, 260, 263
+Richards, K - 201, 461
+Sebastiao, E - 201
+Singh, A - T.A. 201, 262
+Hong, S - T.A. 203
+Bazan, C - 204, 207, 408
+Geissler, D - 205, 532
+Lovasz, D - 206
+Geiger, S - 207
+Chiu, C - 208
+Kpene, G - T.A. 208
+Mamaril, C - 208, 272, 417
+Barnes, B - 209
+Mullen, S - 242
+Haugen, M - 243
+Danbury, A - 250
+Hutzelmann, D - T.A. 250
+Lohmann, J - T.A. 250
+Panchal, H - T.A. 250
+Wheat, T - T.A. 262
+Kim, M - T.A. 263
+Lee, J - T.A. 263, 361
+O'Connor, J - 264
+Dubure, E - T.A. 300
+Frasca, B - 300, 471
+Matarneh, M - T.A. 300
+Jan, Y - 302
+Cerna, J - 340
+Chen, D - T.A. 340
+Szamocki, M - T.A. 340
+Khan, N - 341
+Burd, N - 352, 453
+Irwin, G - T.A. 352
+Zupancic, Z - T.A. 352
+Rudy, S - T.A. 353
+Vogel, C - T.A. 353
+Dillon, G - 354, 494
+DiFilippo, K - 370, 471
+Mejia, S - 401
+Hale, T - 403
+Watanabe Soufen, J - T.A. 408
+Gobin, R - 409
+Kelley-Freiburger, B - 410
+Pearson, S - 410
+Rodrigues Curi Hallal, P - 410
+Elias Lamas, A - 414
+Kang, H - 416, 526
+Barnes, L - 421
+Freehill, A - 421
+Hanks, M - 438, 550
+Senefeld, J - 448
+Choi, S - 449
+Carlson, K - 460, 562
+Wilson, W - 463
+Marinho Tenorio, C - 470, 471
+Ramos Flores Nunes, T - 474
+Strauser, D - 480
+Martenies, S - 513
+Lara-Cinisomo, S - 515
+Beeram, S - T.A. 517
+Hoopsick, R - 517
+Amaral de Andrade Leao, O - 527
+Ayoola, O - T.A. 527
+Miranda Tassitano, R - 533
+
+# Hindi
+Gupta, P - T.A. 201
+
+# History
+Cochran, T - T.A. 100
+Jacobs, A - T.A. 100
+Warner, S - T.A. 100
+Birch, S - T.A. 103
+Runnels, N - T.A. 103
+Simon, E - T.A. 103
+Anderson, B - 104
+Francelino Vieira, E - T.A. 104
+Rodriguez, D - T.A. 104
+Sagonda, V - T.A. 104
+Bozzi Feijo, B - T.A. 106
+Hong, H - T.A. 111
+Du, P - T.A. 120
+Hsieh, P - T.A. 120
+Pu, Y - 120
+Goffman, L - 135, 337
+Trauscht, C - T.A. 140
+Mason, S - 171, 371
+Polanski, J - T.A. 171
+MacDonald, O - T.A. 199
+Glover, T - 200
+Jaimes, M - 200, 258, 350, 365
+Lee, A - 200
+Vaughn, T - T.A. 202
+Randolph, J - 207
+Mathisen, R - 241
+Pederson, L - T.A. 241
+Djordjevic, S - 258, 439
+Micale, M - 268, 357
+Hirsch, A - T.A. 281
+Kelley, K - T.A. 293
+Brennan, J - 311
+Strakhova, A - 355
+LaPier, R - 476, 572
+Nobili, M - 510
+
+# Horticulture
+Ali, A - T.A. 105
+Lasalle, C - T.A. 105
+Lusebrink, A - T.A. 105
+Nelson, J - 105
+Paudel, S - T.A. 105
+Taylor, A - 106, 344
+McCoy, J - 435
+
+# Human Development and Family Studies
+Anderson, B - 101
+Mitchell, E - 101, 310, 450
+Choi, H - T.A. 105
+Codamon, A - T.A. 105
+Kanter, J - 105, 597
+Rivas-Koehl, D - T.A. 105
+Skaff, O - T.A. 105
+Viana Da Conceicao Nascimento, T - T.A. 105
+Walls, J - T.A. 105
+Hurth, E - 108, 208, 408
+Hulette, I - 120
+Mello Lopes Dobke, M - T.A. 120
+Smith, S - 120, 425
+Kramer, K - 220
+Wang, I - T.A. 220
+Zhang, F - T.A. 220
+Rivas-Koehl, M - 225
+Li, E - T.A. 290
+Ogolsky, B - 290, 595
+Sudduth, C - T.A. 290
+El Kawas, G - T.A. 310
+Carter, M - T.A. 320
+Lleras, C - 330
+Freeman Bost, K - 401
+Frantz, K - 405, 590
+Fish, J - 501
+Oswald, R - 523
+Dariotis, J - 580
+
+# Human-Centered Design and Design Thinking
+James, C - 180
+Kristant, E - 451
+Duke, C - 495
+Fava, J - 495
+
+# Illinois Informatics Institute
+Cole, M - 303
+Gupta, M - 390
+Muzei, J - T.A. 390
+Delgado Ramos, D - T.A. 407
+Patel, H - T.A. 407
+
+# Industrial Engineering
+Zhu, X - T.A. 300
+Xu, Y - 310, 598
+Eraslan, E - T.A. 360
+Gupta, A - 360
+Garg, J - 405
+Hanasusanto, G - 411
+Murphy, M - 498, 517
+Wang, Q - 524
+Vogiatzis, C - 532
+Wooldridge, A - 546
+Li, Y - 598
+
+# Information Sciences
+Liu, Y - T.A. 101
+Pintar, J - 101
+Choi, L - T.A. 145
+Kemboi, G - T.A. 145
+Mussulman, D - 145, 203, 206
+Sanfilippo, M - 202
+Xia, Y - T.A. 203
+Xu, H - T.A. 203
+Yan, Z - T.A. 203
+Besser, S - 204, 407
+Gumusel, E - 204
+Magee, R - 204
+Pamidighantam, P - T.A. 205
+Wickes, E - 205
+Zhang, J - T.A. 205
+Evans, C - 206
+Zhang, J - T.A. 206
+MacMullen, T - 229, 429
+Chorng, I - T.A. 308
+Wagner, T - 308, 505
+Duffy, D - 309
+Wolske, M - 311
+Miller, S - T.A. 312
+Monroe, O - T.A. 312
+Lourentzou, I - 327
+Zacks, T - T.A. 357
+Markazi, D - T.A. 401
+Betts-Green, D - 403, 413, 573
+Rusch, A - 409
+Wang, X - T.A. 409
+Alvarez, B - 418, 505, 571
+Langston, W - T.A. 419
+Twidale, M - 419, 509
+Stier, Z - 423
+Narwari, M - T.A. 430
+Trainor, K - 430
+Chen, J - T.A. 445
+Ding, K - T.A. 445
+Liu, G - T.A. 445
+Naiman, J - 445
+Tang, Y - T.A. 445
+Xia, Y - T.A. 445
+Zheng, G - T.A. 445
+Agarwal, N - T.A. 446
+Hoiem, E - 453
+Chen, J - 455
+Wong, M - 471, 501, 591
+Gawde, S - T.A. 477
+Jiao, C - T.A. 477
+Miao, J - T.A. 477
+Oke, F - T.A. 477
+Sarol, M - T.A. 477
+Tran, A - T.A. 477
+Rao, A - T.A. 497
+Weible, J - 497, 597
+Woodard, B - 501
+Chin, J - 504
+Olalere, P - T.A. 504
+Wang, K - T.A. 504
+Zhang, H - T.A. 504
+Benning, S - T.A. 505
+Das, P - T.A. 505
+Kirtley, K - T.A. 505
+Maemura, E - 505, 543
+Myers, C - 505
+Duvvuru, J - T.A. 507
+Nam, A - T.A. 507
+Salami, M - T.A. 507
+Torvik, V - 507
+Wang, Y - 507
+Yu, Y - T.A. 507
+Ugwuoke, V - T.A. 509
+Barnhart, A - 510
+Lanquist, L - T.A. 510
+McDowell, K - 510
+Rhinesmith, C - 510
+Seilkhanova, T - T.A. 510
+Song, Y - 514, 534
+Hahn, J - T.A. 515
+Hendricks, R - 517
+Liu, Y - 517
+Teper, J - 523
+Kanekal, D - T.A. 525
+Wonderlich, M - 525
+Carvalho do Amaral, J - 529
+Holba Puacz, J - 530, 582, 592
+Ochs, L - 532
+Uba, E - T.A. 534
+Watkins, L - 534
+Benson, S - 541
+Diekman, L - 542
+Revell, Z - 544
+Tilley, C - 551
+Bosch, P - 557
+Jiang, L - T.A. 557
+Salrin, M - 562
+Dahlen, S - 563
+Hong, G - T.A. 567
+Kilicoglu, H - 567
+Oberg, S - 573
+Ai, M - T.A. 577
+He, J - 577
+Lee, G - T.A. 577
+Ning, X - T.A. 577
+Cordell, R - 578
+Mattson, K - 581
+Butt, E - 582
+Dankert, R - 582
+Hinchliffe, L - 582
+Bothmann, B - 585
+Craig, A - 592
+Egan, K - 592
+Abney, A - 593
+Cheng, H - T.A. 597
+Kattamuri, S - T.A. 597
+Tibebu, H - 597
+
+# Italian
+Cipolla, S - T.A. 101
+Medri, E - T.A. 101
+Hill, L - 103, 104
+Lestani, L - T.A. 103
+Chiarantini, L - 240
+Stoppino, E - 420
+
+# Japan House
+Francis, O - 299
+Stirek, L - 299, 301
+
+# Japanese
+Ai, M - T.A. 201
+Baxter, S - T.A. 201
+Nagata, T - T.A. 201
+Nozaki, C - 201, 440
+Hirata, S - 203
+
+# Journalism
+Goncalves, A - 102, 471
+Carpenter, M - 161
+Ng, M - 200, 410
+Craft, S - 205
+King, C - 210
+Lombardi, C - 220
+Heuman, J - 311
+Davis, A - 340
+Lara-Cinisomo, V - 361
+Kieser, E - 427
+Ball, C - 451
+Troy, C - 453
+
+# Korean
+Hong, S - T.A. 201
+Jeon, J - T.A. 201
+Kim, M - T.A. 201
+Park, W - T.A. 203
+Yun, J - 203, 221
+Ha, J - 241
+
+# Landscape Architecture
+Davis, L - 100
+Sirois, E - 100
+Hays, D - 101
+Sears, S - 233, 501
+Ask, S - T.A. 250, 352
+Scott, B - 250
+Nair, S - T.A. 342
+Tao, Z - 342
+Watkins, A - 346
+Moen, B - 352
+McGuire, M - 433
+Gu, Y - 482
+
+# Latin
+Mylli, E - T.A. 101
+Sotiroudis, P - T.A. 101
+Reeber, J - 401
+
+# Latin American & Carib Studies
+Lam Redondo, E - T.A. 170
+Szremski, K - 170
+Molina-Vital, C - 210
+
+# Latina/Latino Studies
+Lule, L - T.A. 100
+Perez-Enriquez, K - 100
+de la Garza, J - 242, 360
+Ettinger, S - 279
+Martinez, A - 365, 458
+Barragan Miranda, J - 385
+Flores, N - 387, 465
+Lira, N - 479
+
+# Law
+Azem, C - T.A. 301
+Balekai, A - T.A. 301
+Follis, R - T.A. 301
+Hussain, A - T.A. 301
+Mauricio, G - T.A. 301
+Pahre, J - 301, 306
+Roebuck, A - 501
+Lawsky, S - 601
+Robbennolt, J - 603
+Leipold, A - 605, 679
+Thomas, S - 607
+Winship, V - 607, 794
+Agallianos, P - 609
+Alam, R - 609, 794
+Anderson, S - 609, 668
+Moritz, S - 609
+Ray, R - 609
+Sanderson, K - 609
+Schulte, A - 609
+Troup, J - 609
+Rowell, K - 615
+Segota, C - 627
+Aviram, A - 633
+Sherkow, J - 645
+Baudry, E - 647
+Keenan, P - 656
+Kaplan, R - 670
+Johnson, E - 682
+Ghiotto, T - 694
+Loch, M - 792
+Trott, T - 792
+Watson, B - 792
+Wexler, L - 792
+Wilson, R - 792
+Nahrstadt, B - 793
+Nahrstadt, D - 793
+Bruks, P - 794
+Augustine, A - 797
+
+# Liberal Arts and Sciences
+Berthelon, J - 100
+Kim, E - T.A. 100
+Liu, Y - T.A. 100
+Zhang, X - T.A. 100
+Ajayi, F - T.A. 101
+Bailey, J - T.A. 101
+Barnes, M - T.A. 101
+Basolo, A - T.A. 101
+Baxter, J - T.A. 101
+Bhargava, I - T.A. 101
+Bhatty, D - T.A. 101
+Bridges, L - T.A. 101
+Cai, A - T.A. 101
+Castaneda, S - T.A. 101
+Chanana, V - T.A. 101
+Chhabra, S - T.A. 101
+Chornij, M - T.A. 101
+Ciesla, M - T.A. 101
+Collins, R - T.A. 101
+Conway, G - T.A. 101
+Coy, M - T.A. 101
+Craddock, A - T.A. 101
+Crimmins, C - T.A. 101
+Crimmins, L - T.A. 101
+Dagres, Z - T.A. 101
+Dawson, J - T.A. 101
+Diaz, A - T.A. 101
+Ding, A - T.A. 101
+Duby, S - T.A. 101
+Dunlavy, R - T.A. 101
+Fanelli, K - T.A. 101
+Ferris, K - T.A. 101
+Flores, D - T.A. 101
+Gabis, L - T.A. 101
+Gajula, A - T.A. 101
+Gergeni, M - T.A. 101
+Gornicki, M - T.A. 101
+Groszek, A - T.A. 101
+Harrington, E - T.A. 101
+Harris, Z - T.A. 101
+He, S - T.A. 101
+He, B - T.A. 101
+Hea, E - T.A. 101
+Hermanns, E - T.A. 101
+Herrera, M - T.A. 101
+Huffaker, N - T.A. 101
+Jacobs, L - T.A. 101
+Karaivanova, V - T.A. 101
+Kaur, J - T.A. 101
+Kerni, M - T.A. 101
+King, E - T.A. 101
+Kipp, E - T.A. 101
+Krueger, G - T.A. 101
+Lechowicz, E - T.A. 101
+Ledesma, M - T.A. 101
+Lennon, M - T.A. 101
+Li, C - T.A. 101
+Mahoney, M - T.A. 101
+Martin, T - T.A. 101
+Martinez, U - T.A. 101
+Mason-El, K - T.A. 101
+McGovern, K - T.A. 101
+Medvedeff, A - T.A. 101
+Mertinat, K - T.A. 101
+Mirza, E - T.A. 101
+Misius, S - T.A. 101
+Mohanty, A - T.A. 101
+Moller, A - T.A. 101
+Morrar, M - T.A. 101
+Muharremaj, K - T.A. 101
+Murthy, A - T.A. 101
+Nourahmadi, I - T.A. 101
+Ocampo, V - T.A. 101
+Pamidimukkala, S - T.A. 101
+Pembele, C - T.A. 101
+Pickerill, L - T.A. 101
+Potts, C - T.A. 101
+Powell, J - T.A. 101
+Quinones, S - T.A. 101
+Raslan, S - T.A. 101
+Rudolph, A - T.A. 101
+Rusnak, A - T.A. 101
+Samuel, N - T.A. 101
+Schmit, N - T.A. 101
+Serna, A - T.A. 101
+Siek, V - T.A. 101
+Silic, A - T.A. 101
+Singla, K - T.A. 101
+Smith, M - T.A. 101
+Steinhauer, S - T.A. 101
+Straughan, S - T.A. 101
+Sullivan, A - T.A. 101
+Szaflarski, A - T.A. 101
+Urban, E - T.A. 101
+Vandorp, S - T.A. 101
+Vasko, S - T.A. 101
+Walczak, C - T.A. 101
+Walsh, M - T.A. 101
+Watzke, N - T.A. 101
+Webb, L - T.A. 101
+Weissman, J - T.A. 101
+Wells, K - T.A. 101
+Wright, J - T.A. 101
+Wunderlich, M - T.A. 101
+Zatarski, M - T.A. 101
+Ziaja, S - T.A. 101
+Zoss, M - T.A. 101
+Cao, Y - T.A. 102
+Chen, J - T.A. 102
+Fan, C - T.A. 102
+Greenberg, S - T.A. 102
+Gruettner, J - T.A. 102
+Guo, Z - T.A. 102
+Harvard, L - T.A. 102
+Hawkins, M - T.A. 102
+Kim, J - T.A. 102
+Krishnan, S - T.A. 102
+Lomeli, K - T.A. 102
+McNeela, P - T.A. 102
+Mohanty, A - T.A. 102
+Morris, J - T.A. 102
+Panopio, A - T.A. 102
+Quiroga, S - T.A. 102
+Radziszewski, E - T.A. 102
+Stribling, J - T.A. 102
+Vranjes, S - T.A. 102
+Wang, M - T.A. 102
+Beal, S - 112
+De La O, J - 112
+Griffith, D - 112
+Valentin, K - 112
+Wicks, R - 112
+Doris, A - T.A. 122
+Feng, C - T.A. 122
+Hamilton, A - T.A. 122
+Kaempfe, L - T.A. 122
+Klein, M - T.A. 122
+Koscielski, A - T.A. 122
+Lovell, M - T.A. 122
+Martinez, H - T.A. 122
+Menke, M - T.A. 122
+Nawrocka, M - T.A. 122
+Olson, C - T.A. 122
+Simpkins, T - T.A. 122
+Sunkad, D - T.A. 122
+Wydro, J - T.A. 122
+Broscritto, E - T.A. 399
+Cao, Y - T.A. 399
+Gaur, A - T.A. 399
+Johnson, J - T.A. 399
+Kuneyl, J - T.A. 399
+Loidl, V - T.A. 399
+Pittman, R - T.A. 399
+
+# Linguistics
+Armstrong, T - T.A. 100
+Bu, X - T.A. 100, 307
+Kim, A - T.A. 100
+Pilarski, C - T.A. 100
+Hayes, M - T.A. 210
+Arikoglu, S - T.A. 222, 250
+Jamshidi, S - T.A. 222, 450
+Lemke, C - T.A. 222
+Tachihara, K - 225
+Bhatt, R - 250, 450
+Stelzer, D - T.A. 270
+Gallardo, M - T.A. 301
+Newkirk, L - 307, 507
+De Nijs, P - T.A. 400
+Shosted, R - 401
+Mohamed, M - T.A. 406
+Hualde, J - 410
+Dunn, J - 413
+Mendoza, A - 489, 490
+Tywoniw, R - 490
+Talic, A - 501
+Nelson, S - 502
+
+# MBA Program Administration
+Yao, M - 543
+Girndt-Clougherty, T - 549
+Rodas Waters, M - 549
+Hannah, D - 553
+Parkinson, T - 553
+Khandelwal, A - 562
+Narang, U - 562
+Guymon, R - 563, 590
+Mendoza, K - 563
+Park, Y - 563
+Corredor Waldron, S - 571
+Mehta, R - 571
+Seshadri, S - 571
+Kourpas, E - 572
+Mukherjee, U - 572
+Kink, D - 590
+Minefee, I - 590
+Raquel, S - 590
+Barbeau, A - 597
+Russ, M - 597
+Soman, S - 598
+Watkins, R - 598
+
+# Materials Science & Engineerng
+Choy Hernandez, K - T.A. 182
+Huang, P - 182
+Kaman, R - T.A. 182
+Lin, J - T.A. 182
+Qiao, G - T.A. 182
+Leal, C - 201
+Sin, P - T.A. 201
+Yik, G - T.A. 201
+TerBush, J - 307
+Fields, A - T.A. 401
+Li, Y - T.A. 401
+Bean, C - T.A. 406
+Charpagne, M - 406
+Yoo, D - T.A. 406
+Stinville, j - 443
+Baur, J - 456
+Solis, M - T.A. 457
+Statt, A - 485
+Shim, M - 488
+Shoemaker, D - 489
+Chen, H - 596
+Lee, C - T.A. 596
+
+# Mathematics
+Allocco, A - T.A. 101
+Colgan, B - T.A. 101
+Dobbs, T - 101, 112, 234
+McMahon, R - T.A. 101
+Ye, K - T.A. 101
+Geiger, E - 103
+Jasso, B - T.A. 103
+Perez, Y - T.A. 103
+Cedillo, R - T.A. 112
+Lucier, J - T.A. 112
+Makharia, K - T.A. 112
+McLaren, T - T.A. 112
+Mijailovic, K - T.A. 112
+Petrie, M - T.A. 112
+Stange, L - T.A. 112
+Villegas, L - T.A. 112
+Bondelli, J - T.A. 115
+Carreno, J - 115
+Harshbarger, N - T.A. 115
+Omowumi, J - T.A. 115
+Placzek, L - 115
+Reutenko, D - T.A. 115
+Rodrigues, J - T.A. 115
+Venegas, A - T.A. 115
+Abdulrahim, A - 220
+Asaner, D - T.A. 220
+Banerjee, S - T.A. 220
+Cavey, I - 220
+Feng, T - T.A. 220
+Freymiller, K - T.A. 220
+Ganguly, S - T.A. 220
+Harman, S - T.A. 220
+Jamrozy, M - T.A. 220
+Lewis, G - T.A. 220
+Majercak, C - 220
+Nguyen, H - T.A. 220
+Pak, J - T.A. 220
+Razavi, H - T.A. 220
+Thompson, E - T.A. 220
+Villalobos, V - T.A. 220
+Vo, M - T.A. 220
+Cai, J - T.A. 221
+Chen, G - T.A. 221
+D'Arienzo, A - T.A. 221
+Ellefsen, B - T.A. 221
+Furlin, M - 221
+Gallardo, D - T.A. 221
+Gaur, A - T.A. 221
+Hayes, N - T.A. 221
+Higgins, J - T.A. 221
+Hu, M - T.A. 221
+Ishaq, M - T.A. 221
+Liu, B - T.A. 221
+Liu, J - T.A. 221
+Mulye, S - T.A. 221
+Park, J - T.A. 221
+Srikant, J - 221
+Anderson, J - T.A. 231
+Bahreini Esfahani, M - 231
+Bassler, Q - T.A. 231
+Dailey, I - T.A. 231
+Hillman, D - T.A. 231
+Hoffmeister, A - 231, 405, 499
+Ianina, A - T.A. 231
+Lahey, L - T.A. 231
+Lamaster, K - T.A. 231
+Li, R - T.A. 231
+Li, B - T.A. 231
+Maharjan, M - T.A. 231
+Olszewski, J - T.A. 231
+Paul, A - T.A. 231
+Qu, Z - T.A. 231
+Saettone, K - T.A. 231
+Shemtaga, H - 231
+Song, K - T.A. 231
+Taylor, G - T.A. 231
+Wattanawanichkul, P - T.A. 231
+Wiggins, D - T.A. 231
+Zeng, C - T.A. 231
+Khawaja, A - T.A. 234
+Manthripragada, J - T.A. 234
+Raza, M - T.A. 234
+Albattal, K - T.A. 241
+Alicandro, O - T.A. 241
+An, X - T.A. 241
+Arbelo Ramos, J - T.A. 241
+Dunfield, N - 241
+Ebel, S - T.A. 241
+Eckert, A - T.A. 241
+Govindarajan, A - T.A. 241
+Grossman-Naples, D - T.A. 241
+Ivanov, S - 241
+Kennedy, J - T.A. 241
+Kim, J - T.A. 241
+Kuehster, W - T.A. 241
+Leite Vilela Doliveira, A - T.A. 241
+Liu, J - T.A. 241
+Min, J - T.A. 241
+Ritter, M - T.A. 241
+Rong, X - T.A. 241
+Schwieger, I - T.A. 241
+Sheshko, N - T.A. 241
+Shin, W - T.A. 241
+Si, A - T.A. 241
+Stadlmann, J - 241
+Xie, Y - T.A. 241
+Zhang, Y - T.A. 241
+Zhou, K - T.A. 241
+Gupta, R - T.A. 257
+Mooers, F - T.A. 257
+Poon, L - T.A. 257
+Price, A - T.A. 257
+Senapati, S - T.A. 257
+Yeo, J - T.A. 257
+Manfroi, A - 285
+Yu, P - 285
+Dodd, C - 314
+Louis, R - 314
+Mor, I - 314
+Ozbay, D - T.A. 314
+Taylor, A - T.A. 314
+Fernando, R - 347
+Chen, E - 402
+Mortensen, K - 403
+Kostochka, A - 412
+Keating, D - 413
+Gabdullin, M - 415
+Beckey, J - 416
+Ji, L - 416
+Piliththuwasam Gallage, T - 416
+Rasmussen, S - 417
+Stojanoska, V - 417
+Tyson, J - 424
+Chuang, J - 427
+Cooney, D - 441
+Kirkpatrick, K - 442
+Kutzarova-Ford, D - 444
+Nie, Z - 444
+Nikolaev, I - 446
+Hinkkanen, A - 447
+Chavarria Gomez, N - 448
+Liu, Y - 453
+Zaharescu, A - 453, 531
+Song, R - 461
+Bradshaw, P - 484
+Rezk, C - 500
+Oikhberg, T - 540
+Cho, S - 564
+Methuku, A - 580
+
+# Mechanical Engineering
+Halloran, K - 170
+Lee, B - T.A. 170
+Liu, B - T.A. 170
+Scriba, N - T.A. 170
+Shamim, S - T.A. 170
+Singh, S - 199
+He, J - 200
+Sobahani, G - T.A. 200
+Yousaf, S - T.A. 200
+Emon, J - T.A. 270
+Hadi, E - T.A. 270
+Zhang, L - T.A. 270
+Ewoldt, R - 310
+Halarnkar, A - T.A. 310
+Khan, R - T.A. 310
+Modi, A - T.A. 310
+Monisha, I - T.A. 310
+Tang, K - 310
+Xu, C - T.A. 310
+Celebi, B - T.A. 320
+Miljkovic, N - 320
+Nandy, S - T.A. 320
+Alam, M - T.A. 330
+Ali, N - T.A. 330
+Karua, P - T.A. 330
+Lee, K - T.A. 330
+Park, J - T.A. 330
+Pekol, S - T.A. 330
+Tushe, N - T.A. 330
+Yarandi Natanzi, A - T.A. 330
+Arora, A - T.A. 340
+Lee, H - T.A. 340
+Li, J - T.A. 340
+Michaloliakos, A - T.A. 340
+Tiwari, N - T.A. 340
+Vakakis, A - 340
+Lucas, J - T.A. 360
+Mehta, P - 360
+Salapaka, S - 360
+Tiwari, D - T.A. 360
+Aggarwal, S - T.A. 370
+Cho, E - T.A. 370
+Correa Panesso, J - 370, 451
+Han, T - T.A. 370
+Hsiao-Wecksler, E - 370
+Ochoa Arias, E - T.A. 370
+Tenzer, M - T.A. 370
+Hirashima, K - T.A. 371
+Taylor, S - T.A. 371
+Wandke, K - 371, 461
+Bradshaw, C - 402
+Kearney, S - 410
+Han, B - 420
+Ertekin, E - 432, 590
+Kim, S - T.A. 447
+Eslaminia, A - T.A. 451
+Aramyan, M - T.A. 470
+Farhat, D - T.A. 470
+Qiu, A - T.A. 470
+Focht, M - T.A. 482
+Kersh, M - 482
+Ferreira, P - 487
+Solecki, A - T.A. 487
+Golecki, T - 498
+Lee, T - 498
+Sharma, V - T.A. 562
+Wagoner Johnson, A - 592
+Zhang, L - 598
+
+# Media
+Chupp, G - 100
+Morley, A - 100
+Njoroge, E - 100
+Sar, S - 571
+
+# Media and Cinema Studies
+Dutra Guedes, G - T.A. 100
+Gao, Y - T.A. 100
+Helmke, W - T.A. 100, 101
+Krishna, K - T.A. 100
+Salviano Marques da Silva, L - T.A. 100
+Zhou, N - T.A. 100
+Cintron, J - T.A. 101
+Hong, Y - T.A. 101
+Knipp, J - 101
+Oh, J - T.A. 101
+Zhou, N - T.A. 101
+Font Bas, V - 140, 150, 370
+Chen, T - T.A. 150
+Cole, C - 224, 356
+Wilson, C - 261
+Heuman, J - 264, 320
+Ciafone, A - 317
+Capino, J - 503
+
+# Military Science
+Kram, M - 101
+Ashworth, E - 120
+
+# Molecular and Cell Biology
+Bedwell, S - T.A. 101
+Wong, V - T.A. 101
+Chhakara, S - T.A. 150
+Dailey, K - T.A. 150
+Hebner, E - T.A. 150
+Lin, Z - T.A. 150
+Lizarazo Chaparro, S - T.A. 150
+Mehrtens, B - 150
+Pradeep, D - T.A. 150
+Ritchie, K - T.A. 150
+Song, X - T.A. 150
+Sun, C - T.A. 150
+Tang, R - T.A. 150
+Yang, R - T.A. 150
+Bouwens, B - T.A. 151
+Whalen, K - T.A. 151
+Yrigoyen Rosas, X - T.A. 151
+Cui, J - T.A. 170
+Toma, J - 170
+Fitz-Henley, J - 199
+Heimburger, K - T.A. 199
+Polites, G - 199
+Bell, R - T.A. 245
+Biswas, A - T.A. 245
+Eichenberger, H - T.A. 245
+Hobbs, S - T.A. 245
+Ihsan, R - T.A. 245
+Kockaya, L - T.A. 245
+Li, Z - T.A. 245
+McDonald, E - T.A. 245
+Nguyen, Q - T.A. 245
+Palashikar, G - T.A. 245
+Sharma, P - T.A. 245
+Ta, T - T.A. 245
+Wang, A - T.A. 245
+Zepeda, T - T.A. 245
+Amin, S - T.A. 250
+Boyle, T - T.A. 250
+Shilikbay, T - T.A. 250
+Smith-Bolton, R - 250, 540
+Yang, C - T.A. 250
+Zhang, C - T.A. 250
+Bai, L - T.A. 251
+Finn, A - T.A. 251
+Long, A - T.A. 251
+Mathure, S - T.A. 251
+Rashid, F - T.A. 251
+Ahmad, H - T.A. 252
+Chetlangia, N - T.A. 252, 253
+Rivier, D - 252
+Song, Y - T.A. 252
+Nawaz, A - T.A. 253
+Norcross, J - T.A. 301
+Llano, D - 314
+Bolton, E - 320
+Baker, N - T.A. 354
+Dionne, E - T.A. 354
+Riley, A - T.A. 354
+Christian-Hinman, C - 401
+Raetzman, L - 413, 580
+Mera, P - 431
+Brooke, C - 438
+Ma, H - 471
+Ceman, S - 474
+Imlay, J - 501, 580
+Sanfilippo, J - 501
+Brieher, W - 502
+Bagchi, I - 530
+Yang, J - 530
+Slauch, J - 540
+Nair, S - 555
+
+# Museum Studies
+Frankenberg, S - 200
+
+# Music
+Spennetta, R - 100
+De Souza Lumertz, D - T.A. 101
+Hoyos Gonzalez, F - T.A. 101, 107, 108
+Yeung, A - 101
+Carson, A - T.A. 107
+Grady, J - T.A. 107
+MacLeod, S - 121
+Modest, J - 128
+Mikeworth, R - T.A. 132
+Ortiz Vazquez, S - T.A. 132
+Miller, M - T.A. 133
+Shaffer, L - T.A. 133
+Smith, J - 133, 421
+Tong, S - T.A. 133
+Yaralian, A - T.A. 133
+Flores, R - 158
+Akers, J - T.A. 169
+Brewster, J - T.A. 169
+Jensen, C - T.A. 169
+Manfredo, A - T.A. 169
+Richards, V - T.A. 169
+Werner, E - T.A. 169
+Boyle, C - T.A. 201
+Goss, M - T.A. 201
+Siegle, G - T.A. 201
+Temsittichok, C - T.A. 201
+Sanchez Portuguez, G - 207
+Varga, P - T.A. 207
+Burdsall, S - T.A. 222
+Shungu, P - 240, 439
+Mullen, J - 243, 532
+Eagen-Jones, M - 313
+Sweet, B - 343
+Toler, K - T.A. 345
+Bayolo, A - 408, 502
+Brooks, L - 430
+Redman, Y - 430
+Gallo, D - 439, 449
+Bashford, C - 522, 528
+Graham, J - 561
+
+# Music Lessons and Ensembles
+Brooks, L - 105
+Burdsall, S - T.A. 105
+Davis, O - 105, 463
+Espinoza Portocarrero, C - T.A. 105
+Wigley, S - 105
+Freivogel, M - 110, 450
+Kjoniksen, F - T.A. 110
+Koo, S - 110
+Freivogel, L - 111
+Yeung, A - 114
+Flores, R - 130
+Graham, J - 130, 455
+Gaffey, A - T.A. 453
+Roman, N - 453
+Brown, E - T.A. 457
+Solya, A - 462, 464
+Coleman, B - 465
+Major, A - 465, 466
+MacLeod, R - 476
+Geraldi, K - 480
+Houser, B - 481, 487
+Fleming, K - 482
+Mondragon, A - T.A. 484
+Rudy, H - 484, 487, 489
+Kavelman, A - 487
+Serda, V - T.A. 492
+
+# NE
+Cvetkovic, C - 431
+
+# Natural Resources and Environ Sciences
+Ugarte Diaz, C - 100
+Kent, A - 102
+Ooi, S - 102
+Miller, J - 103
+Betz, A - 199
+Chochola, K - 199
+Leiter, P - 199
+Monroe, C - T.A. 201
+Zhou, K - T.A. 201
+Yannarell, T - 219
+Gross, J - T.A. 325
+Johnson, Z - T.A. 325
+Ward, M - 348
+McSweeney, K - 385
+Kamara, S - T.A. 409
+Suski, C - 409
+Edlund, H - T.A. 415
+Matthews, J - 415, 419
+Chaffee, R - T.A. 454
+Santiago, H - T.A. 454
+Stickley, S - 454
+Yu, Z - 482
+Arai, Y - 487
+Bloomer, C - 517
+Schooley, R - 594
+Van Doren, B - 598
+
+# Naval Science
+Hughes, D - 101
+
+# Nuclear, Plasma, & Rad Engr
+Huff, K - 100
+Meline, B - 100
+Kozlowski, T - 247
+Stubbins, J - 432
+Brooks, C - 449
+Roy, W - 481
+Novak, A - 501
+Curreli, D - 523
+
+# Nutritional Sciences
+Torrico, D - 500
+Swanson, K - 510
+Hartke, J - 581
+
+# Organizational and Community Leadership
+Carter, A - 116
+Floyd, A - 116
+Brooks, E - T.A. 260
+McFarland, C - T.A. 260
+Smist, J - 260, 480
+Botkin, H - 340
+Rosch, D - 425
+Brockett, J - 440
+
+# Philosophy
+Livengood, J - 100
+Lyu, H - T.A. 100
+Siena, K - T.A. 100
+Guo, J - T.A. 101
+Nowakowski, P - T.A. 101
+Thomas, D - T.A. 102
+Pierce, M - T.A. 103
+Reimer, R - T.A. 105
+Biondi, Z - 107, 421
+Sanders, K - 203
+Ackerman, J - T.A. 206
+Erlenbusch-Anderson, V - 219
+Kishida, K - 222
+Flynn, A - 380
+Saenz, N - 426
+Varden, H - 436
+
+# Physics
+Bogucki, R - T.A. 100
+Clarisse, N - T.A. 100
+Gifford, K - T.A. 100
+Kuo, E - 100
+Mamaril, C - T.A. 100
+Paghadal, A - T.A. 100
+Aguirre, S - T.A. 101
+Ansell, K - 101
+Collins, S - T.A. 101
+Das, I - T.A. 101
+De, R - T.A. 101
+Dorsey, G - T.A. 101
+Engblom, S - T.A. 101
+Gulian, E - T.A. 101
+Kush, D - T.A. 101
+Lopez, J - T.A. 101
+Mohammad Saad, - - T.A. 101
+Montaner, J - T.A. 101
+Pulugurtha, S - T.A. 101
+Ghadiri, N - T.A. 102
+Hayes, J - T.A. 102
+Mullen, E - T.A. 102
+Skye, C - T.A. 102
+Stratman, C - T.A. 102
+Xu, C - T.A. 102
+Ahmed, L - T.A. 211
+Baza, X - T.A. 211
+Bitcon, O - T.A. 211
+Blanchard, O - T.A. 211
+Bowden, N - T.A. 211
+Chakraborty, S - T.A. 211
+Chan, R - T.A. 211
+Farina, C - 211
+Gause, C - T.A. 211
+Girotti-Hernandez, D - T.A. 211
+Gunturu, R - T.A. 211
+Gupta, D - T.A. 211
+Jessica John Britto, - - T.A. 211
+Kaminska, J - T.A. 211
+Katta, S - T.A. 211
+Kelsey, J - T.A. 211
+Konakalla, S - T.A. 211
+Le, L - T.A. 211
+Lu, Z - T.A. 211
+Moriarty, J - T.A. 211
+Mueller, L - T.A. 211
+Nana, F - T.A. 211
+Nelson, M - T.A. 211
+O'Donnell, S - T.A. 211
+Qi, D - T.A. 211
+Quinn, A - T.A. 211
+Ribaudo, L - T.A. 211
+Richards, K - T.A. 211
+Robertson, M - T.A. 211
+Shi, K - T.A. 211
+Souza Ramos, V - T.A. 211
+Stelzer, T - 211
+Sun, H - T.A. 211
+Sutheeshnan, P - T.A. 211
+Woods, D - T.A. 211
+Yang, X - T.A. 211
+Baltasar Jimenez, S - T.A. 212
+Clarke, A - T.A. 212
+Ding, D - T.A. 212
+Fox, J - T.A. 212
+Goel, L - T.A. 212
+Gonzalez Buitrago, M - T.A. 212
+Hahm, J - T.A. 212
+Karikos, G - T.A. 212
+Kim, D - T.A. 212
+Kim, H - T.A. 212
+Kwiat, P - 212
+La Sage, T - T.A. 212
+O'Donnell, K - T.A. 212
+Pardoe, F - T.A. 212
+Rogers-Pastio, S - T.A. 212
+Scalioni Nardy Domingues, D - T.A. 212
+Schwoebel, A - T.A. 212
+Wang, E - T.A. 212
+Yin, S - T.A. 212
+Armond, S - T.A. 213, 214
+Arya, S - T.A. 213, 214
+Boyella, P - T.A. 213, 214
+Chow, C - T.A. 213
+Cohen, O - 213
+Cordeiro, I - T.A. 213, 214
+Danesh, K - T.A. 213, 214
+Figueroa, A - T.A. 213, 214
+Gupta, D - T.A. 213, 214
+Herrington, B - T.A. 213, 214
+Joshi, S - T.A. 213, 214
+Joshi, R - T.A. 213, 214
+Liu, A - T.A. 213
+Prokup, K - T.A. 213, 214
+Rosales, M - T.A. 213, 214
+Tanner, K - T.A. 213, 214
+Vyaghrambare, S - T.A. 213, 214
+Zhai, Y - T.A. 213, 214
+Mahmood, F - 214
+Wagner, L - 214
+Bedessem, J - T.A. 225
+McClure, D - T.A. 225
+Abboud, N - T.A. 325
+Okada Da Silva, H - 325
+Saha, S - T.A. 325
+Lundsgaard, M - 394
+Mahmood, M - 394
+Bezryadin, A - 403
+Burkova, I - 403
+Colla, E - 403
+Basani, P - T.A. 427
+Fajardo Montenegro, J - T.A. 435
+Clark, B - 446
+Filippini, J - 485
+Fota, R - T.A. 486
+Garmire, G - T.A. 486
+Pfaff, W - 486
+Cao, J - T.A. 487
+Shelton, J - 487
+Hughes, T - 496
+Raley, J - 496
+Abbamonte, P - 505
+Stone, M - 508
+Leite Noronha, J - 515
+Cooper, S - 596
+
+# Plant Pathology
+Lambert, K - 200
+
+# Polish
+Tkacz, g - T.A. 201
+
+# Political Science
+Datskovsky, M - T.A. 100
+Griffin, C - T.A. 100
+Kourtikakis, K - 100, 348, 385
+Pagan-Marquez, A - T.A. 100
+Yin, T - T.A. 100
+Henson, A - T.A. 101
+Nie, Q - T.A. 101
+Cho, H - T.A. 170
+Erlenbusch-Anderson, V - 170
+Hahm, J - T.A. 201
+Burton, M - T.A. 231
+Li, J - T.A. 241
+Seo, S - T.A. 241
+Kim, H - T.A. 244
+Prorok, A - 244
+Khoury, R - 250
+Siddika, R - T.A. 270
+Worrall, K - T.A. 270
+Cohen, E - 272
+Lee, J - T.A. 272
+Diehl, P - 300
+Uribe-McGuire, A - 301
+Steur, J - 304
+Norton, T - T.A. 305
+Mettler, M - T.A. 312
+Lewis, A - T.A. 315
+Howell, C - 321
+Ksiazkiewicz, A - 328, 519
+Un, P - T.A. 356
+Miller, B - 371
+Dai, X - 380
+Pauselli, G - 488
+Livny, A - 495
+
+# Portuguese
+Karam, J - 150
+Goebel, R - 400, 401, 404
+Pinto, M - T.A. 400
+
+# Professional Science Master's Program
+Bosecker, N - 501
+
+# Psychology
+Chen, T - T.A. 100
+Chism, S - T.A. 100
+Ding, Y - T.A. 100
+Galindo, M - T.A. 100
+Gomaa, A - T.A. 100
+Hegde, S - T.A. 100
+Howell, K - T.A. 100
+Islam, S - T.A. 100
+Marasli, Z - T.A. 100
+Nelson, H - T.A. 100
+Park, Y - T.A. 100
+Rogers, C - T.A. 100
+Rubenstein, S - T.A. 100
+Sabet, F - T.A. 100
+Sztajnkrycer, L - T.A. 100
+Tan, H - T.A. 100
+Tanenbaum, G - T.A. 100
+Walker, H - T.A. 100
+Yang, B - T.A. 100
+Zhang, C - T.A. 100
+Sims, S - 102
+Van Buer, L - 102
+Vermillion, B - 102
+Walsh, L - 102
+Wszalek, G - 102
+Wynn, N - 102
+Cho, M - T.A. 201
+Fluty, E - T.A. 201
+Nack, E - T.A. 201
+Sheibani Asl, H - T.A. 201
+Xu, V - T.A. 201
+Dolcos, S - 204
+Straka, B - 207
+Sherrill, L - 210
+Rizzo, M - 216, 496
+Lleras, A - 230
+Lleras Buetti, S - 230
+Le, T - T.A. 235, 490
+Man, Q - T.A. 235
+Neu Line, E - T.A. 235
+Govender, T - T.A. 238
+Hernandez, L - T.A. 238
+Nguyen, D - T.A. 238
+Palmiero, M - T.A. 238
+Richier, C - T.A. 238
+La, R - T.A. 239
+Zhang, Y - T.A. 245
+Conroy, K - T.A. 296
+Stern, C - 296
+Rios, K - 308
+Rodriguez Palacios, V - 312
+Mischkowski, D - 332
+Morales, A - T.A. 332
+Murphy, E - T.A. 332
+Rodrigues Fabretti, R - T.A. 332
+Sankar, H - T.A. 334
+Lyubansky, M - 339, 496
+Gagliano, E - T.A. 340
+Rivas, D - 340
+Schlesinger, R - 340
+Kurdi, B - 353
+Chao, T - T.A. 363
+Mei, J - T.A. 363
+Yu, Y - 363
+Gharavi Roudsari, E - T.A. 379
+Lu, Y - T.A. 379
+Todd, N - 379
+Sleiman Haidar, B - 396
+Steel, A - 403
+Derringer, J - 408
+Gulley, J - 413
+Liang, N - 417
+Rhodes, J - 433
+Wang, Y - T.A. 453
+Ratner, K - 465
+Glass, S - T.A. 468
+Du, L - T.A. 475
+Blanden, K - 496
+Haig, M - T.A. 498
+Hyde, D - 498
+Olshan, S - T.A. 500
+Tancredy, C - 500
+Kim, H - T.A. 506
+Koehn, H - 506
+Alexander, L - 530
+Roberts, B - 541
+Newman, D - 552, 598
+Travis, L - 570
+Simons, D - 593
+Xia, Y - 594
+Friberg, S - 598
+
+# Recreation, Sport and Tourism
+Liechty, T - 100
+Shinew, K - 100
+Tewari, K - T.A. 100, 120
+Schroeder, J - 101, 200, 238
+Santos, C - 118, 335
+Siskind, S - 118
+Fernandez, M - 120, 590
+Raycraft, M - 130
+Endres, R - 150, 240, 290
+Agate, S - 210, 440, 460
+Cho, S - T.A. 210
+Tucker, C - 216
+Janarthanan, R - T.A. 255
+Fesemyer, J - T.A. 260
+Woolf, J - 301
+Son, J - 316
+Russell, Z - T.A. 317
+Motoyama, S - T.A. 325
+Deterding, R - 340, 585
+Puddicombe, N - 340
+Emkes, K - 354
+Kim, S - T.A. 370
+Sato, M - 410
+Fredericks, J - 429
+Kluch, Y - 430
+Soulard, J - 450
+Stodolska, M - 501
+Mulvaney, M - 504, 512
+Inoue, Y - 519
+Berdychevsky Kustanovich, Y - 550
+
+# Religion
+Newman, A - 104
+Van Kanegan, N - T.A. 104
+Werkheiser, A - T.A. 104
+Saathoff, J - T.A. 110
+Warren, C - T.A. 110
+Watson, A - T.A. 110
+Rosenblatt, E - 120
+King, S - 134
+McKinnis, L - 234
+Tosato, A - 495
+
+# Rhetoric and Composition
+Barr, A - 101
+Becker, L - 101
+Flanagan, R - 101
+Furlong, M - 101
+Martin, C - 101
+McDuffie, K - 101
+Menendez, K - 101
+Williard, J - 101, 105
+Anthony, C - T.A. 105
+Belland, M - T.A. 105
+Canipe, J - 105
+Cearlock, S - T.A. 105
+Cloutier, S - T.A. 105
+Cottingham, M - 105
+Deshpande, A - T.A. 105
+Dickerson, C - 105
+Downey, S - T.A. 105
+Escamilla, I - T.A. 105
+Foley, D - T.A. 105
+Gaffney, K - 105
+Gaisie, F - T.A. 105
+Gilmore, S - 105
+Gupta, P - 105
+Hudek, B - 105
+Hurley, M - 105
+Infante, M - T.A. 105
+Irmisch, E - T.A. 105
+Johnson, C - 105
+Landes, B - T.A. 105
+Latham, C - T.A. 105
+Lee, J - T.A. 105
+Lindsey, M - 105
+MacLean, J - 105, 233
+McLeer, H - 105
+McVicker, Z - 105
+Mendoza, E - T.A. 105
+Metz, N - T.A. 105
+Mier, L - T.A. 105
+Morris, D - 105
+Murray, C - T.A. 105
+O'Brien, W - T.A. 105
+O'Sullivan, M - T.A. 105
+Odom, M - 105
+Oh, J - T.A. 105
+Pal, A - T.A. 105
+Paschal, A - T.A. 105
+Patel, V - T.A. 105
+Quintero, J - T.A. 105
+Ray, K - T.A. 105
+Rivera Lopez, M - T.A. 105
+Runkle, S - 105
+Sellers, J - 105
+Sen, A - T.A. 105
+Simon, Z - 105
+Stack, G - T.A. 105
+Sturvist, D - T.A. 105
+VanCalbergh, M - 105
+Vens, J - T.A. 105
+Villanueva, C - 105
+Weber, R - 105
+Zuniga, I - T.A. 105
+Luan, Q - T.A. 233
+Nyikos, D - 233
+
+# Russian
+Glukhova, M - T.A. 101
+Dzyadevych, T - 260
+Cooper, D - 322
+
+# Scandinavian
+Fam, M - T.A. 251
+Horsfall, W - 251, 305
+Ting, S - T.A. 251
+
+# School of Integrative Biology
+Zackery, F - T.A. 100
+Barley, T - T.A. 104
+Coulter, A - T.A. 104
+Hofmann, T - 104
+Guo, L - T.A. 108
+Cucalon Tamayo, R - T.A. 110
+Volin, N - T.A. 110
+Bielanski, J - T.A. 150
+Blaszynski, M - T.A. 150
+Clegg, B - 150, 199
+Dinh, Q - T.A. 150
+Fauziyah, S - T.A. 150
+Fernandez-Duque, F - T.A. 150
+Hernandez, C - T.A. 150
+Murray, H - T.A. 150
+Sani, D - T.A. 150
+Seabloom, A - T.A. 150
+Villalobos, M - T.A. 150
+Chen, W - T.A. 151
+Cloud, B - T.A. 151
+Goertz, I - T.A. 151
+Baranowski, H - T.A. 203
+Jehn, J - T.A. 203
+Ludden, C - T.A. 203
+O'Dwyer, J - 203
+Walker, A - T.A. 203
+Anderson, N - 204, 290, 360
+Chung, S - T.A. 204
+Cullum, S - T.A. 204
+Miller, T - T.A. 204
+Zhu, M - T.A. 204
+Weber, A - T.A. 230
+Bagazinski, A - T.A. 270
+Marks, R - 270
+Prayugo, V - T.A. 299
+Berger, A - T.A. 303
+Calvery, J - T.A. 303
+Colburn, M - T.A. 303
+Karatgi, R - T.A. 303
+McFarland, D - T.A. 360
+Caceres, C - 362
+Dalling, J - 372
+Otolski, L - T.A. 372
+Suratt, A - 372
+Wargin, A - T.A. 401
+Alleyne, M - 411
+Chen, Y - T.A. 411
+Spina, J - T.A. 411
+Suarez, A - 430
+Dominguez, J - T.A. 431
+Neumann, K - T.A. 431
+Hoppenworth, J - T.A. 462
+Clodfelter, E - T.A. 468
+Evangelista-Huaman, D - 468
+Fuller, B - 517
+Swanson, C - 592
+
+# School of Labor & Empl. Rel.
+Ashby, S - 100, 120
+LeRoy, M - 199, 522, 590
+Neighbors, B - 199
+Newman, D - 510
+Benton, R - 523, 569, 572
+Alexander, L - 527
+Park, Y - 536, 537
+Riordan, C - 542
+Weinstein, R - 546
+Mun, E - 554
+Schiller, B - 561
+Zhang, T - 561, 570
+Lagios, C - T.A. 562
+Restubog, S - 562
+Lamare, J - 565
+Jung, J - 566, 571
+Weaver, A - 568
+Cardador, T - 591
+Kramer, A - 591, 595
+Chen, C - T.A. 593
+Kim, S - T.A. 593
+Kim, N - T.A. 593
+Ogolsky, B - 593
+Zhang, B - 593
+
+# Slavic
+Tempest, R - 117
+Sobol, V - 452
+
+# Social Work
+Woodford, E - 101
+Earls Larrison, T - 200
+Keaton, A - 200
+Munoz-Najar, J - 220, 461
+Shelton, B - 240
+Balgopal, A - 297
+Chih, D - 297
+Coy, A - T.A. 300
+Decker-Tonnesen, P - 300
+Prather, C - 300
+Watkins, D - 300
+Wilcher, K - 300
+Adkins, E - 360
+Wilson Smith, C - 370
+Cintron, V - 400
+Cornell, K - 400
+McDonald, H - 400
+Harden, K - 401
+Miller, D - 402
+Dina, K - 403
+Okumu, M - 403, 542
+Anderson, S - 410
+Cho, H - 410
+Laursen, T - 410
+Lee, A - 410
+Wegmann, K - 410
+Ramirez, X - T.A. 412
+Gulbrandson-Andrews, H - 420
+Wade, R - 425, 552
+Fleming, C - 427
+Hernandez, R - 427
+Kim, H - 427
+Mahoney, J - 427, 506
+Yang, F - 427
+Zhan, M - 427
+Havlicek, J - 451
+Large, D - 451
+Stauffer, M - 461
+Rice, K - 470
+Cohen, F - 501
+Walbridge, J - 503
+Miebach, T - 505
+Hensold, K - 509
+Iverson, M - 510
+Wu, C - 520
+Escobar-Sawicki, C - 531
+Halcom, K - 531
+Bedient, M - 532
+Harms, J - 532
+Schultz, M - 542
+Hoang, T - 552
+Campbell, C - T.A. 561
+Causer, A - 589
+Kopels, S - 589
+Vermillion-Hennessey, V - 589
+
+# Sociology
+Chia, J - T.A. 100
+Chica Duque, F - T.A. 100
+Gonzalez, K - T.A. 100
+Jackson, B - 100
+Jobe, F - T.A. 100
+Karipek, Y - T.A. 100
+Karipek, A - T.A. 100
+Mansouri, S - T.A. 100
+Bircan Afsin, S - T.A. 101
+Dill, B - 161, 364
+Smith, M - 199
+Holmes, J - T.A. 200
+Wilkins, K - 200
+Soener, M - 226, 500
+Richardson, J - T.A. 310
+Steward, D - 350, 479
+Shin, S - T.A. 380
+Bayat, A - 470, 565
+Moussawi, G - 510
+May, R - 583
+
+# Spanish
+Dunphy, M - T.A. 101, 122
+Dutton, M - 101, 252
+Marszalik, K - T.A. 101
+Rodriguez, A - T.A. 101
+Miguel Huidobro, N - T.A. 102
+Cortum, K - T.A. 122
+Maison, S - T.A. 122
+Niesman, C - T.A. 122
+Pena Argueso, E - 122, 142, 310
+Perez-Astros, D - T.A. 122
+Quiroz, F - T.A. 122
+Rodriguez Munoz, E - T.A. 122, 303
+Sanchez Munoz, M - T.A. 122
+Yarrington, K - 122
+Canales, J - T.A. 130
+Garcia Ortega, B - T.A. 130
+Gonzalez-Gutierrez, M - T.A. 130
+Mendoza Seron, A - T.A. 130, 228
+Mora Moreno, S - T.A. 130
+Morales Perez, G - T.A. 130, 232
+Navarro Fernandez, S - T.A. 130, 141
+Olano Idoeta, I - T.A. 130, 142
+Olletey, S - T.A. 130
+Sanchez Ramirez, Y - T.A. 130
+Diez Taibo, H - T.A. 141, 208
+Gonzalez Quiroga, S - T.A. 141, 303
+Pantoja, A - T.A. 141, 308
+Garcia Marmolejo, D - T.A. 142, 208
+Martinez, R - T.A. 142, 228
+Pasetto Ovelar, K - T.A. 142
+Vilas Castro, C - T.A. 142, 228
+Rocha Martinez, U - T.A. 200
+Abbott, A - 202, 232
+Rose, M - T.A. 204, 305
+Castro Brizuela, C - T.A. 208
+Dowman, S - 228
+Garcia-Nunez, J - 228, 250
+Yang, E - T.A. 228, 254
+Henshaw, F - 308
+Trybulec, E - T.A. 308
+Torres-Cacoullos, A - 312, 320
+Perez Landa, E - T.A. 318
+Ferreira Teixeira, Y - 326
+Waner, A - 395
+Hualde, J - 430
+MacDonald, J - 432
+Delgado, R - 558
+
+# Special Education
+Carey, Y - 117
+Mattingly, S - T.A. 405
+Tarconish, E - 405
+Oh, J - 414
+Andrews, L - 418
+Ha, S - T.A. 444
+Schutz, M - 444
+Williams, C - 450
+Hardy, J - 465
+Harrington, E - 501
+Mason, E - 514, 517
+Miller, D - 590
+
+# Speech & Hearing Science
+Sone Charvat, B - 120
+Colon, I - 121, 221
+Bosley, B - T.A. 170
+Pucilowski, A - 170, 514
+Warnes, C - 191, 430
+Aronoff, J - 199
+Dramin Weiss, S - 221, 321
+Williams, L - 221
+Monson, B - 240
+Baby, E - T.A. 271
+Huang, K - T.A. 300
+Mendes Bahia, M - 300, 513
+Barkhimer, A - T.A. 320
+McKenna, M - 320
+Seremeth, J - 321
+Mertes, T - 375
+Channell, M - 391
+Hadley, P - 431, 592
+Fanta Alarcon, D - T.A. 433
+Angel, M - T.A. 450
+Mertes, I - 450
+Braun, S - 451
+Fogerty, D - 470
+Burie, A - 475
+Mudar, R - 535
+Husain, F - 558
+Bauer Malandraki, J - 572
+
+# Statistics
+Adeline, M - T.A. 107
+Bao, Y - T.A. 107
+Butler, N - T.A. 107
+Chen, E - T.A. 107
+Clark, J - T.A. 107
+Fagen-Ulmschneider, W - 107
+Flanagan, K - 107
+Hecht, T - T.A. 107
+Hermon, M - T.A. 107
+Hunnius, J - T.A. 107
+Jarrold, G - T.A. 107
+Ji, E - T.A. 107
+Khirwadkar, A - T.A. 107
+Korkmaz, M - T.A. 107
+Liang, Y - T.A. 107
+Littlefield, S - T.A. 107
+Saxsma, M - T.A. 107
+Tsiamalos, E - T.A. 107
+Vishnukumar Sarmini, s - T.A. 107
+Xu, T - T.A. 107
+Zhang, J - T.A. 107
+Anderson Bliss, J - 199
+Smith, A - 199
+Clement, K - 200
+Cheng, Y - T.A. 207
+Ghoshal, D - T.A. 207
+Hui, L - T.A. 207
+Jia, C - T.A. 207
+Kim, J - T.A. 207
+Lomasov, I - T.A. 207
+Santra, D - T.A. 207
+Thanvi, A - T.A. 207
+Findley, K - 212
+Biswas, A - T.A. 400
+Cui, H - T.A. 400
+Ju, H - T.A. 400
+Lee, Y - T.A. 400
+Peng, L - T.A. 400
+Tonks, A - T.A. 400
+Yu, A - 400, 420
+Zhuang, Y - T.A. 400
+Duan, W - T.A. 409
+Jia, W - 409, 426
+Liang, F - 410
+Stepanov, A - 410
+Zhang, S - 410
+Douglas, J - 425
+Simpson, D - 425
+Park, C - 426, 578
+Wang, S - 428, 525
+Bravo De Guenni, L - 430, 448
+Park, T - 431
+Lee, H - 432
+Zhu, R - 432, 546
+Ellison, T - 437
+Kinson, C - 440
+Glosemeyer, D - 443, 448
+Wang, Y - 480
+Chronopoulou, A - 510
+Kizildag, E - 553, 576
+
+# Strategic Brand Communication
+Raquel, S - 502
+
+# Swahili
+Maweu, D - 403
+
+# Systems Engineering and Design
+Shamma, J - 100
+Goldstein, M - 101, 402
+Guzman, N - T.A. 101
+Lee, B - T.A. 101
+Orozco, S - T.A. 101
+Ren, Z - T.A. 101
+Sapkota, T - T.A. 101
+Silbernagel, K - T.A. 101
+Etesami, S - 320
+Xu, C - T.A. 320
+Barich, J - 400
+Titone, T - 494
+
+# Technology Entrepreneur Ctr
+Jahnke, K - 100, 333, 510
+Kasdan, T - 200
+Thode, J - 250, 598
+Sharifironizi, M - 401
+Barich, J - 450
+Bivona, M - 466
+Chopra, S - 565, 567
+Lilly, B - 566
+
+# Theatre
+Hudson, T - T.A. 110, 260
+Landon, M - T.A. 110
+Morrissette, J - 110
+Jones, G - 121, 374
+Sturgis, N - 121, 404
+Miguens, M - 123
+Munoz, A - 170
+Pullen, K - 209, 304
+Miller, T - 211
+Spridco, J - 271, 371, 373
+Morgan, T - T.A. 304
+Pinholster, A - 364
+Downing, M - 372
+Curtis, K - 414
+Donley, A - 426
+Rainwater, C - 427
+Kidd, L - 435
+Murray, B - 437
+Kocher, C - 451
+Steinrock, Z - 473
+Bouck, A - 591
+
+# Theoretical and Applied Mechanics
+Ott-Monsivais, S - 201
+Golecki, T - 210, 211, 251
+Halloran, K - 210, 211
+Aziz, A - T.A. 211
+Bin Habib, S - T.A. 211
+Celebi, T - T.A. 211
+Cheng, L - T.A. 211
+Hausback, S - T.A. 211
+Huang, S - T.A. 211
+Lee, J - T.A. 211
+Lee, C - T.A. 211
+Riazi Bakhshayesh, P - T.A. 212
+Williams, C - T.A. 212
+Nazim, M - T.A. 251
+Salim, N - T.A. 251
+Wolfgram, Z - T.A. 251
+Anandakrishnan, A - T.A. 335
+Hoika, A - T.A. 335
+Lewis, I - T.A. 335
+Tang, K - 335
+Feng, J - 435
+Mercer, B - 470
+Hilgenfeldt, S - 541
+Sofronis, P - 551
+Fischer, P - 570
+
+# Translation Studies
+Yazeva, A - 508
+
+# Turkish
+Arzik Erzurumlu, O - 270
+
+# Ukrainian
+Khometa, O - 113
+
+# Urban & Regional Planning
+Merck, A - T.A. 101
+Rivera-Rogers, A - T.A. 101
+Shah, U - T.A. 101
+Sheikhfarshi, S - T.A. 101
+Bingham, S - T.A. 185
+Farah Rivadeneyra, I - 203
+Tejero, M - T.A. 203
+Edwards, M - 340
+Kowalski, R - 357
+Basnet, V - T.A. 406
+Braun, L - 430
+
+# Vet Clinical Medicine
+Barger, A - 636
+Lawrence, J - 656
+Blair, B - 672
+
+# Vet Med College-Wide Programs
+Adarsh Ram, A - T.A. 602
+Aktuna, S - T.A. 602
+Armstrong, M - 602
+Bunnell, M - T.A. 602
+Davila, J - 602
+Fagan, C - 602
+Flaws, J - 602
+Gritton, H - 602
+Ko, C - 602
+Lowery, T - 602
+Lynch, A - 602
+Madsen, L - 602
+Moran, C - 602
+Morris, M - T.A. 602
+Osei-Bonsu, J - T.A. 602
+Shukla, R - T.A. 602
+Sprandel, I - 602
+Wang, B - 602
+Zhou, J - T.A. 602
+Ziv-Gal, A - 602
+Connolly, S - 605
+Rosser, M - 605
+Varga, C - 605
+Vieson, M - 605
+Barger, A - 607
+Hoyer, L - 607
+Spinella, M - 607
+Wismer, T - 607
+Witola, W - 607
+Billhymer, A - 653

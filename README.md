@@ -5,7 +5,7 @@ This repository contains a collection of datasets I've found useful.  Many of th
 ## Available Datasets
 
 - [GPAs of Courses at The University of Illinois](gpa/), `gpa/uiuc-gpa-dataset.csv`
-- [Teachers Ranked as Excellent by their Students at UIUC](teachers-ranked-as-excellent/), `teachers-ranked-as-excellent/uiuc-tre-dataset.csv`
+- [Teachers Ranked as Excellent by their Students at UIUC](teachers-ranked-as-excellent/), `teachers-ranked-as-excellent/highly-ranked-instructors.csv`
 - [UIUC Courses by their General Education category](geneds/), `geneds/uiuc-geneds-dataset.csv`
 - [Students at The University of Illinois by their home state](students-by-state/), `students-by-state/uiuc-students-by-state.csv`
 - [UIUC Course Catalog](course-catalog/), `course-catalog/uiuc-course-catalog.csv`

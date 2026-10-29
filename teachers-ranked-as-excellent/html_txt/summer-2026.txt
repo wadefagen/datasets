@@ -1,0 +1,238 @@
+# Accountancy
+Zhang, L - 200
+Shapland, J - 202
+Zhang, Y - T.A. 301
+Li, X - T.A. 302
+Augusto Sampaio, G - 501
+Ibrahim, A - 501
+Curtis, S - 516
+Hutchens, M - 550, 554
+Kustanovich, M - 593
+
+# Advertising
+Sar, S - 281
+
+# Aerospace Engineering
+Gupta, R - 419
+
+# Anthropology
+Houkes, A - T.A. 180
+Reich, A - T.A. 246
+
+# Art--History
+Lyon, A - T.A. 299
+
+# Business Administration
+Baddam, S - 275
+Warnick, T - 300, 590
+Ji, M - 310
+Kim, M - 320
+Corredor Waldron, S - 544
+Somaya, D - 544
+Bradley, J - 551
+Anand, G - 567
+Liang, H - 567
+Moshref Javadi, M - 567
+Mukherjee, U - 567
+
+# Civil and Environmental Engineering
+Henschen, J - 469
+
+# Computer Science
+Braught, K - T.A. 173
+Alawini, A - 411
+Hart, J - 416
+Beckman, M - 421
+
+# Crop Sciences
+Klimasmith, I - 442
+
+# Curriculum and Instruction
+Lehrer, M - T.A. 424
+Wawire, P - T.A. 446
+Cyliax, L - T.A. 468
+Gutzmer, C - 471
+Dyer, E - 486
+Driscoll, K - 501
+Nelson, J - 550
+
+# Economics
+Buckley, B - 302, 415
+Dziuba, P - 420, 516
+Da Cunha Rodrigues, F - T.A. 475
+Agiakloglou, C - 504
+
+# Education Policy, Organization and Leadership
+Velazquez, M - 403
+Hrubec, D - 472
+Kang, H - T.A. 472
+Sung, J - 483
+Muga, M - T.A. 523, 553
+Ndumila, B - T.A. 523, 553
+Hwang, J - T.A. 556
+Tarconish, E - 556
+
+# Education Research and Methods
+Thorstensson Davila, L - 511
+
+# Educational Psychology
+Ellison Keeler, C - 199
+
+# Electrical and Computer Engineering
+Bhowmik, U - 120
+Schuh, J - 205
+Chen, X - 210
+Kudeki, E - 329
+
+# English as a Second Language
+Miszoglad, E - 504
+Cooper, L - 508
+Kotnarowski, J - 508
+Pennell, J - 508
+Dunse, A - 512
+Huang, J - 521
+Young, J - 525
+
+# Finance
+Almeida, H - 570
+Spencer, X - 570
+Zeume, S - 570
+Dolgopolov, V - 571
+Manouchehri Irani, R - 571
+Meisenzahl, R - 571
+
+# Food Science and Human Nutrition
+Gist, T - 101, 120
+Turasan Ozturk, H - 595
+
+# Gender and Women's Studies
+Smith, A - T.A. 378
+
+# German
+Kelsey, W - T.A. 103
+
+# Health and Kinesiology
+Clarke, C - 104
+
+# Illinois Informatics Institute
+McMahon, F - T.A. 303
+
+# Information Sciences
+Stier, Z - 423
+Diekman, L - 453
+Wong, M - 471, 501
+Ludaescher, B - 513, 537
+Mattson, K - 581
+Dankert, R - 582
+Myers, C - 585
+
+# Japanese
+Ai, M - T.A. 201
+Baxter, S - T.A. 201
+
+# Labor and Employment Relations
+LeRoy, M - 522
+Walsh, M - 531
+Lamare, J - 543, 565
+Sun, Y - 545
+
+# Mathematics
+Klajbor-Goderich, S - 241
+Manfroi, A - 285
+Walker, B - 444
+
+# MBA Program
+Raquel, S - 545
+Rindfleisch, A - 545
+Girndt-Clougherty, T - 547, 590
+Shavitt, S - 547
+Torelli, C - 547
+Loewenstein, J - 552
+Szymanski, M - 552
+Bradley, J - 590
+Corredor Waldron, S - 590
+Dolgopolov, V - 590
+Excell, R - 590
+Kink, D - 590
+Soman, S - 598
+Watkins, R - 598
+
+# Mechanical Engineering
+Tang, K - 400
+
+# Media and Cinema Studies
+Font Bas, V - 371
+
+# Music
+Smith, J - 133
+Gallo, D - 499
+Vecchio, M - 532
+
+# Physics
+Bolan Laracuente, K - T.A. 101
+
+# Psychology
+Holden, T - 248
+Lleras Buetti, S - 355
+
+# Recreation, Sport, and Tourism
+Siskind, S - 118
+Hardin, H - 485
+Mulvaney, M - 516
+
+# Rhetoric
+Rivera Lopez, M - T.A. 105
+
+# Social Work
+Casey, A - 400
+Harden, K - 400
+Laursen, T - 410
+Ramirez, X - T.A. 410
+Schultz, M - 410
+Shelton, B - 410
+Cintron, V - 451
+Cornell, K - 451, 502
+Hoang, T - 451
+Kingery, L - 451
+Perepa, E - 451
+Stauffer, M - 470
+Miebach, T - 505
+Adams, K - 531
+
+# Sociology
+Richardson, J - T.A. 100
+
+# Spanish
+Maison, S - T.A. 102
+Quiroz, F - T.A. 130
+Garcia Marmolejo, D - T.A. 142
+
+# Special Education
+Harrington, E - 438
+Tarconish, E - 514
+Andrews, L - 517
+
+# Speech and Hearing Science
+Huang, K - T.A. 320
+Gregg, B - 410
+Pucilowski, A - 571
+
+# Statistics
+Rao, V - 100
+Liu, H - T.A. 400, 463
+Unger, D - 400, 463
+Zhang, A - T.A. 400, 463
+
+# Strategic Brand Communication
+Mabry-Flynn, A - 510
+Sachdev, V - 511
+
+# Technology Entrepreneur Ctr
+Chopra, S - 565
+
+# Theoretical and Applied Mechanics
+Halloran, K - 212
+
+# Vet Clinical Medicine
+Aldridge, B - 507
+Aldridge, R - 507
