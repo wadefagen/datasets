@@ -10,7 +10,7 @@ The first row of the CSV file contains column headers. Every row after the first
 
 | Year | Term | YearTerm | Subject | Number | Course Title | Sched Type | A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F | W | Students | Primary Instructor |
 | ---- | ---- | -------- | ------- | ------ | ------------ | ---------- | -- | - | -- | -- | - | -- | -- | - | -- | -- | - | -- | - | - | -------- | ------------------ |
-| 2025 | Spring | 2025-sp | AAS | 100 | Intro Asian American Studies | LCD | 3 | 21 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 28 | Geng, Zhe |
+| 2026 | Spring | 2026-sp | AAS | 100 | Intro Asian American Studies | LCD | 13 | 3 | 3 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 22 | Le, Michelle |
 | ... |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 114 | 47 | 27 | 6 | 28 | 17 | 14 | 18 | 13 | 12 | 9 | 12 | 16 | 2 | 353 | Fagen-Ulmschnei, Wade A |
 | 2017 | Fall | 2017-fa | CS | 225 | Data Structures |  | 121 | 40 | 27 | 20 | 29 | 16 | 14 | 24 | 4 | 12 | 14 | 16 | 14 | 4 | 351 | Fagen-Ulmschnei, Wade A |
@@ -49,7 +49,7 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 
 | Year | Winter        | Spring       | Summer        | Fall         |
 | ---- | ------------- | ------------ | ------------- | ------------ |
-| 2026 | ✔ EP.25.072 | &mdash;      | &mdash;       | &mdash;       |
+| 2026 | ✔ EP.25.072 | ✔ EP.25.072 | ✔ EP.25.072 | &mdash;       |
 | 2025 | ✔ (25-491)*   | ✔ EP.25.072 | ✔ EP.25.072 | ✔ EP.25.072 |
 | 2024 | ✔ (24-438)   | ✔ (24-1690)  | ✔ (24-1690)  | ✔ (25-491 + 25-1781)   |
 | 2023 | ✔ (23-456)   | ✔ (23-1295)  | ✔ (23-1295)  | ✔ (24-438)   |
@@ -63,18 +63,26 @@ Based on analysis, courses with 20 or fewer students were excluded (the smallest
 | 2015 | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
 | 2014 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
 | 2013 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
-| 2012 | &mdash;^     | &mdash;       | ✔ (2016-456) | ✔ (2016-456) |
-| 2011 | &mdash;^     | ✔ (2016-456) | &mdash;       | ✔ (2016-456) |
+| 2012 | &mdash;^     | ✔ EP.25.072 | ✔ (2016-456) | ✔ (2016-456) |
+| 2011 | &mdash;^     | ✔ (2016-456) | ✔ EP.25.072 | ✔ (2016-456) |
 | 2010 | &mdash;^     | ✔ (2016-456) | ✔ (2016-456) | ✔ (2016-456) |
+| 2005-2009 | &mdash;^ | ✔ EP.25.072 | ✔ EP.25.072 | ✔ EP.25.072 |
 
 *: Data sources in the format `(##-###)` denote FOIA request identifiers.
 
 ^: University of Illinois did not have a winter term before Winter 2015.  Winter term semesters are labeled based on the year they end (ex: Winter 2022-2023 term is labeled as "Winter 2023", consistent with the Course Catalog).
 
-### Dataset Format Changes
+### Dataset Data and Format Changes
+
+#### October 29, 2026
+
+- Added data for Spring 2026 and Summer 2026
+- The new data access provided through EP 25.072 provided the previously unavailable data for Spring 2012, Summer 2021, and data from 2005-2009.
+
 
 #### March 25, 2026
 
+- Added data for Fall 2025 and Winter 2025/26
 - Data previously labeled as Spring 2012 was found to be a copy of Summer 2012 data and was incorrectly labeled as Spring 2012.  The incorrectly labeled data has been removed from the dataset. *(Huge thanks to Alex Koscielski for finding this!)*
 
 #### April 7, 2025
