@@ -3,39 +3,20 @@
 
 A collection of all courses offered by the University of Illinois, as found in the [Course Catalog](https://courses.illinois.edu/cisapp/explorer/catalog/DEFAULT/DEFAULT.xml).
 
-
-- [Fall 2026](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2026-fa.csv)
-- [Summer 2026](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2026-su.csv)
-
-- [Spring 2026](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2026-sp.csv)
-- [Fall 2025](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2025-fa.csv)
-
-- [Spring 2025](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2025-sp.csv)
-- [Fall 2024](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2024-fa.csv)
-
-- [Spring 2024](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2024-sp.csv)
-- [Spring 2023](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2023-sp.csv)
-
-- [Fall 2022](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2022-fa.csv)
-- [Spring 2022](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2022-sp.csv)
-
-- [Fall 2021](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2021-fa.csv)
-- [Spring 2021](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2021-sp.csv)
-
-- [Fall 2020](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2020-fa.csv)
-- [Spring 2020](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2020-sp.csv)
-
-- [Fall 2019](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2019-fa.csv)
-- [Spring 2019](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2019-sp.csv)
-
-- [Fall 2018](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2018-fa.csv)
-- [Spring 2018](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2018-sp.csv)
-
-- [Fall 2017](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2017-fa.csv)
-- [Spring 2017](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2017-sp.csv)
-
-- [Fall 2016](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2016-fa.csv)
-
+| Year | Spring | Summer | Fall |
+| ---- | ------ | ------ | ---- |
+| 2027 | [Spring 2027](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2027-sp.csv) | &mdash; | &mdash; |
+| 2026 | [Spring 2026](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2026-sp.csv) | [Summer 2026](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2026-su.csv) | [Fall 2026](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2026-fa.csv) |
+| 2025 | [Spring 2025](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2025-sp.csv) | [Summer 2025](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2025-su.csv) | [Fall 2025](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2025-fa.csv) |
+| 2024 | [Spring 2024](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2024-sp.csv) | [Summer 2024](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2024-su.csv) | [Fall 2024](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2024-fa.csv) |
+| 2023 | [Spring 2023](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2023-sp.csv) | [Summer 2023](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2023-su.csv) | [Fall 2023](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2023-fa.csv) |
+| 2022 | [Spring 2022](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2022-sp.csv) | [Summer 2022](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2022-su.csv) | [Fall 2022](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2022-fa.csv) |
+| 2021 | [Spring 2021](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2021-sp.csv) | [Summer 2021](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2021-su.csv) | [Fall 2021](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2021-fa.csv) |
+| 2020 | [Spring 2020](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2020-sp.csv) | [Summer 2020](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2020-su.csv) | [Fall 2020](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2020-fa.csv) |
+| 2019 | [Spring 2019](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2019-sp.csv) | [Summer 2019](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2019-su.csv) | [Fall 2019](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2019-fa.csv) |
+| 2018 | [Spring 2018](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2018-sp.csv) | [Summer 2018](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2018-su.csv) | [Fall 2018](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2018-fa.csv) |
+| 2017 | [Spring 2017](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2017-sp.csv) | [Summer 2017](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2017-su.csv) | [Fall 2017](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2017-fa.csv) |
+| 2016 | &mdash; | &mdash; | [Fall 2017](https://raw.githubusercontent.com/wadefagen/datasets/master/course-catalog/data/2017-fa.csv) |
 
 
 ## Data Format
