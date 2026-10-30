@@ -277,7 +277,7 @@ var run = async function(year, term, yearTerm, url, detailed = true) {
   }
 };
 
-if (process.argv < 2) {
+if (process.argv.length < 3) {
   console.log(`${process.argv[0]} ${process.argv[1]} <semester string>`);
 } else {
   let semString = process.argv[2];
@@ -296,10 +296,10 @@ if (process.argv < 2) {
 
   let term = semPieces[1].toLowerCase();
   switch (term) {
-    case "fa": term = "Fall"; break;
-    case "sp": term = "Spring"; break;
-    case "wi": term = "Winter"; break;
-    case "su": term = "Summer"; break;
+    case "fa": term = "fall"; break;
+    case "sp": term = "spring"; break;
+    case "wi": term = "winter"; break;
+    case "su": term = "summer"; break;
     default:
       console.error(`Semester string term is not valid (you provided: "${semPieces[1]}").`);
       process.exit(1);
