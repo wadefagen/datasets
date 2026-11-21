@@ -25,6 +25,7 @@ The first row of the CSV file contains column headers. Every row after the first
 3. [Grade disparity between sections at UIUC](http://waf.cs.illinois.edu/discovery/grade_disparity_between_sections_at_uiuc/)
 4. [GPA++](https://1010labs.org/gpa)
 5. ~~[Grade Distributions at UIUC](https://coursegrades.web.illinois.edu/)~~ Link Moved as of May 2026
+6. [Illini Scheduler](https://kamransingri.github.io/illini-scheduler/)
 
 *If you create a project with this dataset, I'd love to link it here!  Send a PR with your project added to this list!*
 
